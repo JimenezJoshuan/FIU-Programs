@@ -1,0 +1,473 @@
+1	| Cedric | him | He | his | his | his | Cedric | Cedric | Cedric | Cedric | he | Captain Cedric Errol | Cedric Errol | Captain Cedric | Captain Cedric | himself | Captain Cedric | Cedric | Cedric | he | he | His | Cedric | him | Cedric | he | him that he went to see him every day | he | him | him | Cedric | his | his | his | He | his | he | he | his | him | his | Cedric | Cedric | Cedric | his | he | his | Cedric | he | Cedric | himself | his | his | his | you | Cedric | Cedric | Cedric | Cedric | his | me | he | I | He | him in a dumfounded fashion | he | he | Cedric | 
+0	| the sentiment | 
+0	| himself | 
+0	| it | It | 
+0	| his papa | an Englishman , because his mamma had told him so | an Englishman | Englishman | his | his papa | he | he | him | he | his | his papa 's | his | him | his | his papa | my papa | his papa | his papa | his papa | his papa | 
+0	| some vague sympathy for their unhappy condition | it | 
+0	| their unhappy condition | 
+0	| his mamma | him | his mamma about him | his mamma | he | his | he | his | him | he | He | his mamma | his | he | his mamma | his | an orphan | his | his mamma | his mamma | his mamma | his | his mamma | his mamma | his mamma | him | 
+0	| just glory in it | It | 
+0	| little a boy | the little boy | his little boy | he | he | he | him | her little boy | his | he | he | he | he | he | he | he | her little boy | him | him | 
+0	| a bad lot | 
+0	| blue eyes and a long mustache | 
+0	| blue eyes | her eyes | her eyes | 
+0	| the midst of their conversation , when Mary appeared | 
+0	| a long mustache | 
+0	| their conversation , when Mary appeared | 
+0	| a splendid thing to be carried around the room on his shoulder | 
+0	| their conversation | 
+0	| the room on his shoulder | the room | it | 
+0	| his shoulder | his shoulder | his shoulder | 
+0	| some sugar | 
+0	| his papa 's death | 
+0	| best not to talk to his mamma about him | best of all | 
+0	| home , darlint , '' | she | her | 
+0	| his father | he | his | his father , telling of his love for the pretty American girl , and of his intended marriage | his father | his father | his father | his father 's | 
+1	| his mother | his mother | her | She | her | her | she | her that | her | her | her | her | hers | she | her | she | she | her | her | her | She | her | her | her | she | her | his mother | his mother | His mother | her | she | her | her | 
+0	| her chair | his chair | 
+0	| the window | the window | 
+0	| you | 
+0	| her pretty face | it | her face | it | her face | 
+0	| a dumfounded fashion | 
+0	| black | 
+0	| `` Dearest , '' | his | `` dearest | He | he | his | him | he | he | 
+0	| Dearest | my | Dearest | he | his | him | he | his | his | he | his | him | him | he | he | he | he | his | his | 
+0	| the matter , Mary | 
+0	| the matter | it | 
+0	| the hot weather | 
+0	| `` dearest , is my papa better | I | 
+0	| us | 
+0	| the sun given Dearest a headache | it | 
+0	| a headache | 
+0	| her arms | her arms | 
+0	| his curly head | his curly head | 
+0	| his own house | 
+0	| a coupe standing | 
+0	| the door and some one | 
+0	| something in it that made him feel that he was going to cry | 
+0	| the door | 
+0	| some one | 
+0	| the little parlor talking to his mamma | the parlor | 
+0	| his loving little heart | 
+0	| his best summer suit | it | 
+0	| the red scarf | 
+0	| his waist | 
+0	| both his arms | 
+0	| his curly locks | 
+0	| her neck | her neck | 
+0	| Lords , is it | Lords | Lords , indade -- worse luck | Lords | 
+0	| his soft cheek close | 
+0	| her say | 
+0	| `` An ' the nobility an ' gintry . | them | 
+0	| the nobility | 
+0	| an ' gintry | 
+0	| Och ! | he | his | he | he | he | 
+0	| indade -- worse luck | It | 
+0	| we -- we have no one | 
+0	| we | 
+0	| no one | 
+0	| each other | 
+0	| No one at all . '' | It | it | it | 
+0	| many questions | 
+0	| his big , handsome young papa would not come back any more | he | he | he | 
+0	| downstairs | 
+0	| A tall , thin old gentleman with a sharp face | His | he | The tall old gentleman | his | his | He | his | his | he | He | he | 
+0	| other people being , although he could not comprehend exactly what strange thing had brought all this sadness about | 
+0	| a sharp face | 
+0	| an arm-chair | 
+0	| a pale face | 
+0	| tears in her eyes | 
+0	| his mind it was better not to speak of him very often to her , and he found out , too , that it was better not to let her sit still and look into the fire or out of the window | his mind | 
+0	| the fire | the fire | 
+0	| a frightened , troubled way | 
+0	| Ceddie | 
+0	| Ceddie , darling ! '' | 
+0	| He and his mamma | 
+0	| very few people | people | 
+0	| his sharp eyes | 
+0	| very lonely lives | 
+0	| older | they | 
+0	| his thin chin | 
+0	| his bony hand | 
+0	| no visitors | 
+0	| last , slowly | 
+0	| the world | the world | 
+0	| last | 
+0	| this | 
+0	| little Lord Fauntleroy | 
+0	| a rich old lady who was not kind to her , and one day Captain Cedric Errol , who was calling at the house , saw her run up the stairs with tears on her eyelashes | they | their | them | 
+0	| a rich old lady who was not kind to her | the rich old lady 's | 
+0	| one day Captain Cedric Errol , who was calling at the house , saw her run up the stairs with tears on her eyelashes | 
+0	| Captain Cedric Errol , who was calling at the house | 
+0	| the house | 
+0	| the stairs | 
+0	| tears on her eyelashes | 
+0	| her eyelashes | 
+0	| the Captain | the Captain 's | the Captain | his | his | his | the Captain 's | The Captain | he | he | he | he | he | his | him | his | he | he | him | he | he | he | he | his | his | he | he | him | He | his | 
+0	| many strange things | 
+0	| each other | 
+0	| each other | 
+0	| their marriage | 
+0	| the ill-will of several persons | 
+0	| several persons | 
+0	| England | England | England | England | 
+0	| America | America | 
+0	| The one who was most angry of all | 
+0	| the Captain 's father , who lived in England , and was a very rich and important old nobleman , with a very bad temper and a very violent dislike to America and Americans | 
+0	| the Captain 's father | He | he | a member of such a great family | his | He | he | he | him | his | 
+0	| a very rich and important old nobleman , with a very bad temper and a very violent dislike | 
+0	| a very rich and important old nobleman | 
+0	| a very bad temper and a very violent dislike | 
+0	| a very bad temper | his temper | it | it | 
+0	| a very violent dislike | 
+0	| America and Americans | 
+0	| two | it | the law | it | 
+0	| two sons | these sons | 
+0	| the elder of these sons | 
+0	| the family title and estates , which were very rich and splendid | 
+0	| the family title and estates | 
+0	| the family title | 
+0	| estates | 
+0	| the eldest son | 
+0	| the next one | 
+0	| such a great family | she | his family | 
+0	| Nature | 
+0	| the youngest son gifts which she had not bestowed upon his elder brothers | 
+0	| his elder brothers | his elder brothers | them | they | boys at Eton | they | they | they | their | them | his brothers | their | 
+0	| one | 
+0	| a beautiful face and a fine , strong , graceful figure | 
+0	| a beautiful face | it | 
+0	| a fine , strong , graceful figure | 
+0	| a bright smile and a sweet , gay voice | 
+0	| a bright smile | 
+0	| a sweet , gay voice | 
+0	| the kindest heart in the world | 
+0	| the power to make every one love | 
+0	| neither of them | 
+0	| Eton | 
+0	| both time and money | that time | 
+0	| few real friends | friends | 
+0	| The old Earl , their father | 
+1	| The old Earl | their father | his | Earl | he | he | his | he | his | he | him | he | he | him | he | him | his | him | he | his | he | the Earl | he | his | he | his | he | he | His | 
+0	| his heir | his | 
+0	| no honor | It | 
+0	| his noble name | His name | 
+0	| a selfish , wasteful , insignificant man | 
+0	| no manly or noble qualities | 
+0	| no manly | 
+0	| noble qualities | 
+0	| third | third | 
+0	| the old Earl thought , that the son who was only third , and would have only a very small fortune | 
+0	| the old Earl thought | the one who had all the gifts , and all the charms , | the one who had all the gifts , and all the charms | 
+0	| the son who was only third , and would have only a very small fortune | 
+0	| only a very small fortune | 
+0	| the one who had all the gifts , and all the charms , and all the strength and beauty | 
+0	| the handsome young man | 
+0	| the good things which should have gone with the stately title and the magnificent estates | 
+0	| the stately title and the magnificent estates | 
+0	| the stately title | It | 
+0	| the magnificent estates | 
+0	| the depths of his proud , stubborn old heart | 
+0	| his proud , stubborn old heart | 
+0	| his proud | 
+0	| his youngest son | his son | he | him | his son | 
+0	| one of his fits of petulance | 
+0	| a while | 
+0	| his brothers , who were at that time giving him a great deal of trouble by their wild ways | 
+0	| a great deal of trouble | 
+0	| their wild ways | 
+0	| six months | six months | 
+0	| The letter he wrote | its | 
+0	| its way | way to it | 
+0	| a letter the Captain had just written to his father , telling of his love for the pretty American girl , and of his intended marriage | the Captain 's letter | the letter | 
+0	| his love for the pretty American girl | 
+0	| the pretty American girl | 
+0	| his intended marriage | 
+0	| his life | his life | his life | 
+0	| His valet , who was in the room when it came | 
+0	| His valet | his | he | he | he | his | him | his | his | He | him | he | he | he | he | his | he | his | he | 
+0	| his lordship | 
+0	| a fit of apoplexy | 
+0	| an hour | the hour | 
+0	| a tiger | 
+0	| his old home | 
+0	| his father or brothers | 
+0	| the beautiful home | 
+0	| his ill-tempered old father | 
+0	| his disappointments | 
+0	| no kindness | 
+0	| the future | the future | 
+0	| first | first | first | 
+0	| no business experience | 
+0	| courage and plenty of determination | 
+0	| New York | 
+0	| his commission | 
+0	| the English army | 
+0	| some trouble | 
+0	| a situation | 
+0	| The change from his old life in England | 
+0	| his old life in England | 
+0	| great things for him | 
+0	| a small house on a quiet street | 
+0	| a quiet street | the street | the quiet street | 
+0	| a simple way , that he was never sorry for a moment that he had married the rich old lady 's pretty companion just because she was so sweet | 
+0	| a simple way | 
+0	| a moment | 
+0	| the rich old lady 's pretty companion | she | her | she | She | her | her | 
+0	| both her and his father | 
+0	| so quiet and cheap a little home | 
+0	| a little | it | 
+0	| a more fortunate baby | 
+0	| one | 
+0	| second | 
+0	| one | 
+0	| the first place | 
+0	| the second place | 
+0	| so sweet a temper and ways so charming | 
+0	| so sweet a temper | 
+0	| ways so charming | 
+0	| a pleasure to every one | 
+0	| the third place | 
+0	| a picture | 
+0	| a bald-headed baby | he | he | he | he | he | his | his | He | his | him | he | his | he | his | he | he | his | his | he | he | his | his | him | he | his | he | His | his | he | himself | him | him | him | he | his | He | he | his | He | his | he | himself | he | he | his | he | he | his | his | his | he | he | He | his | he | his | he | his | he | He | he | he | he | he | I | me | I | me | me | me | me | I | 
+0	| a quantity of soft , fine , gold-colored hair , which curled up at the ends , and went into loose rings by the time he was six months old | 
+0	| the ends | 
+0	| loose rings | 
+0	| the time he was six months old | 
+0	| big brown eyes and long eyelashes and a darling little face | 
+0	| big brown eyes | the brown eyes | his eyes | 
+0	| long eyelashes and a darling little face | 
+0	| long eyelashes | 
+0	| a darling little face | 
+0	| so strong a back and such splendid sturdy legs , that at nine months he learned suddenly to walk | 
+0	| so strong a back and such splendid sturdy legs | 
+0	| a back | 
+0	| nine months | 
+0	| his manners | 
+0	| a baby , that it was delightful to make his acquaintance | 
+0	| a baby | a baby | her | her | her | her | her | she | her | 
+0	| his acquaintance | 
+0	| one | 
+0	| one | it | 
+0	| one | 
+0	| his friend | 
+0	| his carriage in the street | 
+0	| the stranger | 
+0	| one sweet , serious look with the brown eyes | 
+0	| a lovely , friendly smile | 
+0	| the consequence | 
+0	| a person in the neighborhood of the quiet street | he | him | him | 
+0	| the neighborhood of the quiet street | 
+0	| the groceryman | the groceryman , `` nobody cud help laughin ' | the groceryman | his | he come into my kitchen | he | he | ` I | he | 
+0	| the corner , who was considered the crossest creature alive | the corner | the corner | 
+0	| the crossest creature | 
+0	| one 's | 
+0	| his nurse | his nurse | 
+0	| a small wagon | 
+0	| a short white kilt skirt | 
+0	| a big white hat | his hat | 
+0	| his curly yellow hair | 
+0	| stories of the ladies who had stopped their carriages to look at and speak to him | stories | 
+0	| the ladies who had stopped their carriages to look at and speak to him | they | them | them | 
+0	| their carriages | 
+0	| their | 
+0	| his cheerful little way | 
+0	| His greatest charm | this cheerful , fearless , quaint little way of making friends with people | it | It | 
+0	| one | 
+0	| one | 
+0	| a very confiding nature , and a kind little heart that sympathized with every one , and wished to make every one as comfortable as he liked to be himself | 
+0	| a very confiding nature | 
+0	| a kind little heart that sympathized with every one , and wished to make every one as comfortable as he liked to be himself | his kind little heart | 
+0	| the feelings of those about him | 
+0	| those about him | those | 
+0	| this | them | 
+0	| his father and mother , who were always loving and considerate and tender and well-bred | 
+0	| his father and mother , who were always loving and considerate | 
+0	| his father and mother | 
+0	| tender and well-bred | 
+0	| well-bred | 
+0	| an unkind or uncourteous word spoken at home | 
+0	| his childish soul | 
+0	| kindness and innocent warm feeling | 
+0	| his mamma called by pretty , loving names | her | her | her | her | her | 
+0	| loving names | 
+0	| the thought that he must do what he could to make her happy | 
+0	| her happy | 
+0	| her knee | 
+0	| his toys and picture-books | 
+0	| her side | 
+0	| the sofa | 
+0	| a comfort | 
+1	| Mary | her | her | Mary | Mary | ` Mary , ' sez he , ` I 'm very much int ` rusted in the ` lection , ' sez he | Mary | Mary | ` Mary , ' sez | Mary | Mary | She | She | She | she | I | Mary | she | she | She | she | she | Mary | Mary | she | her | Mary | Mary | Mary | her | Mary | herself | 
+0	| her old servant | he | his | he | He | he | he | He | he | he | he | He | his | he | quite a little fellow | he | he | he | 
+0	| his innocent way | 
+0	| a loving | 
+0	| a little man | 
+0	| a great many quaint little ways which amused and interested people greatly | 
+0	| interested people | They | that | 
+0	| a companion for his mother | she | 
+0	| the hearth-rug , in the evening | 
+0	| the hearth-rug | 
+0	| the evening | 
+0	| big books such as older people | 
+0	| older people | 
+0	| even the newspaper ; and often at such times Mary , in the kitchen | 
+0	| such times | 
+0	| the kitchen | my kitchen | 
+0	| Mrs. Errol laughing with delight at the quaint things he said | 
+0	| the quaint things he said | 
+0	| nobody cud help laughin | 
+0	| the quare | 
+0	| little ways of him -- and his ould-fashioned sayin 's | my | me | I | a ` publican | an ' so is Dearest | a ` publican | I | the bist o ' dimmycrats | me | me | me | 
+0	| him -- and his ould-fashioned sayin 's | 
+0	| his ould-fashioned sayin 's | 
+0	| the noight | 
+0	| Prisident | 
+0	| shtand afore the fire | his | his | his | 
+0	| a pictur | 
+0	| his hands in his shmall pockets , an ' his innocent bit of a face | his hands | 
+0	| his shmall pockets , an | his shmall pockets | an | An | an | An | an | an | an | an | 
+0	| his innocent bit of a face | 
+0	| a face | 
+0	| a jedge | 
+0	| An ' sez he to me : ` Mary , ' sez he , ` I 'm very much int ` rusted in the ` lection , ' sez he . | 
+0	| sez he , ` I 'm very much int ` rusted in the ` lection , ' sez he | 
+0	| very much int ` rusted in the ` lection , ' sez he | 
+0	| the ` lection , ' sez he | 
+0	| the ` lection | 
+0	| sez he | 
+0	| Dearest | Dearest | he | he | his | his | him | his | his | his | he | 
+0	| you a ` publican , Mary | 
+0	| you | 
+0	| Sorra a bit , ' sez I | he | he | he | he | him | him | his | he | his | his | his | his | his | his | 
+0	| a bit | 
+0	| a look that ud go to yer heart , an ' sez he : ` Mary , ' sez | 
+0	| the country | the country | 
+0	| a day | the day | it | 
+0	| thin | 
+0	| widout argyin ' wid me to change me polytics | 
+0	| polytics | 
+0	| his father 's death | 
+0	| cook and housemaid | 
+0	| nurse and everything | 
+0	| his graceful , strong little body and his pretty manners | 
+0	| his graceful , strong little body | 
+0	| his pretty manners | 
+0	| the bright curly hair which waved over his forehead and fell in charming love-locks on his shoulders | 
+0	| his forehead | his forehead | 
+0	| charming love-locks | them | 
+0	| his shoulders | 
+0	| his small suits | 
+0	| Ristycratic | it | 
+0	| Fifth | 
+0	| `` Faith , an | 
+0	| `` Faith | 
+0	| the choild | him an | himself | 
+0	| looks | 
+0	| handsome as himself | 
+0	| An ' ivvery man , woman , and choild lookin ' afther him in his bit of a black velvet skirt made out of the misthress 's ould gownd ; an ' his little head up , an ' his curly hair flyin ' an ' shinin ' | 
+0	| choild lookin | him in his bit of a black velvet skirt made out of the misthress 's ould gownd ; an ' his little head up , an ' his curly hair flyin ' an ' shinin ' | his | his | his | 
+0	| his bit of a black velvet skirt made out of the misthress 's ould gownd ; an ' his little head up , an ' his curly hair flyin ' an ' shinin ' | It | loike a young lord he looks | 
+0	| a black velvet skirt made out of the misthress 's ould gownd ; an ' his little head up , an ' his curly hair flyin ' an ' shinin | 
+0	| out of the misthress 's ould gownd ; an ' his little head up , an ' his curly hair flyin ' an ' shinin | 
+0	| the misthress 's ould gownd ; an | 
+0	| the misthress 's | the misthress | wantin ' yez | 
+0	| his little head up , an | 
+0	| his little head up | her head | 
+0	| his curly hair flyin ' an | 
+0	| a young lord | he | a young lord | 
+0	| a lord | 
+0	| His greatest friend | the groceryman at the corner -- the cross groceryman , who was never cross to him | the cross groceryman , who was never cross to him | the cross groceryman | him | His | He | him | he | his | he | 
+0	| Hobbs | Hobbs | Hobbs | I | I | I | my | he | he | his | 
+1	| Mr. Hobbs | Mr. Hobbs | Mr. Hobbs | he | he | Mr. Hobbs who gave him his first interest in politics | Mr. Hobbs | Mr. Hobbs | him | he | Mr. Hobbs | him | Mr. Hobbs | Mr. Hobbs | Mr. Hobbs | Mr. Hobbs | Mr. Hobbs | Mr. Hobbs | 
+0	| a very rich and powerful person | 
+0	| so many things in his store , -- prunes and figs and oranges and biscuits | 
+0	| his store | the store | 
+0	| prunes and figs and oranges and biscuits | 
+0	| prunes and figs | 
+0	| oranges and biscuits | 
+0	| a horse and wagon | 
+0	| a horse | 
+0	| the milkman and the baker and the apple-woman | they | they | 
+0	| the milkman | 
+0	| the baker and the apple-woman | 
+0	| the baker | 
+0	| the apple-woman | 
+0	| terms of such intimacy | 
+0	| a long time | 
+0	| the topics of the hour | 
+0	| July | July | 
+0	| the Fourth of July | it | 
+0	| no end | 
+0	| Revolutionary | 
+0	| a very bad opinion of `` the British | 
+0	| the British | 
+0	| the whole story of the Revolution | 
+0	| the Revolution | 
+0	| very wonderful and patriotic stories | 
+0	| the villainy of the enemy and the bravery of the Revolutionary heroes | 
+0	| the villainy of the enemy | 
+0	| the enemy | 
+0	| the bravery of the Revolutionary heroes | 
+0	| the Revolutionary heroes | 
+0	| part of the Declaration | 
+0	| the Declaration | 
+0	| his cheeks | 
+0	| his curls | 
+0	| a yellow | 
+0	| his dinner | 
+0	| his first interest in politics | 
+0	| politics | 
+0	| Washington | 
+0	| the newspapers | 
+0	| a great deal | 
+0	| the President | his | 
+0	| his duty | 
+0	| an election | it | this election | 
+0	| Mr. Hobbs and Cedric | 
+0	| Mr. | 
+0	| a great torchlight procession | It | 
+0	| many of the men who carried torches | his | his | 
+0	| the men who carried torches | 
+0	| torches | 
+0	| a stout man who stood near a lamp-post and held on his shoulder a handsome little shouting boy , who waved his cap in the air | 
+0	| a lamp-post | 
+0	| a handsome little shouting boy , who waved his cap in the air | 
+0	| boy , who waved his cap in the air | 
+0	| his cap | 
+0	| the air | 
+0	| seven | 
+0	| between seven and eight years | 
+0	| the very strange thing | 
+0	| so wonderful a change | 
+0	| quite curious | It | a hot morning | that | the way they go on now | it | It | it | 
+0	| Mr. Hobbs about England and the Queen | 
+0	| England and the Queen | 
+0	| the Queen | 
+0	| some very severe things about the aristocracy | 
+0	| the aristocracy | 
+0	| earls and marquises | earls and marquises | earls | earls | 
+0	| Illustrated London News | 
+0	| soldiers | they | they | they | 'em | they | 
+0	| some friends of his | 
+0	| Mr. Hobbs looking very fierce over a piece of the Illustrated London News , which contained a picture of some court ceremony | 
+0	| a piece of the Illustrated London News , which contained a picture of some court ceremony | 
+0	| the Illustrated London News , which contained a picture of some court ceremony | 
+0	| the Illustrated London News | 
+0	| a picture of some court ceremony | 
+0	| some court ceremony | 
+0	| now | 
+0	| some day | 
+0	| rise and blow | 
+0	| sky-high | 
+0	| earls and marquises and all | 
+0	| the high stool | his stool | 
+0	| his pockets in delicate compliment | 
+0	| many marquises , Mr. Hobbs | 
+0	| many marquises | 
+0	| , -- `` or earls | 
+0	| one of 'em | 
+0	| here ; that 's all | 
+0	| no grasping tyrants sittin ' ` round on my cracker-barrels | they | they | their | they | `` They | 'em | They | They | their | 
+0	| ` round on my cracker-barrels | 
+0	| my cracker-barrels | 

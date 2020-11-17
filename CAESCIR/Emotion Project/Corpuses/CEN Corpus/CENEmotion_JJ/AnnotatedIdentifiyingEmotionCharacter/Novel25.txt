@@ -1,0 +1,576 @@
+1	| MR. UTTERSON | his | his | his | his | He | himself | he | he | he | I | he | I | my | Mr. Utterson ; for he was undemonstrative at the best | his | his | Mr. Utterson | Utterson | I | my | I | I | I | my | my | me | me | I | my | me | my | I | I | I | I | I | I | my | I | my | I | myself | myself | my | I | myself | I | Mr. Utterson | you | Mr. Utterson | I | I | I | Mr. Utterson | Utterson | I | Mr. Utterson | I | I | yet I | I | I | I | I | I | I | Mr. Utterson | he | Utterson ; `` I know it must seem strange | Mr. Utterson | he | I | my | evening Mr. Utterson | his | his | his | he | his | he | his | Mr. Utterson , though he took charge of it now that it was made | Mr. Utterson | Utterson | he | Mr. Utterson | Utterson | he | his | him | Utterson | I | Mr. Utterson | he | He | his | his | he | you | he | Mr. Utterson 's | he | him | his | he | his | He | he would see a room in a rich house , where his friend lay asleep , dreaming and smiling at his dreams ; and then the door of that room would be opened , the curtains of the bed plucked apart , the sleeper recalled , and lo | his | his | he | 
+0	| the lawyer | a man of a rugged | the lawyer 's | the lawyer | the lawyer | the lawyer | I | I | my | the lawyer | I | the lawyer 's | him | his | his | his | he | his | I | he | he | I | he | his | his | he | the man | the lawyer | his | I | he | I | I | I | I | the man | the lawyer | him | he | his | the lawyer | he | he | his | him | his | the lawyer 's | he | him | he | 
+0	| a rugged | that | 
+0	| a smile ; cold , scanty and embarrassed in discourse | 
+0	| sentiment ; lean , long , dusty | 
+0	| the great , dark bed on which he tossed to and fro , until the small hours of the morning began to grow large | the bed | 
+0	| lean , long , dusty | 
+0	| friendly meetings | 
+0	| the small hours of the morning | 
+0	| the wine | its | his wine | 
+0	| his taste | 
+0	| a night of little ease | 
+0	| something eminently human | 
+0	| his toiling mind , toiling in mere darkness | 
+0	| his eye ; something | 
+0	| his toiling mind | toiling in mere darkness | 
+0	| its way | 
+0	| his talk | 
+0	| Six | it | 
+0	| the bells of the church that was so conveniently near to Mr. Utterson 's dwelling | 
+0	| these silent symbols of the after-dinner face | 
+0	| the church that was so conveniently near to Mr. Utterson 's dwelling | 
+0	| the after-dinner face | 
+0	| Mr. Utterson 's dwelling | 
+0	| the acts | 
+0	| his life | 
+0	| digging at the problem | 
+0	| one | 
+0	| the problem | 
+0	| gross | 
+0	| a taste for vintages | 
+0	| the intellectual side | his side | 
+0	| vintages | 
+0	| his imagination | 
+0	| the theatre | 
+0	| the doors of one | 
+0	| the gross darkness of the night and the curtained room | 
+0	| twenty years | 
+0	| the night and the curtained room | 
+0	| an approved tolerance for others | 
+0	| the curtained room | that room | 
+0	| others | their | 
+0	| Mr. Enfield 's tale | 
+0	| the high pressure of spirits involved in their misdeeds | 
+0	| spirits involved in their misdeeds | 
+0	| his mind in a scroll of lighted pictures | 
+0	| their misdeeds | 
+0	| a scroll of lighted pictures | 
+0	| Cain 's | 
+0	| lighted pictures | 
+0	| Cain 's heresy | 
+0	| the great field of lamps of a nocturnal city ; then of the figure of a man walking swiftly ; then of a child running from the doctor 's ; and then these | 
+0	| lamps of a nocturnal city | 
+0	| a nocturnal city | 
+0	| my brother | his | 
+0	| then of the figure of a man walking swiftly | 
+0	| the figure of a man walking swiftly | 
+0	| the devil | 
+0	| a man walking swiftly | 
+0	| his own way | 
+0	| then of a child running from the doctor 's | 
+0	| a child running from the doctor 's | 
+0	| this character | his | his | he | his | he | 
+0	| his fortune to be the last reputable acquaintance and the last good influence in the lives of down-going men | 
+0	| the last reputable acquaintance and the last good influence in the lives of down-going men | 
+0	| her screams | 
+0	| the last reputable acquaintance | 
+0	| the last good influence in the lives of down-going men | 
+0	| the lives of down-going men | 
+0	| a room in a rich house , where his friend lay asleep , dreaming and smiling at his dreams ; and then the door of that room would be opened , the curtains of the bed plucked apart , the sleeper recalled , and lo | 
+0	| down-going men | 
+0	| a room in a rich house , where his friend lay asleep , dreaming and smiling at his dreams ; and then the door of that room would be opened , the curtains of the bed plucked apart , the sleeper recalled | 
+0	| such as these | 
+0	| a rich house , where his friend lay asleep , dreaming and smiling at his dreams ; and then the door of that room would be opened , the curtains of the bed plucked apart , the sleeper recalled | 
+0	| these | they | these | 
+0	| a rich house | 
+0	| his chambers | my chambers | 
+0	| his dreams | his dreams | 
+0	| a shade of change | 
+0	| the door of that room | 
+0	| his demeanour | 
+0	| the curtains of the bed | 
+0	| the feat | It | 
+0	| the sleeper | 
+0	| the best | 
+0	| his friendship | 
+0	| a figure to whom power was given | 
+0	| that dead hour | its | 
+0	| a similar catholicity of good-nature | 
+0	| its bidding | 
+0	| the mark of a modest man to accept his friendly circle ready-made from the hands of opportunity | 
+0	| a modest man to accept his friendly circle ready-made from the hands of opportunity | His | his | he | his | him | his | 
+0	| his friendly circle | that | the lawyer 's way | their way | it | this way | my way | the way | it | 
+0	| The figure in these two phases | it | it | 
+0	| these two phases | 
+0	| the hands of opportunity | hands | that | 
+0	| His friends | those of his own blood or those whom he had known the longest | those of his own blood | those whom he had known the longest | they | 
+0	| sleeping houses | 
+0	| wider labyrinths of lamplighted city | 
+0	| a child | her | 
+0	| his own blood | 
+0	| no face by which he might know it | no face | 
+0	| the longest | 
+0	| his affections | 
+0	| the growth of time | 
+0	| time | my time | That | the amount of information | It | 
+0	| no face , or one that baffled him and melted before his eyes | 
+0	| no aptness | 
+0	| one that baffled him and melted before his eyes | 
+0	| the object | 
+1	| Richard Enfield | his distant kinsman , the well-known man | his distant kinsman | the well-known man | Mr. Enfield | Enfield | his | Mr. Enfield : `` I was coming home from some place at the end of the world , about three o'clock of a black winter morning , and my way lay through a part of town where there was literally | I | I | Mr. Enfield | my | I | I | he | you | Mr. Enfield | I | Mr. Enfield | my | Enfield | Enfield | Mr. Enfield , `` I ca n't see what harm it would do | Mr. Enfield | Enfield | I | Enfield | Mr. Enfield 's | 
+0	| his eyes | eyes | 
+0	| no doubt , the bond that | 
+0	| no doubt | 
+0	| the bond that | 
+0	| the lawyer 's mind | 
+0	| Mr. Richard Enfield , his distant kinsman , the well-known man | 
+0	| a singularly strong , almost an inordinate , curiosity to behold the features of the real Mr. Hyde | 
+0	| Mr. Richard Enfield | 
+0	| an inordinate | 
+0	| the features of the real Mr. Hyde | 
+0	| a nut to crack for many , what these two could see in each other , or what subject | It | 
+0	| many , what these two could see in each other | 
+0	| many | they | them | their | they | 
+0	| the mystery | 
+0	| these two | two | It | it | it | Two | its | It | two | two | the two | It | It | it | these two | two | two | 
+0	| the habit of mysterious | 
+0	| each other | 
+0	| mysterious | 
+0	| common | 
+0	| those who encountered them in their Sunday walks , that they said nothing , looked singularly dull , and would hail with obvious relief the appearance of a friend | 
+0	| their Sunday walks | Sunday | it | its | its | its | 
+0	| the appearance of a friend | his appearance | his appearance | 
+0	| a friend | our friend and myself | our friend | 
+0	| the two men | them | they | them | their | them | 
+0	| the greatest store | 
+0	| these excursions | 
+0	| the chief jewel of each week | 
+0	| each week | 
+0	| aside occasions of pleasure | 
+0	| the calls of business | 
+0	| London | London | 
+0	| one of these rambles | 
+0	| a by-street in a busy quarter of London | the by-street | 
+0	| a busy quarter of London | 
+0	| The street | the street | the street | Street after street , and all the folks asleep -- street after street | Street after street | street after street | Queer Street | 
+0	| a thriving trade on the week-days | 
+0	| the week-days | 
+0	| The inhabitants | their | 
+0	| better | 
+0	| the surplus of their gains | 
+0	| their gains | 
+0	| the shop fronts | 
+0	| that thoroughfare | 
+0	| an air of invitation | 
+0	| rows of smiling saleswomen | 
+0	| smiling saleswomen | 
+0	| its more florid charms | 
+0	| its dingy neighbourhood | 
+0	| a fire in a forest ; and with its freshly painted shutters , well-polished brasses , and general cleanliness and gaiety of note , instantly caught and pleased the eye of the passenger | the fire , a volume of some dry divinity on his reading-desk | the fire | a volume of some dry divinity on his reading-desk | 
+0	| a forest | 
+0	| its freshly | 
+0	| shutters , well-polished brasses , and general cleanliness and gaiety of note | 
+0	| shutters | 
+0	| well-polished brasses | 
+0	| the eye of the passenger | his eye | the eye | 
+0	| the passenger | 
+0	| one | 
+0	| Two doors from one corner | 
+0	| one corner | the corner | 
+0	| the left hand going east | 
+0	| the line | 
+0	| the entry of a court | the entry | 
+0	| a court | 
+0	| that point , a certain sinister block of building thrust forward its gable on the street | 
+0	| that point | a certain sinister block of building thrust forward its gable on the street | 
+0	| building thrust forward its gable on the street | 
+0	| its gable on the street | 
+0	| two stories | 
+0	| no window , nothing but a door on the lower story and a blind forehead of discoloured wall on the upper | 
+0	| no window | 
+0	| a door on the lower story | 
+0	| the lower story | 
+0	| a blind forehead of discoloured wall on the upper | 
+0	| discoloured wall on the upper | 
+0	| the upper | 
+0	| the marks of prolonged and sordid negligence | 
+0	| The door , which was equipped with neither bell nor knocker | The door | the door | the door | the door | 
+0	| neither bell nor knocker | 
+0	| neither bell | 
+0	| Tramps | 
+0	| the recess | 
+0	| matches | 
+0	| the panels | 
+0	| children | 
+0	| the steps | 
+0	| the schoolboy | his | 
+0	| his knife | 
+0	| the mouldings | 
+0	| close on a generation | 
+0	| a generation | 
+0	| no one | 
+0	| these random visitors | their | 
+0	| their ravages | 
+0	| Mr. Enfield and the lawyer | they | 
+0	| the other side of the by-street | 
+0	| abreast of the entry | 
+0	| the former | 
+0	| his cane | 
+0	| you | he | his | my | 
+0	| his companion | he | 
+0	| the affirmative | It | 
+0	| my mind | his mind | your mind | his mind | 
+0	| a very odd story | my story | 
+0	| Mr. Utterson , with a slight change of voice , `` and what was that | 
+0	| a slight change | 
+0	| some place at the end of the world , about three o'clock of a black winter | 
+0	| the end of the world , about three o'clock | there you might have supposed | an end to it | it | 
+0	| the world | 
+0	| three o'clock | three | three | 
+0	| a black winter | 
+0	| morning | the morning | the morning | 
+0	| a part of town | 
+0	| lamps | 
+0	| a procession | 
+0	| empty as a church | 
+0	| a church | 
+0	| last | last | last | it | 
+0	| that state of mind | 
+0	| a man | a man | a man | my man | his | a man | he | He | his | 
+0	| long | 
+0	| the sight of a policeman | 
+0	| a policeman | 
+0	| one | 
+0	| eight | 
+0	| ten | 
+0	| two figures : one a little man who was stumping along eastward at a good walk , and the other a girl of maybe eight or ten who was running as hard as she was able down a cross street | 
+0	| two figures : one a little man who was stumping along eastward at a good walk | 
+0	| one a little man who was stumping along eastward at a good walk | 
+0	| a little | 
+0	| a good walk | 
+0	| the other a girl of maybe eight or ten who was running as hard as she was able down a cross street | the girl 's | 
+0	| maybe eight or ten who was running as hard as she was able down a cross street | 
+0	| she | 
+0	| a cross street | 
+0	| sir , the two | 
+0	| one another | 
+0	| then | her | 
+0	| the horrible part of the thing ; for the man trampled calmly over the child 's body | 
+0	| the thing | 
+0	| the man trampled calmly over the child 's body | 
+0	| the child 's body | 
+0	| the child 's | the child | the child 's | the child 's | the child 's | the child | the child | her | 
+0	| the ground | 
+0	| some damned Juggernaut | 
+0	| some | 
+0	| a view-halloa | him | He | 
+0	| my heels | 
+0	| my gentleman | my gentleman | No gentleman | he | him | he | he | he | my gentleman | he | he | 
+0	| quite a group about the screaming child | 
+0	| the screaming child | 
+0	| one | 
+0	| no resistance | it | 
+0	| one look | 
+0	| the sweat on me | 
+0	| The people who had turned out | 
+0	| the girl 's own family | she | 
+0	| the doctor , for whom she had been sent | the doctor | his | the doctor 's | He | he | he | his | he | his | he | he | him | the doctor | the doctor 's | the doctor , flushing suddenly purple | 
+0	| the Sawbones | Sawbones | him | 
+0	| you | you | your | you | your | you | 
+0	| one | 
+0	| one curious circumstance | 
+0	| first | first | 
+0	| a loathing | 
+0	| the child 's family , which was only natural | the child 's family | the child 's family | the family | 
+0	| the doctor 's case | 
+0	| Edinburgh | 
+0	| the usual cut-and-dry apothecary , of no particular age and colour , with a strong Edinburgh accent , and about as emotional as a bagpipe | 
+0	| the usual cut-and-dry apothecary , of no particular age and colour , with a strong Edinburgh accent | 
+0	| the usual cut-and-dry apothecary , of no particular age and colour | 
+0	| the usual cut-and-dry apothecary | 
+0	| no particular age and colour | 
+0	| a strong Edinburgh accent | 
+0	| emotional as a bagpipe | 
+0	| a bagpipe | 
+0	| the rest of us ; every time he looked at my prisoner , I saw that Sawbones turn sick and white with the desire to kill him | 
+0	| us | we | We | we | we | we | we | we | 
+0	| my prisoner | 
+0	| the desire to kill him | 
+0	| the question | 
+0	| the next | 
+0	| one | 
+0	| the man we could and would make such a scandal out of this , as should make his name stink from one end of London to the other | them | 
+0	| such a scandal | it | 
+0	| this , as should make his name stink from one end of London to the other | 
+0	| this | 
+0	| his name | 
+0	| one end of London | 
+0	| the other | the other , with a touch of sullenness | the other | it | 
+0	| red hot | 
+0	| the women | they | 
+0	| best we could , for they were as wild as harpies | 
+0	| harpies | 
+0	| a circle of such hateful faces ; and there was the man in the middle , with a kind of black , sneering coolness -- frightened too | it | 
+0	| such hateful faces | 
+0	| the man in the middle | he | 
+0	| the middle | 
+0	| a kind of black , sneering coolness | 
+0	| that -- but carrying it off , sir , really | 
+0	| Satan | 
+0	| this accident | 
+0	| a scene | 
+0	| your figure | The figure | that | the figure | it | it | it | 
+0	| we | us | us | 
+0	| something about the lot of us that meant mischief | 
+0	| the lot of us | 
+0	| The next thing | 
+0	| the money ; and where do you think he carried us but to that place with the door ? | 
+0	| that place with the door | 
+0	| Coutts 's | 
+0	| a key | it | it | a name at least very well known and often printed | a key | a key | it | it | 
+0	| the matter of ten pounds in gold and a cheque for the balance on Coutts 's , drawn payable to bearer and signed with a name that I ca n't mention , though it 's one of the points of my story , but it was a name at least very well known and often printed | 
+0	| a cheque for the balance on Coutts 's | 
+0	| the balance on Coutts 's | 
+0	| a name | their name | 
+0	| one of the points of my story | 
+0	| the signature | it | 
+0	| more than that | 
+0	| the liberty of pointing out to my gentleman that the whole business looked apocryphal , and that a man does not | it | 
+0	| the whole business | 
+0	| a cellar door at four | 
+0	| four | 
+0	| another man 's cheque for close | the cheque | The cheque | it | a bad story | the cheque | it | the cheque | 
+0	| another man 's | 
+0	| the banks | 
+0	| cash the cheque | 
+0	| we | our | we | 
+0	| the doctor , and the child 's father , and our friend and myself | 
+0	| the child 's father , and our friend and myself | 
+0	| the child 's father | 
+0	| the rest of the night | 
+0	| the night | this night | the night | 
+0	| next day , when we had breakfasted | 
+0	| next day | 
+0	| a body to the bank | 
+0	| the bank | 
+0	| the check myself | it | a forgery | it | 
+0	| a bit of it | 
+0	| a fellow that nobody could have to do with , a really damnable man ; and the person that drew the cheque is the very pink of the proprieties , celebrated too , and -LRB- what makes it worse -RRB- one of your fellows | they | The fellow | he | him | 
+0	| with , a really damnable man | 
+0	| the person that drew the cheque is the very pink of the proprieties , celebrated too | 
+0	| the very pink of the proprieties , celebrated too | 
+0	| the proprieties , celebrated too | 
+0	| the proprieties | 
+0	| one of your fellows | 
+0	| the person that drew the cheque is the very pink of the proprieties , celebrated too , | 
+0	| an honest man paying through the nose for some of the capers of his youth | 
+0	| the nose for some of the capers of his youth | 
+0	| some of the capers of his youth | 
+0	| the capers of his youth | 
+0	| his youth | 
+0	| Black-Mail House | that | 
+0	| you | he | his | he | 
+0	| the words | 
+0	| a vein of musing | 
+0	| this he was recalled by Mr. Utterson asking rather suddenly | 
+0	| Mr. Utterson asking rather suddenly | 
+0	| the drawer of the cheque | 
+0	| `` A likely place | it | the -- place | the place for myself | 
+0	| his address | 
+0	| some square or other | 
+0	| some square | 
+0	| other | 
+0	| you | 
+0	| a delicacy | it | 
+0	| the reply | the reply | it | 
+0	| questions | questions | 
+0	| the style of the day of judgment | 
+0	| the day of judgment | 
+0	| You | You | you | No , sir , I | 
+0	| a question | it | 
+0	| a stone | the stone | 
+0	| the top of a hill | it | it | 
+0	| a hill | 
+0	| others | their | 
+0	| some bland old bird -LRB- the last you would have thought of -RRB- | 
+0	| the last you would have thought of | 
+0	| the head in his own back-garden | 
+0	| his own back-garden | 
+0	| his | 
+0	| a rule of mine | 
+0	| `` A very good rule , too , '' | that | a good rule of yours | 
+0	| A very good rule , too | 
+0	| A very good rule | I | myself | It | 
+0	| a house | 
+0	| one | 
+0	| no other door | 
+0	| that one but , once in a great while , the gentleman of my adventure | 
+0	| that one but , once in a great while | they | 
+0	| one but | 
+0	| a great while | 
+0	| the gentleman of my adventure | 
+0	| my adventure | 
+0	| three windows looking on the court on the first floor ; none below | the windows | 
+0	| the court on the first floor ; none below | that court | it | 
+0	| the first floor ; none below | 
+0	| a chimney which is generally smoking | it | 
+0	| so somebody | 
+0	| one | 
+0	| the buildings | 
+0	| one ends and another | 
+0	| one ends | 
+0	| another | 
+0	| The pair | it | 
+0	| a while in silence | 
+0	| yours | 
+0	| one | 
+0	| one point I want to ask | it | the point | 
+0	| the name of that man who walked over the child | 
+0	| that man who walked over the child | 
+0	| what harm it would do | It | 
+1	| Hyde | Edward Hyde | Edward Hyde | Mr. Hyde that had swelled his indignation | Hyde | Hyde | my | the real Mr. Hyde | 
+0	| a man of the name of Hyde | 
+0	| the name of Hyde | 
+0	| something wrong with his appearance ; something displeasing , something downright detestable | 
+0	| something displeasing , something downright detestable | 
+0	| something displeasing | 
+0	| something downright detestable | 
+0	| a man I so disliked , and yet I scarce | He | he | He | an extraordinary-looking man | him | 
+0	| a strong feeling of deformity | 
+0	| No , sir ; I can make no hand of it ; I ca n't describe him . | him | 
+0	| No | it | 
+0	| no hand of it | 
+0	| this moment | 
+0	| some way | 
+0	| a weight of consideration | 
+0	| You | he | `` My dear sir ... '' began Enfield , surprised | himself | I | I | I | I | 
+0	| The fact | 
+0	| you | You | your | you | you | I | me | I | I | 
+0	| the name of the other party | it | it | the name | it | it | it | that | 
+0	| the other party | 
+0	| Richard , your tale | Richard | Richard | 
+0	| your tale | it | 
+0	| you | 
+0	| a touch of sullenness | 
+0	| you | 
+0	| a word | 
+0	| the young man | 
+0	| Here | 
+0	| another lesson to say nothing | 
+0	| my long tongue | 
+0	| us | 
+0	| a bargain | 
+0	| this | 
+0	| that , Richard | 
+0	| his bachelor house | It | his custom of a Sunday | his house | 
+0	| sombre spirits | 
+0	| a Sunday | 
+0	| this meal | 
+0	| some dry divinity on his reading-desk | 
+0	| his reading-desk | he | 
+0	| the clock of the neighbouring church | 
+0	| the neighbouring church | 
+0	| the hour of twelve | 
+0	| twelve | 
+0	| the cloth | 
+0	| a candle | his candle | 
+0	| his business-room | 
+0	| his safe | it | its | the safe | 
+0	| the most private part of it a document endorsed on the envelope as Dr. Jekyll 's Will | 
+0	| a document endorsed on the envelope as Dr. Jekyll 's Will | 
+0	| the envelope as Dr. Jekyll 's Will | 
+0	| Dr. Jekyll 's Will | 
+0	| Dr. Jekyll 's | Dr. Jekyll 's | 
+0	| a clouded brow | 
+0	| its contents | 
+1	| Henry Jekyll | his | his | Henry Jekyll 's | Henry Jekyll | Henry Jekyll | He | him | 
+0	| F.R.S. | 
+0	| The | it | it | the | the | 
+0	| holograph , for Mr. Utterson , though he took charge of it now that it was made | it | 
+0	| charge of it | it | 
+0	| the least assistance in the making of it | 
+0	| the making of it | 
+0	| the decease | 
+0	| M.D. , D.C.L. , L.L.D. , F.R.S. | 
+0	| the hands of his `` friend and benefactor | 
+0	| his `` friend and benefactor | 
+0	| case of Dr. Jekyll 's `` disappearance or unexplained absence for any period | 
+0	| case of Dr. Jekyll 's `` disappearance | 
+0	| Dr. Jekyll 's `` disappearance | 
+0	| three calendar months | 
+0	| the said Henry Jekyll 's shoes without further delay | 
+0	| Henry Jekyll 's shoes | 
+0	| the payment of a few small sums | 
+0	| a few small sums | 
+0	| the members of the doctor 's household | 
+0	| the doctor 's household | 
+0	| M.D. | 
+0	| D.C.L. | 
+0	| L.L.D. | 
+0	| This document | the lawyer 's eyesore | It | it | his ignorance of Mr. Hyde that had swelled his indignation | it | his knowledge | 
+0	| a lawyer | 
+0	| a lover of the sane and customary sides of life | 
+0	| a lover of the sane | 
+0	| the sane | 
+0	| customary sides of life | 
+0	| the fanciful | the immodest | 
+0	| his indignation | 
+0	| a sudden turn | 
+0	| a name of which he could learn no more | 
+0	| detestable attributes | 
+0	| the shifting , insubstantial mists that had so long baffled his eye | 
+0	| the shifting | insubstantial mists that had so long baffled his eye | 
+0	| the sudden , definite presentment of a fiend | 
+0	| a fiend | 
+0	| the obnoxious paper | 
+0	| Cavendish Square | 
+0	| his candle , put on a great-coat , and set forth in the direction of Cavendish Square , that citadel of medicine , where his friend , the great Dr. Lanyon , had his house and received his crowding patients | 
+0	| a great-coat | 
+0	| the direction of Cavendish Square , that citadel of medicine | 
+0	| the direction of Cavendish Square | 
+0	| citadel of medicine | 
+1	| Dr. Lanyon | his friend | the great Dr. Lanyon | Lanyon | his | his | Lanyon | Dr. Lanyon | his | Lanyon , '' said he `` you | Lanyon | Dr. Lanyon | him | his friend | his | Lanyon | him | his friend | his | 
+0	| his crowding patients | 
+0	| one | it | 
+0	| The solemn butler | him | he | 
+0	| no stage of delay | 
+0	| direct | 
+0	| the door to the dining-room | 
+0	| the dining-room | 
+0	| This | 
+0	| a hearty , healthy , dapper , red-faced gentleman | 
+0	| a shock of hair prematurely white , and a boisterous | 
+0	| hair prematurely white , and a boisterous | 
+0	| a boisterous | 
+0	| sight of Mr. Utterson | 
+0	| his chair | 
+0	| both hands | 
+0	| The geniality , as was the way of the man | 
+0	| The geniality | it | 
+0	| the way of the man | 
+0	| old friends , old mates | themselves | 
+0	| school and college , both thorough respecters of themselves | 
+0	| school and college | thorough respecters of themselves | 
+0	| each other | 
+0	| men who thoroughly enjoyed each other 's company | 
+0	| each other 's company | 
+0	| each other 's | 
+0	| a little rambling talk | 
+0	| the subject which so disagreeably pre-occupied | 
+0	| you | that | 
+0	| the two oldest friends that Henry Jekyll has | the friends | younger | we | 
+0	| little of him | 
+0	| you | We | they | 
+0	| a bond of common interest | 
+0	| more than ten years | 
+0	| me | I | I | I | the doctor | the doctor 's | 
+0	| course I | 
+0	| an interest in him | 
+0	| devilish little of the man | 
+0	| Damon | 
+0	| flushing suddenly purple | 
+0	| purple | 
+0	| Damon and Pythias | They | 
+0	| Pythias | 
+0	| This little spirit of temper | 
+0	| a relief | 
+0	| some point of science | that | 
+0	| a man of no scientific passions -LRB- except in the matter of conveyancing -RRB- | he | 
+0	| no scientific passions -LRB- except in the matter of conveyancing -RRB- | 
+0	| the matter of conveyancing | It | 
+0	| a few seconds | 
+0	| his composure | 
+0	| the question he had come to put | 
+0	| a protege of his -- one Hyde | 
+0	| one Hyde | 

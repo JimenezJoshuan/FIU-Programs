@@ -1,0 +1,247 @@
+1	| Alan | Alan and I | Alan | Alan and I | Alan | Alan | him | Alan 's | Alan | he | Alan | Alan | his | he | 
+0	| I | myself | I | I | I | my | I | I | my | I | my | my | my | my | I | you | you | you | your | you | you | You | you | your | I | I | I | I | I | I | My | you | you | your | you | I | your | I | I | me | I | my | I | I | I | I | I | I | I | my | I | I | me on my new clothes and my estate | my | my | me | I | I | I | my | I | I | I | my | I | I | my | I | me | I | me | I | I | my | me | my | 
+0	| still Alan | 
+0	| my hands | 
+0	| a heavy charge | 
+0	| the matter of the murder and James of the Glens | 
+0	| the matter of the murder | the matter | quite another matter | 
+0	| the murder | 
+0	| James of the Glens | James | 
+0	| the Glens | 
+0	| six | 
+0	| both these heads I unbosomed to Rankeillor the next morning , walking to and fro about six of the clock before the house of Shaws , and with nothing in view but the fields and woods that had been my ancestors | 
+0	| these heads I unbosomed to Rankeillor the next morning , walking to | 
+0	| Rankeillor | 
+0	| the next morning | 
+0	| fro about six of the clock before the house of Shaws , and with nothing in view but the fields and woods that had been my ancestors | 
+0	| fro about six of the clock before the house of Shaws , and with nothing in view | 
+0	| the house of Shaws | 
+0	| Shaws | 
+0	| the fields and woods that had been my ancestors | 
+0	| my ancestors | 
+0	| ' | 
+0	| these grave subjects | 
+0	| my eye | 
+0	| a glad bit of a run over the prospect , and my heart jump with pride | 
+0	| a glad bit of a run over the prospect | 
+0	| a run over the prospect | 
+0	| the prospect | 
+0	| my heart jump with pride | 
+0	| my clear duty to my friend | your duty | 
+0	| my friend | him | he | he | I | I | 
+0	| the lawyer | a lawyer | his | the lawyer | him | 
+0	| no doubt | 
+0	| the county at whatever risk | the county | 
+0	| whatever risk | 
+0	| the case of James | that case | 
+0	| a different mind | 
+1	| Thomson | Thomson | he | Thomson | 
+0	| one | 
+1	| Mr. Thomson | Mr. Thomson 's | Mr. Thomson 's | Mr. Thomson | Mr. Thomson | Mr. Thomson | 
+0	| one thing , Mr. Thomson 's kinsman quite another | 
+0	| one thing | 
+0	| Mr. Thomson 's kinsman quite another | Mr. Thomson 's kinsman | he | his kinsman | 
+0	| little of the facts | 
+0	| the facts | 
+0	| a great noble -LRB- whom we will call , if you like , the D. of A. -RRB- | 
+0	| we | 
+0	| the D. of A. | The D. of A. | the D. of A. | 
+0	| 36 -RSB- | 
+0	| some concern | 
+0	| some animosity in the matter | 
+0	| David | his | 
+1	| Mr. David | Mr. David | 
+0	| timeo qui nocuere deos | 
+0	| deos | 
+0	| one | 
+0	| his vengeance | that | 
+0	| one way to shut your testimony out | 
+0	| your testimony | 
+0	| the dock | 
+0	| the same pickle as Mr. Thomson 's kinsman | 
+0	| Highland | 
+0	| your life | 
+0	| a Highland jury | 
+0	| a Highland | 
+0	| a Highland Judge | 
+0	| the bench | 
+0	| a brief transition to the gallows | 
+0	| the gallows | 
+0	| no very good reply | 
+0	| them | 
+0	| that case , sir | 
+0	| My dear boy , '' cries he | my | I | 
+0	| My dear boy | he | 
+0	| God 's name | your name | 
+0	| God 's | 
+0	| a poor thought that at my time of life I should be advising you to choose the safe and shameful | it | 
+0	| my time of life I | 
+0	| life I | 
+0	| the safe and shameful | 
+0	| an apology | 
+0	| a gentleman | he | 
+0	| worse things in the world than to be hanged | 
+0	| the world than to be hanged | 
+0	| ten | ten | 
+0	| ten times | 
+0	| your uncle | he | he | him | he | his | he | he | my | I | I | I | I | I | I | I | 
+0	| afield | them | 
+0	| a gibbet | 
+0	| two | two | 
+0	| the house -LRB- still in a great fervour of mind , so that I saw I had pleased him heartily -RRB- | 
+0	| a great fervour of mind , so that I saw I had pleased him heartily | 
+0	| mind , so that I saw I had pleased him heartily | 
+0	| two letters , making his comments on them as he wrote | 
+0	| two letters | 
+0	| his comments | 
+0	| British Linen Company | 
+0	| This | 
+0	| my bankers , the British Linen Company | 
+0	| my bankers | 
+0	| the British Linen Company | the British Linen Company 's | 
+0	| a credit | this credit | 
+0	| your | you | you | your | you | your | you | you | your | you | you | you | yourself | you | you | our | we | we | our | we | our | us | We | us | we | We | we | we | we | we | our | us | we | 
+0	| ways | our ways | 
+0	| the means | 
+0	| Thompson | 
+0	| a good husband of your money | his | 
+0	| your money | 
+0	| the affair of a friend like Mr. Thompson | 
+0	| a friend like Mr. Thompson | 
+0	| Mr. Thompson | 
+0	| Pilrig | 
+0	| no better way | It | our way | my way | it | It | 
+0	| the Advocate , tell him your tale , and offer testimony | 
+0	| the Advocate | him | he | the Lord Advocate | the Advocate | 
+0	| your tale | it | 
+0	| offer testimony | 
+0	| a letter | 
+0	| a namesake of your own , the | 
+0	| your own | 
+0	| Mr. Balfour of Pilrig , a man whom I esteem | 
+0	| Pilrig , a man whom I esteem | 
+0	| a man whom I esteem | 
+0	| Lord Advocate Grant | 
+0	| one of your own name | 
+0	| the laird of Pilrig | him | the laird | he | you , Mr. David | he | his | 
+0	| the Faculty | 
+0	| trouble him , if I were you , with any particulars ; and -LRB- do you know ? -RRB- | 
+0	| trouble him , if I were you , with any particulars ; | 
+0	| Form yourself upon the laird | 
+0	| a good model ; when you deal with the Advocate , be discreet ; and in all these matters | 
+0	| in all these matters | 
+0	| the Lord guide | 
+0	| Edinburgh | Edinburgh | 
+0	| his farewell | 
+0	| Torrance for the Ferry | 
+0	| the Ferry | 
+0	| our faces | 
+0	| the city of Edinburgh | the city | the city | 
+0	| the footpath | It | 
+0	| the gateposts | 
+0	| the unfinished | 
+0	| the house of my fathers | 
+0	| my fathers | 
+0	| there , bare and great and smokeless , like a place | 
+0	| a place | 
+0	| one of the top windows | 
+0	| the peak of a nightcap bobbing up and down | 
+0	| a nightcap bobbing up and down | 
+0	| the head of a rabbit from a burrow | 
+0	| a rabbit from a burrow | 
+0	| a burrow | 
+0	| little | 
+0	| less kindness | 
+0	| The same thought | uppermost in both , that we were near the time of our parting | 
+0	| both , that we were near the time of our parting | 
+0	| the time of our parting | 
+0	| our parting | 
+0	| remembrance of all the bygone days | 
+0	| the day | 
+0	| a particular place | 
+0	| my own person | 
+0	| Appin Stewart | 
+0	| the | 
+0	| a lawyer , who was an Appin Stewart , and a man therefore to be wholly trusted | 
+0	| an Appin Stewart , and a man | 
+0	| an Appin Stewart | 
+0	| a man | 
+0	| his part to find a ship and to arrange for Alan 's safe embarkation | 
+0	| a ship | 
+0	| Alan 's safe embarkation | 
+0	| this business done , than the words seemed to leave us ; and though I would seek to jest with Alan under the name of Mr. Thomson , and he with me on my new clothes and my estate | 
+0	| the words | 
+0	| the name of Mr. Thomson | 
+0	| my new clothes and my estate | 
+0	| my new clothes | 
+0	| my estate | 
+0	| you | 
+0	| tears than laughter | 
+0	| the by-way | he | he | 
+0	| the hill of Corstorphine | the hill | 
+0	| the place called Rest-and-be-Thankful | 
+0	| Rest-and-be-Thankful | Rest-and-be-Thankful | 
+0	| Corstorphine bogs | 
+0	| the city and the castle | 
+0	| the castle | 
+0	| a word said that we had come to where our ways parted | 
+0	| the address of the lawyer , the daily hour at which Alan might be found , and the signals that were to be made by any that came seeking him | 
+0	| the address of the lawyer | 
+0	| the daily hour at which Alan might be found | 
+0	| the signals that were to be made by any that came seeking him | 
+0	| a guinea or two | 
+0	| a guinea | 
+0	| the meanwhile | 
+0	| a space | 
+0	| his left hand | the hand | 
+0	| `` Good-bye , '' | 
+0	| a little grasp | 
+0	| one | 
+0	| Neither one of us | 
+0	| the other in the face , nor so long as he was in my view did I take one back glance at the friend I was leaving | 
+0	| the face | 
+0	| my view | 
+0	| the friend I was leaving | 
+0	| my heart to sit down by the dyke , and cry | 
+0	| the dyke , and cry | 
+0	| the dyke | 
+0	| West Kirk | 
+0	| noon | 
+0	| the West Kirk and the Grassmarket | 
+0	| the West Kirk | 
+0	| the Grassmarket | 
+0	| the streets of the capital | 
+0	| the capital | 
+0	| fifteen | 
+0	| hundred | 
+0	| The huge height of the buildings | 
+0	| the buildings | 
+0	| ten and fifteen storeys , the narrow arched entries that continually vomited passengers , the wares of the merchants in their windows , the hubbub and endless stir | 
+0	| ten and fifteen storeys | the narrow arched entries that continually vomited passengers , the wares of the merchants in their windows , the hubbub and endless stir | 
+0	| passengers , the wares of the merchants in their windows , the hubbub and endless | 
+0	| passengers | their | 
+0	| the wares of the merchants in their windows , the hubbub and endless | 
+0	| the merchants in their windows , the hubbub and endless | 
+0	| their windows , the hubbub and endless | 
+0	| their windows | 
+0	| the hubbub | 
+0	| endless | 
+0	| the foul | 
+0	| the fine clothes , and a hundred other particulars too small to mention | 
+0	| the fine clothes | 
+0	| a hundred other particulars too small to mention | 
+0	| a kind of stupor of surprise | 
+0	| stupor of surprise | 
+0	| the crowd | 
+0	| yet all the time what I was thinking of | 
+0	| Alan at Rest-and-be-Thankful | 
+0	| you | 
+0	| these braws and novelties | 
+0	| a cold gnawing in my | 
+0	| a remorse for something wrong | 
+0	| something wrong | 
+0	| Providence | 
+0	| The hand of Providence | 
+0	| the very | 
+0	| doors of the British Linen Company 's bank | 
+0	| the British Linen Company 's bank | 

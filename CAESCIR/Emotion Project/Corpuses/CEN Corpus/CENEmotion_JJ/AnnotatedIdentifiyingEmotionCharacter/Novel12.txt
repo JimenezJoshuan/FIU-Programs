@@ -1,0 +1,662 @@
+0	| the conflict gory | thee | 
+0	| the morrow | 
+0	| she | her | her | her | her | her | She | herself | she | she | her , which was just as well , for what more had they to say to each other | her | she | herself | she | her | her | She | her | her | she | 
+0	| her room | 
+0	| this point | 
+0	| the inspiration | 
+0	| the end of the week | the end of the week | 
+0	| the week | the week | 
+0	| her pen | its | her pen | it | 
+0	| the news at the Bedford Hotel | 
+0	| the Bedford Hotel | 
+0	| the paper | 
+0	| Mr. Ede | his | Mr. Ede | Mrs. Ede | Ede | Mrs. Ede | 
+0	| the day | the day | 
+0	| The porter who informed her of his departure | he | the porter | he | 
+0	| a transitional phrase | 
+0	| his departure | 
+0	| the Light-god | 
+0	| They | 
+0	| her thinking | 
+0	| a six-shilling-a-week bedroom in the neighbourhood of the Strand | 
+0	| the neighbourhood of the Strand | 
+0	| the likes of her | 
+0	| The window | 
+0	| a bit of red-tiled roofing , a cistern , and a clothes-line on which a petticoat flapped , and in a small iron bedstead | 
+0	| a bit of red-tiled roofing | 
+0	| a cistern | 
+0	| tidy | it | 
+0	| a clothes-line on which a petticoat flapped , and in a small iron bedstead | 
+0	| a petticoat | 
+0	| a small iron | 
+0	| the light | 
+1	| Ralph | Ralph | Ralph | Ralph | 
+0	| her stomach | 
+0	| Hender | 
+0	| more | 
+0	| her arms | 
+0	| they | 
+0	| each other | 
+0	| mere bones | 
+0	| front of a shop-window she | 
+0	| a shop-window she | 
+0	| Annie | Annie | 
+0	| sight of herself | 
+0	| Lizzie | Lizzie | 
+0	| a looking-glass | 
+0	| three whole days | 
+0	| much | it | 
+0	| broken phrases of her past life | 
+0	| her past life | 
+0	| the Strand | the Strand | the Strand | the Strand | the Strand | 
+0	| her misfortunes | 
+0	| Mrs. Ede , the potteries , the two little girls , Annie and Lizzie | 
+0	| the passers-by | they | they | 
+0	| the potteries | 
+0	| the two little girls | the little girls | Annie and Lizzie | 
+0	| her skirt safely | her skirt | 
+0	| a foot of it | her foot | 
+0	| the pavement | 
+0	| hearing jeering voices behind her | 
+0	| the two men | They | They | 
+0	| a public-house | the public-house | 
+0	| each other | it | it | the other | the other | 
+0	| a pin | 
+0	| one | it | 
+0	| The barmaid | her | her | she | 
+0	| a man | the man | a man | he | the man | The man | he | his | his | his | his | he | 
+0	| talk of the evil of drinking | 
+0	| the evil of drinking | 
+0	| enemies of them | 
+0	| many men | 
+1	| Kate | she | her | herself | she | her | she | Kate | she | she | her | her | she | she | her | Kate | Kate | she | her | her | her | she | she | her | she | she | her | her | her | she | her | she | she | herself | her | her | she | her | her | her | She | she | her | Her | Kate | Kate | her | her | her | she | her | Her | She | herself | she | Kate | her | she | her | She | her | she | her | she | her | she | she | She | her | Kate | Kate 's | she | she | Kate | Kate | she | her | herself | Kate 's | she | 
+0	| next day | it | 
+0	| Kate 's heart | her heart | 
+0	| her ideas | 
+0	| a glass | her glass | a glass | 
+0	| the belief that it was for the part of the Baillie that Dick and Ralph were quarrelling | 
+0	| the part of the Baillie | 
+0	| the river in her life | the river | the river | 
+0	| the Baillie | she | her | her | 
+0	| her life | 
+0	| Dick and Ralph | 
+0	| her regret | 
+0	| that morning | 
+0	| Threepennyworth | she | her | She | her | her | 
+1	| Dick | Dick | Dick | he | he | Dick | Dick , who helped her into it | Dick | he | Dick | Dick | Dick | he | Dick | he | Dick | Dick | Dick | Dick | Dick 's | Dick | Dick | Dick 's | he | his | Dick | Dick | 
+0	| thirty-nine | 
+0	| memories of the baby girl who had died in Manchester lacking | 
+0	| the baby girl who had died in Manchester lacking | She | She | 
+0	| more | 
+0	| Manchester lacking | 
+0	| a week | a week | 
+0	| a woman | her | her | 
+0	| the thirty-nine shillings | 
+0	| the child | his but Dick 's child | his | 
+0	| the fortieth | 
+0	| her pocket | 
+0	| Dick 's child | 
+0	| her next week 's money | the money | 
+0	| her next week 's | 
+0	| Wellington Street | 
+0	| Laura 's arms | arms | 
+0	| her back | 
+0	| the pillow exhausted | 
+0	| her thoughts | 
+0	| something to drink ; I | 
+0	| the end of Wellington Street | the end of the street | its end | 
+0	| the passengers in the Strand , the swaggering mummers , male and female ; the men with lordly airs and billycock hats ; the women with yellow hair and unholy looks upon their faces | 
+0	| the passengers in the Strand | the swaggering mummers , male and female ; the men with lordly airs and billycock hats ; the women with yellow hair | the swaggering mummers | their | the mummers | 
+0	| her reveries | 
+0	| the fireplace | it | it | 
+0	| the men with lordly airs and billycock hats | 
+0	| lordly airs and billycock hats | 
+0	| the women with yellow hair | 
+0	| some time | 
+0	| unholy looks upon their faces | 
+0	| their faces | 
+0	| Temple | 
+0	| a long silence | 
+0	| groups of men and women | their | their | groups | 
+0	| a theatrical agent 's place of business , all sorts of people coming and going ; lawyers from the Temple , journalists on their way to Fleet Street ; prostitutes of all kinds and all sorts , young and old , fat and thin , of all nationalities , French , Belgian , and German | 
+0	| a theatrical agent 's place of business , all sorts of people coming and going ; lawyers from the Temple , journalists on their way to Fleet Street ; prostitutes of all kinds and all sorts , young and old , fat and thin , of all nationalities , French , Belgian | 
+0	| a theatrical agent 's | 
+0	| business , all sorts of people coming and going ; lawyers from the Temple , journalists on their way to Fleet Street ; prostitutes of all kinds and all sorts | 
+0	| people coming and going | 
+0	| we | 
+0	| lawyers from the Temple | 
+0	| Pan , the undying representative of the universe cognizable to the senses | 
+0	| the Temple | 
+0	| the undying representative of the universe cognizable to the senses | 
+0	| journalists on their way to Fleet Street | 
+0	| the universe cognizable to the senses | 
+0	| their way to Fleet Street | that way | 
+0	| Fleet Street | 
+0	| prostitutes of all kinds | 
+0	| couples | 
+0	| Kate 's mind | it | 
+0	| rows , their eyes flaming invitations | 
+0	| a vague dream | 
+0	| rows | their eyes flaming invitations | your eyes | 
+0	| two things | 
+0	| an idea of death and a desire to see Dick | 
+0	| death and a desire to see Dick | 
+0	| invitations | 
+0	| a desire to see Dick | 
+0	| Children with orange coloured hair | 
+0	| orange coloured hair | 
+0	| matches | 
+0	| suspicious alleys | 
+0	| a strange hurried life , full of complexity | 
+0	| a strange hurried life | 
+0	| you | 
+0	| the twilight | 
+0	| the lamplighters | 
+0	| Girls and boys | their | 
+0	| each other quarrelling and selling newspapers | 
+0	| each other quarrelling | 
+0	| you | 
+0	| selling newspapers | 
+0	| seven | seven | 
+0	| The spectacle | 
+0	| You | 
+0	| the time | this time | as time | 
+0	| four o'clock and seven | 
+0	| four o'clock | 
+0	| my sister | her | 
+0	| she | 
+0	| some eating-house | 
+0	| you | 
+0	| a shilling | 
+0	| Your marriage | a psychological union | 
+0	| Your | 
+0	| Some of the women who preferred to pick up a living by the sale of their lips rather than by standing for hours over a stinking wash-tub | human beings | 
+0	| the women who preferred to pick up a living by the sale of their lips rather than by standing for hours over a stinking wash-tub | these women | their | their | these women | they | the women | them | they | them | they | they | 
+0	| a living | 
+0	| the sale of their lips | 
+0	| the lowest temple of Eros | 
+0	| their lips | her lips | 
+0	| hours over a stinking wash-tub | hours | 
+0	| a stinking wash-tub | she | she | her | her | she | her | she | 
+0	| you | 
+0	| nobody else except these street-walkers with whom she could exchange a few words and invite into a drinking shop for a glass | 
+0	| these street-walkers with whom she could exchange a few words and invite into a drinking shop for a glass | 
+0	| a few words | these words | these words | words | 
+0	| a drinking shop for a glass | 
+0	| that box | the box | 
+0	| Clairette | 
+0	| they | them | them | they | 
+0	| Les Cloches de Corneville | 
+0	| the counter | the counter | 
+0	| her successes | 
+0	| _ Madame Angot _ and Serpolette in _ Les Cloches de Corneville _ | _ | _ | _ | _ | 
+0	| _ Les Cloches de Corneville _ | 
+0	| Les Cloches de Corneville _ | 
+0	| the last | last | it | 
+0	| an incredulous look | 
+0	| the faces of her guests | 
+0	| her guests | them | them | them | they | 
+0	| you | 
+0	| the little ditties , proving by her knowledge of them that all she told them was true | 
+0	| She | she | she | her | she | 
+0	| the little ditties | 
+0	| the packet of letters | 
+0	| her knowledge of them | 
+0	| letters | 
+0	| the crumpled calico | his | 
+0	| the button she had pulled off his coat in a drunken fit | 
+0	| his coat | 
+0	| the drinking-shop | Her | she | she | she | her | she | her | She | she | she | she | her that had never befallen her before | her | She | she | she | herself | she | she | she | She | she | her | her | her | her | she | her | she | 
+0	| a drunken fit | 
+0	| her wrist | 
+0	| their eating-houses | 
+0	| the last few pearls that remained of the chaplet she wore when they played at sweethearts in _ The Lovers ' Knot _ | 
+0	| the chaplet she wore when they played at sweethearts in _ | 
+0	| their stories | 
+0	| sweethearts | 
+0	| The Lovers ' Knot _ | 
+0	| The Lovers ' | 
+0	| Hanley | 
+0	| her shillings and half-crowns | 
+0	| the love-tokens | 
+0	| you | 
+0	| we | us | us | we | 
+0	| Her pretty face of former days | it | her face | 
+0	| The most diverse scenes | 
+0	| the complex confusion of Kate 's nightmare | 
+0	| former days | the days | it | 
+0	| Kate 's nightmare | 
+0	| the most opposed ideas | his ideas | 
+0	| traces of it | 
+0	| one | 
+0	| two | two | two | two | two | two | the two | 
+0	| you | 
+0	| yourself | 
+0	| one moment | It | 
+0	| a little | 
+0	| the little girls , Annie and Lizzie , of the immorality of the conversations | 
+0	| you | 
+0	| the little girls , Annie and Lizzie | 
+0	| two ends meet | 
+0	| you | 
+0	| your husband | 
+0	| the immorality of the conversations | 
+0	| your | 
+0	| the conversations | 
+0	| you | 
+0	| the dressing-rooms of theatres | 
+0	| theatres | 
+0	| another | she | 
+0	| the Rehearsal of an _ opéra bouffe _ to preach to the mummers -- in phrases that were remembrances of the extemporaneous prayers in the Wesleyan Church -- of the advantages of an earnest , working religious life | 
+0	| the belief that she was not utterly lost unless she was unfaithful to Dick | it | 
+0	| an _ opéra bouffe _ to preach to the mummers | his | 
+0	| phrases that were remembrances of the extemporaneous prayers in the Wesleyan Church | 
+0	| possession of her | 
+0	| remembrances of the extemporaneous prayers in the Wesleyan Church | 
+0	| the extemporaneous prayers in the Wesleyan Church | 
+0	| the Wesleyan Church | Wesleyan | 
+0	| the advantages of an earnest | 
+0	| an almost desperate insistency , saying to her friends | 
+0	| an earnest | 
+0	| an almost desperate insistency | 
+0	| her friends | they | friends | friends | that | 
+0	| a costume ball , where chastity grinned from behind a mask that vice was looking for | 
+0	| a costume ball | 
+0	| a mask that vice was looking for | 
+0	| his nakedness | 
+0	| some of the robes | 
+0	| the robes | 
+0	| fall | 
+0	| the replies | 
+0	| one | 
+0	| the same thing | it | 
+0	| dice thrown by demon players | 
+0	| demon players | 
+0	| the two lives , the double life that this weak woman had lived | 
+0	| the two lives | 
+0	| the double life that this weak woman had lived | 
+0	| this weak woman | she | her | her | she | 
+0	| one | 
+0	| a point | 
+0	| one night | it | it | 
+0	| the dusk between daylight and dark | 
+0	| one , when she began to sing her famous song : ` Look at me here , look at me there | 
+0	| daylight and dark | 
+0	| her famous song | 
+0	| the Wesleyan hymns | 
+0	| one | 
+0	| her delirium | 
+0	| Villiers Street | Villiers Street | that street | 
+0	| the words of one | 
+0	| the idea | 
+0	| the tune of the other | 
+0	| last night in the public-house near Charing Cross a man | night | 
+0	| the public-house near Charing Cross a man | 
+0	| Charing Cross a man | 
+0	| one | 
+0	| no notice | it | 
+0	| the drinks | 
+0	| one of the hotels in Villiers Street | 
+0	| scratch , till it occurred to her that although Dick 's marriage had not been a psychological one , it might be as well that he should see his wife before she died | 
+0	| Dick 's marriage | a psychological one | it | 
+0	| a memory , a hateful memory that had kept her awake , and had caused her to moan and to cry for hours , till at last sleep fell upon her | 
+0	| a memory | a hateful memory that had kept her awake , and had caused her to moan and to cry for hours , till at last sleep fell upon her | 
+0	| her awake | 
+0	| this conclusion | 
+0	| her bonnet | 
+0	| hours , till at last sleep fell upon her | 
+0	| The landlady brought in the lamp , placing it on the table , out of sight of the dying woman 's eyes . | her | her | her | she | herself | Her withered arms were waved to and , fro , and in the red gloom shed from the ill-smelling paraffin lamp the large , dimly seen folds of the bedclothes | 
+0	| first | first | 
+0	| the lamp | 
+0	| her first thought | 
+0	| the dying woman 's eyes | 
+0	| the dying woman 's | the woman | she | she | the woman | She | her | 
+0	| the Strand seeking them till nightfall | 
+0	| A dreadful paleness | 
+0	| even the yellow of her face | 
+0	| her nothing of what had happened after she left them , ` Dry your eyes , Kate , ' they said | 
+0	| an ashen tint | 
+0	| Dry | 
+0	| your eyes , Kate , ' they said | 
+0	| your | 
+0	| Your husband deserted you | her husband | he | him | the husband | her husband | my husband | him | he | him | my husband | him | him | he | him | then he | 
+0	| the red gloom shed | 
+0	| Your | 
+0	| the ill-smelling paraffin lamp the large , dimly seen folds of the bedclothes | 
+0	| you | 
+0	| the large , dimly seen | 
+0	| you | 
+0	| the large | 
+0	| you | 
+0	| the bedclothes | 
+0	| the convulsions that agitated the whole body | 
+0	| the whole body | 
+0	| Another hour | 
+0	| the memory of the hotel bedroom that had risen up in her mind | the memory of a dream , and not of something that had befallen her in her waking senses | It | 
+0	| the cavernous breathing of the woman | 
+0	| the hotel bedroom that had risen up in her mind | 
+0	| her mind | 
+0	| the edge of death | 
+0	| a dream , and not of something | 
+0	| a sigh , deeper and more prolonged | 
+0	| a dream | 
+0	| a sigh | 
+0	| her waking senses | the senses | 
+0	| one | 
+0	| such a thing | 
+0	| the corpse | 
+0	| heavy steps | 
+0	| her knees | her knees | 
+0	| the staircase | 
+0	| Dick and Laura | they | they | their | 
+0	| a quantity of cockatoo-like flutterings , the other | 
+0	| cockatoo-like flutterings , the other | 
+0	| her knees , her eyes full of tears , and a sort of leaden despair in her heart | 
+0	| cockatoo-like flutterings | 
+0	| a big and ponderous animal | 
+0	| her eyes full of tears | her eyes | her eyes | his eyes | 
+0	| a glance | 
+0	| tears | 
+0	| a sort of leaden despair in her heart | 
+0	| their hands | 
+0	| her mind became denser | 
+0	| awkward phrases of a happy release | 
+0	| a happy release | 
+0	| obtusities | 
+0	| a calm serenity that caused Dick to wonder | 
+0	| one | 
+0	| something concerning psychological marriages | 
+0	| her violent temper | 
+0	| psychological marriages | 
+0	| the appearance of the huge body beneath the bed-clothes | 
+0	| her , and miserable and hopeless | 
+0	| the huge body beneath the bed-clothes | 
+0	| the bed-clothes | 
+0	| one lodging | 
+0	| another | 
+0	| Laura 's presence | 
+0	| the drink | 
+0	| his head | 
+0	| her bed | 
+0	| her hand | 
+0	| another glass of whisky | 
+0	| whisky , brandy , gin | 
+0	| brandy , gin | 
+0	| these | 
+0	| you | 
+0	| her purpose , even methylated spirit | 
+0	| her purpose | 
+0	| Her bed-curtains | them | 
+0	| the landlady | The landlady | she | she | herself | she | 
+0	| the gas | it | 
+0	| we | us | our | 
+0	| death in our beds | 
+0	| our beds | 
+0	| a room | it | 
+0	| a sick woman | the sick woman | 
+0	| no excuse | 
+0	| this case | 
+0	| Locker | Mrs. Rawson 's evening friend | her | Locker | Locker | she | she | she | she | her | she | she | herself | 
+0	| you | 
+1	| Mrs. Lennox | her | she | Mrs. Lennox 's | She | her | she | her | her | She | her | she | she | she | Mrs. Lennox | Mrs. Lennox | her | nurse Mrs. Lennox | Mrs. Lennox | 
+0	| Mr. Locker , Mrs. Rawson 's evening friend | 
+0	| Mr. Locker | 
+1	| Mrs. Rawson | Mrs. Rawson | Mrs. Rawson 's | Mrs. Rawson | herself | Mrs. Rawson | she | she | Mrs. Rawson | Mrs. Rawson | Mrs. Rawson | Mrs. Rawson | Rawson | her | Mrs. Rawson | she | she | her | her | her | she | She | Mrs. Rawson | her | her | Mrs. Rawson 's | her | She | Mrs. Rawson | she | Mrs. Rawson | Mrs. Rawson | her | her | Mrs. Rawson | she | her | Mrs. Rawson | 
+0	| the recompense | 
+0	| Mr. Lennox in the event of Mrs. Lennox 's death | Mr. Lennox | Mr. Lennox | 
+0	| the event of Mrs. Lennox 's death | 
+0	| Mrs. Lennox 's death | 
+0	| this morning when I took her up a cup of tea | the morning | 
+0	| a cup of tea | half a cup | 
+0	| a bit of dinner | 
+0	| We | 
+0	| some rabbit for supper | 
+0	| a piece | the piece for her | 
+0	| A few minutes | it | it | It | 
+0	| the hospital | 
+0	| second | second | second | 
+0	| second thoughts | his thoughts | 
+0	| he | 
+0	| the Opéra Comique | the Opéra Comique | the Opéra Comique | the Opéra Comique | Opéra Comique | 
+0	| my hat and jacket | 
+0	| round | 
+0	| the best way to escape responsibility | her way | 
+0	| the doorstep | 
+0	| the other side | 
+0	| sight of the Globe Theatre | 
+0	| the Globe Theatre | 
+0	| the stage entrance of the Opéra Comique | the stage entrance | 
+0	| Holliwell Street | 
+0	| Wytch Street | 
+0	| the bookstall | 
+0	| the corner of Holliwell Street | 
+0	| the street | the street , ' she muttered ; ` he meant a quarter down , ' and she addressed herself to the door-keeper , who answered surlily that Mr. Lennox was particularly engaged at that moment , but at Mrs. Rawson 's words -- | the street | the street | 
+0	| The stage-doors of the Globe and the Opéra Comique | side by side | 
+0	| the Globe and the Opéra Comique | 
+0	| the Globe | 
+0	| he | he | his | he | he | he | he | him | 
+0	| a quarter | 
+0	| the door-keeper , who answered surlily that Mr. Lennox was particularly engaged at that moment | 
+0	| the door-keeper | 
+0	| that moment | that moment | 
+0	| Mrs. Rawson 's words | 
+0	| his wife | his wife | his wife | his wife | she | 
+0	| a message | it | the message | 
+0	| hold of somebody | 
+0	| three | three | three | 
+0	| the swing-door | 
+0	| a few minutes after Mrs. Rawson | 
+0	| several little staircases | 
+0	| some passages | 
+0	| a small room in which there were three people , one a pleasant-faced man , so affable and kind that Mrs. Rawson thought she could have got on with him | 
+0	| a small room in which there were three people , one a pleasant-faced man , so affable | room to one | 
+0	| three people , one a pleasant-faced man , so affable | 
+0	| three people , one a pleasant-faced man | 
+0	| three people | 
+0	| one a pleasant-faced man | 
+0	| a pleasant-faced man | him | 
+0	| kind that Mrs. Rawson thought she could have got on with him | 
+0	| a chance | 
+0	| a tall imperious lady who rustled a voluminous skirt -- a person of importance | her | she | 
+0	| a voluminous skirt | 
+0	| a person of importance | 
+0	| the deference | 
+0	| which a little thread-paper-man listened to her -- the costumier | 
+0	| a little thread-paper-man | her | 
+0	| the costumier | 
+0	| scraps of conversation | 
+0	| you | That | 
+0	| I | I | myself | me | me | I | I | I | I | my | I | I | me | I | I | I | myself , ' Mrs. Rawson answered | myself | Mrs. Rawson answered | I | I | I | I | me | I | I | I | I | I | I | I | I | my | I | I | my | me | I | 
+0	| you | 
+0	| You | 
+0	| some beef-tea | she | She | her | the beef-tea | her | her | she | the beef-tea | 
+0	| one that had n't | 
+0	| many days | 
+0	| mistaken , of course | 
+0	| mistaken | 
+0	| a nurse | 
+0	| Mrs. Forest | Mrs. Forest | her | her | you going | Mrs. Forest | Mrs. Forest 's | her put | Her | her | she | her | she | Mrs. Forest , who now seemed to her a sensible and practical woman | Mrs. Forest | Forest | Mrs. Forest | Mrs. Forest | Mrs. Forest | her | 
+0	| one | 
+0	| five | 
+0	| you | That | 
+0	| three children | her children | 
+0	| and only one maid | 
+0	| one maid | 
+0	| the two women | 
+0	| the thread-paper man | 
+0	| advantage of the opportunity to whisper to Dick that he thought he could manage to do the flower-girls ' dresses at five shillings less | 
+0	| the opportunity to whisper to Dick that he thought he could manage to do the flower-girls ' dresses at five shillings less | 
+0	| the flower-girls ' dresses | 
+0	| the flower-girls ' | 
+0	| five shillings | 
+0	| the morning , Mr. Shaffle | 
+0	| Mr. Shaffle | 
+0	| her jacket | it | 
+0	| you | 
+0	| nurse your wife , Dick | 
+0	| nurse your wife | she | her | her | She | my wife | her | 
+0	| your | 
+0	| her long feather boa | that | 
+0	| a vindication | 
+0	| we | ourselves | ourselves | we | our | we | 
+0	| our regrets | 
+0	| Jesus | 
+0	| you | 
+0	| now , Mrs. Rawson | 
+0	| now | it | 
+0	| you | 
+0	| to-morrow , Dick | 
+1	| Laura | Laura 's | she | Laura 's | Laura | Laura | she | she | Laura | she | Laura | her | Laura interjected | Laura | Laura | she | she | she | her | she | her | her | She | her | Laura | she | her | Laura interjected | interjected | she | she | she | Laura | her | she | Laura 's | Laura | her | Laura | her | Laura | Laura | her | her | she | her | Laura | Laura 's | 
+0	| you | 
+0	| no use | 
+0	| Laura 's eyes | 
+0	| a moment | a moment | 
+0	| Mrs. Forest 's eyes | 
+0	| he | himself | his | his | he | he | 
+0	| Laura 's resolve to go and attend upon his wife in what was no doubt a last agony | 
+0	| a last agony | 
+0	| his head remembrances of an actress | 
+0	| an actress | 
+0	| Her demeanour | 
+0	| her speech | It | her speech | 
+0	| times | 
+0	| her vocation | 
+0	| nature for the stage | 
+0	| the stage | 
+0	| She | myself or Kate | myself | myself | I | I | me | my | I | my | me | I | I | I | I | my | I | I | I | I | my | I | my | I | my | me | I | I | I | me | I | I | I | I | I | I | I | I | my | I | my | I | I | I | my | I | my | I | I | I | me | me | me | me | 
+0	| more mummer than myself or Kate | he | himself | he | he | 
+0	| an ear | 
+0	| her outpourings | them | 
+0	| the rudiments of the grand style | 
+0	| the grand style | 
+0	| her transitions | 
+0	| her voice | 
+0	| Her soul | 
+0	| the real woman | 
+0	| the fictitious | 
+0	| the tripod | 
+0	| the bedside in attendance | 
+0	| the patient | his patient | the patient | the patient | 
+0	| the clock | 
+0	| the medicine on the exact time | 
+0	| the exact time | the exact time | the fact that she would have to attend upon the wife of some man who would be engaged in the publication of some of her works | time to time | 
+0	| the length of the day | 
+0	| her work | my work | 
+0	| the changes | 
+0	| the second act | the second act | 
+0	| They | 
+0	| ` Demurrage ' Dick exclaimed . | 
+0	| Dick exclaimed | 
+0	| a soul ready to depart | 
+0	| one | 
+0	| her sailing orders | 
+0	| the case with your poor wife , Dick | 
+0	| your poor wife , Dick | 
+0	| your poor wife | 
+0	| your | 
+0	| Mrs. Rawson 's account of her illness | 
+0	| her illness | this illness | 
+0	| you | 
+0	| the trouble she 's been to me | 
+0	| my maxim | 
+0	| apartments | 
+0	| you | 
+0	| a room in my house | 
+0	| my house | the house | the house | 
+0	| you | 
+0	| the drawing-room floor , which would suit you nicely | 
+0	| the drawing-room floor | the floor | 
+0	| you | 
+0	| you | day nurse and night nurse yourself | that | 
+0	| yourself | 
+0	| Charing Cross Hospital | 
+0	| talking of a nurse from Charing Cross Hospital | 
+0	| a nurse from Charing Cross Hospital | she | the nurse | 
+0	| they | 
+0	| one | 
+0	| a doctor | a doctor , Laura relating to him in the cab | a doctor | him | his | he | he | his | he | him | 
+0	| the doctor that attended her and her children | the doctor | he | the doctor | The doctor | Ye gods | I | 
+0	| her and her children | 
+0	| We | 
+0	| the cabby | 
+0	| the apothecary 's | 
+0	| the questions she put to the man behind the counter | 
+0	| her a sensible and practical woman | They | they | 
+0	| a cab | the cab | it | it | 
+0	| a short drive | 
+0	| Laura relating to him in the cab | 
+0	| you | 
+0	| a bad case | 
+0	| my conscience | 
+0	| years , ' Laura interjected | 
+0	| years | 
+0	| you | 
+0	| my opinion | 
+0	| you | 
+0	| this duty | it | 
+0	| years before she had ever met Mr. Lennox it had been revealed to her -- not the exact time , but the fact that she would have to attend upon the wife of some man who would be engaged in the publication of some of her works | 
+0	| Mr. Lennox it had been revealed to her -- not the exact time , but the fact that she would have to attend upon the wife of some man who would be engaged in the publication of some of her works | 
+0	| the wife of some man who would be engaged in the publication of some of her works | 
+0	| some man who would be engaged in the publication of some of her works | 
+0	| the publication of some of her works | 
+0	| some of her works | 
+0	| her works | 
+0	| You | 
+0	| my play _ Incarnation _ at the Opéra Comique | 
+0	| some of my work | 
+0	| Sybil | 
+0	| her bag | 
+0	| the table | the table | the table | the table | the table | 
+0	| the manuscript entitled _ Sayings of the Sybil _ | 
+0	| _ Sayings of the Sybil _ | 
+0	| the Sybil _ | he | he | He | he | 
+0	| the necessity of a nurse on Mrs. Forest | 
+0	| a nurse on Mrs. Forest | she | 
+0	| very often people who talked eccentrically | people | them | 
+0	| one | 
+0	| another such one | 
+0	| the manuscript on the table | the manuscript on the table | 
+0	| you | 
+0	| we | we | we | 
+0	| you | 
+0	| eight | 
+0	| Light-King | she | 
+0	| ninth | 
+0	| the doctor to answer | 
+0	| at least eight times | 
+0	| the dread contest of death | the contest | 
+0	| the cause of Pan , and the Light-King , and Eros the immortal , ` whose I am , ' she said | 
+0	| Pan , and the Light-King , and Eros the immortal | 
+0	| the Light-King | 
+0	| Eros the immortal | Eros | 
+0	| the immortal | 
+0	| the ninth time | 
+0	| joy which overcomes fear | 
+0	| love that conquers death | 
+0	| death in this instance , ' the doctor answered , ` and with care we may save her for some time , and if -- ' | 
+0	| this instance , ' the doctor answered , ` and with care we may save her for some time , and if -- ' | 
+0	| this instance | 
+0	| the doctor answered , ` and with care we may save her for some time , and if | him | 
+0	| care we may save her for some time | 
+0	| some time | time | 
+0	| the door | 
+0	| the present state of earth-life | its | 
+0	| earth-life | 
+0	| the human race | 
+0	| a higher degree of perfection | 
+0	| no weak half-measures | 
+0	| the change | 
+0	| the contrary | 
+0	| a radical change in hereditary environment | 
+0	| the impression | 
+0	| the writing-table | 
+0	| the | they | they | them | Their | 
+0	| her brown silk | 
+0	| gods | 
+0	| Thy hand | 
+0	| Their woof the Parcae alter | thy | thee | 
+0	| the Parcae | I in glory Compared with such as thee ? | her | her | she | she | 
+0	| thy mother 's frown | 
+0	| thy mother 's | 
+0	| glory Compared with such as thee ? | 
+0	| the conflict gory , That I | 

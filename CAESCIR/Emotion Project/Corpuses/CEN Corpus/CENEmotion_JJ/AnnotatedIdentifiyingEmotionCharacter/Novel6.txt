@@ -1,0 +1,538 @@
+0	| we | us | our | us | we | ours | us , the dreadful consciousness of the capacity of the sea | us | 
+0	| the last hours of waiting for an ocean steamer | 
+0	| an ocean steamer | 
+0	| anxious ones | 
+0	| twenty | 
+0	| The people at the office | they | their | The people in the office | they | 
+0	| the office | the office | the office | the office | a | the office , a rattling of feet on the board floor , and a sort of general revival | the office | a rattling of feet on the board floor , and a sort of general revival | 
+0	| his breast | 
+0	| twenty times | 
+0	| no anxiety whatever | his anxiety | his anxiety | 
+0	| that is their stock phrase ; our friends who have crossed the ocean twice a year for a score of years may tell us that any vessel may be a few hours , nay , a few days , behind her reckoning ; it may seem madness to entertain the least shadow of a doubt -- and yet , until the feet we love are on the wharf and the dear glad hands in ours , the shadow of an awful possibility is over us , the dreadful consciousness of the capacity of the sea | 
+0	| our friends who have crossed the ocean twice a year for a score of years | 
+0	| a smile that told the answer | 
+0	| the answer | 
+0	| the ocean | it | the ocean | 
+0	| a word , my dear , dear lady | 
+0	| twice a year | year | 
+0	| a word | 
+0	| a score of years | 
+0	| years | 
+0	| my dear | dear lady | 
+0	| a few hours , nay , a few days , behind her reckoning | 
+0	| a few hours | 
+0	| a few days | his days | 
+0	| her reckoning | 
+0	| the deep sofa | 
+0	| her | she | her | her | she | 
+0	| the least shadow of a doubt | 
+0	| her everything | it | it | it | it | 
+0	| a doubt | 
+0	| the feet we love are on the wharf and the dear glad hands in ours | 
+0	| his mission | 
+0	| the wharf and the dear glad hands in ours | 
+0	| the wharf | 
+0	| no more secrets | 
+0	| the dear glad hands in ours | 
+0	| tears in Margaret 's dark eyes | 
+0	| Margaret 's dark eyes | 
+0	| the shadow of an awful possibility | 
+0	| an awful possibility | 
+0	| the dreadful consciousness of the capacity of the sea | 
+0	| the capacity of the sea | 
+0	| the sea | 
+0	| they | we | 
+0	| England | 
+1	| The Duke | it | The Duke | I | the Duke with more than usual tact | the Duke 's | the Duke | the Duke | the Duke | the Duke | the Duke , who , as may be imagined , was not generally given to spending his days in steamboat offices | the Duke | the Duke | the Duke | the Duke | the Duke | The Duke | the Duke of the bursar | the Duke | the Duke | I | the Duke | it | The Duke | it | the Duke | the Duke | the Duke | Duke | the Duke , with a final look at the stream of descending passengers | the Duke | Duke | the Duke | The Duke | the Duke 's | the Duke | the Duke | 
+0	| his | his | He | he | he | he | he | He | his | his | He | 
+0	| Christmas Day | 
+0	| the end | 
+0	| his way | its way | his way | his way | his way | 
+0	| the date of the ship 's arrival | 
+0	| he | 
+0	| the ship 's arrival | the ship 's arrival | 
+0	| the ship 's | the ship | the ship 's | the ship | the ship | the ship | it | 
+1	| Barker | him | he | you | 
+1	| Claudius | Claudius | Claudius | Claudius | Dr. Claudius | Claudius | he | Claudius | Claudius | Claudius | Claudius | his | he | Claudius | Claudius | he | he | he | Claudius | he , the friend who had taken so much trouble | him | him | Claudius | Claudius | Claudius | he | his | Claudius | Dr. Claudius | Claudius , smiling | Claudius | smiling | I | I | my | He | me | my | Claudius | 
+0	| Screw | 
+0	| Cunard | Cunard | 
+0	| New York , and -- and Mr. Barker and Mr. Screw and all these horrid people | 
+0	| -- and Mr. Barker and Mr. Screw and all these horrid people | 
+0	| and Mr. Barker and Mr. Screw | 
+0	| the Cunard steamer | the steamer | The steamer | that | it | It | the steamer | the steamer | 
+0	| Mr. Barker | 
+0	| Mr. Screw | 
+0	| the vessel which sailed next after the Doctor had telegraphed | this vessel 's | 
+0	| horrid people | 
+0	| the Doctor | the Doctor for all that | the Doctor 's | his | He | he | he | his | he | My | he | his | 
+0	| she | she | 
+0	| Custom-House | Custom-House | Custom-House | Custom-House | Custom-House | 
+0	| first | first | it | first | first | first | 
+0	| arrangements | 
+0	| one | 
+0	| one | 
+0	| the Custom-House tug and board | 
+0	| Dear one | he | he | 
+0	| the Custom-House tug | the Custom-House tug | the Custom-House tug | 
+0	| one thing | 
+0	| the Quarantine | 
+0	| the satisfaction of being first to tell Claudius all there was to be told | 
+0	| she | My | I | my | I | she | My | my | I | she in ready sympathy | She | 
+1	| Margaret | him | he | Margaret | she | he | he | he | He | his | Margaret | Margaret | Margaret 's | I | Margaret | I | I | his | Margaret | his | Margaret | his | Margaret | he | Margaret | Poor Margaret ! | Margaret | she | Margaret | Margaret | him | he | Margaret | Margaret 's | him | he | Margaret | him | Margaret | 
+0	| The day | the day | the day | the day | the day | 
+0	| we | 
+0	| you | you | That | 
+0	| the story of my birth for the first time to-day | it | 
+0	| my birth for the first time to-day | 
+0	| a sort of dull pleasure , the light that came into her eyes when she heard the time was so near | 
+0	| the light that came into her eyes when she heard the time was so near | 
+0	| the first time to-day | 
+0	| her eyes | her eyes | 
+0	| the time | the time | the time | 
+0	| The first disappointment -- alas , it | only the first -- came on the evening before the appointed day | 
+0	| My uncle -- my father 's brother -- | him | 
+0	| the evening | the evening | 
+0	| my father 's brother | 
+0	| the appointed day | 
+0	| my father 's | my father 's | 
+0	| a note | a note | the note | 
+0	| a week | 
+0	| the effect that late arrivals having reported very heavy weather | the effect | 
+0	| I | fond of him | he | him | he | 
+0	| arrivals | 
+0	| very heavy weather | very heavy weather | 
+0	| you | 
+0	| some hours | 
+0	| the Countess | she | the Countess | she | her | she | her | She | she | She | she | her | her | the Countess 's | the Countess | her | she | her flushed dark cheek till it touched his yellow hair | her | her | her | she | her | She | her | you very glad to come | she | my dear , dear lady | later they | her | she | she | her | she | 
+0	| his annoyance | 
+0	| I | he | I | I | a _ privat-docent _ | you | the heir | he | me | I | He | 
+0	| both she and his sister | they | they | themselves | them | 
+0	| his sister | his sister | I | 
+0	| the theatre | 
+0	| Miss Skeat as a sort of escort | she | her | Miss Skeat | Skeat | 
+0	| a sort of escort | 
+0	| she | 
+0	| It | a great name | it | 
+0	| the news of the delay | it | 
+0	| you | I | she | her | I | 
+0	| the delay | 
+0	| the morning with the assurance | the morning | 
+0	| the assurance | 
+0	| the last sentence | 
+0	| a shade of regret | 
+0	| you | You | he | his | 
+0	| a fuss | it | 
+0	| this stupid money | 
+0	| something serious | 
+0	| a smile | 
+0	| more than usual tact | 
+0	| you | You | you | she | 
+0	| news of a delay in the arrival of some hours , -- perhaps a whole day | 
+0	| his shoulder | 
+0	| a delay in the arrival of some hours | 
+0	| the arrival of some hours | 
+0	| some hours | 
+0	| a whole day | 
+0	| those lawyers for money | We | us | ours | we | us | us | 
+0	| the safe side | 
+0	| Vladimir | Vladimir | Vladimir | 
+0	| a little | it | it , beloved | it | It | it | 
+0	| his rooms | 
+1	| Lady Victoria | her | Lady Victoria | she | her | I | I | she | her | her | her | Lady Victoria | I | Lady Victoria | her | Lady Victoria | her | Lady Victoria | her | her | her | Lady Victoria | I | she | me | I | I | my | me | Lady Victoria | she | 
+0	| you | you | you | her | 
+0	| Margaret and Lady Victoria | their | they | 
+0	| great spirits | 
+0	| their silk cloaks | 
+0	| the little drawing-room | 
+0	| no ill luck | 
+0	| the fire for a chat | her fire | the fire | 
+0	| a chat | 
+0	| the Duke 's note | it | it , dear | it | 
+0	| my father 's house | it | 
+0	| the firelight | 
+0	| her face | her face | 
+0	| my dear lady where her match was never welcomed before | 
+0	| her companion 's distressed look | 
+0	| her match | 
+0	| her companion 's | 
+0	| `` Nothing -- I suppose I ought not to be anxious . | 
+0	| the yacht | the yacht | 
+0	| a tinge of sadness in her voice | 
+0	| the English girl | 
+0	| sadness in her voice | 
+0	| her brother 's note | his note | 
+0	| her brother 's | he | her brother | he | her brother gravely | I | 
+0	| her | 
+0	| us | 
+0	| the afternoon instead of in the morning | 
+0	| Margaret 's eyes | 
+0	| her gladness | 
+0	| you | she | 
+0	| presentiments | 
+0	| they | they | 
+0	| half an hour | 
+0	| a feeling that I shall never see him again | 
+0	| him | 
+0	| Poor Countess ! | She | her | 
+0	| her white face and weary eyes | 
+0	| her white face | His face | his face | 
+0	| weary eyes | eyes | his eyes | 
+0	| Early the next morning Lady Victoria | it | 
+0	| brother what had been the effect of his note | He | himself | he | his | himself | he | himself | He | him | he | he | he | 
+0	| the effect of his note | 
+0	| better shape | 
+0	| his error | 
+0	| this object | 
+0	| the Cunard office | 
+0	| a novel and a box of cigarettes | his box | 
+0	| cigarettes | 
+0	| the afternoon for something | 
+0	| Bohemian | 
+0	| two | two o'clock | two | two | 
+0	| the course of the day | It | 
+0	| a French steamer | 
+0	| a boat or two | 
+0	| a boat | 
+0	| the Cunarder , which had sailed on the day following this vessel 's departure , though from a nearer point | her | 
+0	| the Cunarder | his | he | he | he | he | him | he | he | his | the Cunarder | 
+0	| the day following this vessel 's departure , though from a nearer point | 
+0	| this vessel 's departure , though from a nearer point | 
+0	| this vessel 's departure | 
+0	| a nearer point | 
+0	| another twenty-four hours | 
+0	| his part | 
+0	| no fear of the safe arrival of the ship | 
+0	| the safe arrival of the ship | 
+0	| due time | 
+0	| thousand | 
+0	| one | 
+0	| one | 
+0	| The odds | 
+0	| a thousand to one that a company which has never lost a vessel at sea will not lose any particular one you name | 
+0	| a company which has never lost a vessel at sea | 
+0	| a vessel | 
+0	| you | 
+0	| the night | the night | the night | night | 
+0	| her lights | 
+0	| the hotel | his hotel | the hotel | 
+0	| the steamer office | 
+0	| her own | 
+0	| the slightest doubt that the steamer was safe | it | 
+0	| this unaccountable presentiment | 
+0	| her fair-haired lover | her | 
+0	| Hideous things | 
+0	| poor | them | them | 
+0	| faces in the green swirl of the waves , men dead , and dying men grasping frantically at the white water-crests breaking over them , as though the rushing foam were a firm thing | 
+0	| faces in the green swirl of the waves | 
+0	| the green swirl of the waves | 
+0	| the waves | the waves | 
+0	| men dead | 
+0	| dying men grasping frantically at the white water-crests breaking over them , as though the rushing foam were a firm thing | 
+0	| the white water-crests | 
+0	| the rushing foam | 
+0	| a firm thing | 
+0	| the wild thin wind screeching across the ocean | 
+0	| his race | 
+0	| a grand form of a man , stiff-limbed and stark , the yellow hair all hanging down | it | no use | 
+0	| a man , stiff-limbed and stark , the yellow hair all hanging down | They | 
+0	| a man | 
+0	| the yellow hair all | his yellow hair | 
+0	| the broad white throat | 
+0	| the deep green water , and seaweed , and ooze , far down below the angry waves | 
+0	| the deep green water | 
+0	| the angry waves | 
+0	| these dark thoughts | 
+0	| lips | his lips | 
+0	| the embers | 
+0	| her hearing to catch the sound of some one coming to the door -- some one bearing the welcome news that the good ship was sighted at last | 
+0	| the sound of some one coming to the door -- some one bearing the welcome news that the good ship was sighted at last | no sound | 
+0	| some one | 
+0	| the door -- some one bearing the welcome news that the good ship was sighted at last | the door | 
+0	| some one bearing the welcome news that the good ship was sighted at last | 
+0	| the welcome news | 
+0	| the good ship | 
+0	| last | last | last | last | last | last | 
+0	| that weary evening | 
+0	| her , and Miss Skeat | they | 
+0	| her distressed mood | 
+0	| her room | his room | 
+0	| last with a heavy heart | 
+0	| a heavy heart | his heart | 
+0	| Willis | Willis | he | I | your | He | his | his | he | his | he | he | his | He | his | him | he | 
+0	| the truth | 
+0	| the news of the ship 's arrival | 
+0	| so great | 
+0	| his anxiety to relieve Margaret that he insisted upon Willis and Vladimir sitting up all night , so as to be sure of having the message delivered the moment it arrived | 
+0	| Willis and Vladimir | 
+0	| the message | it | the message | the message | 
+0	| the moment it arrived | 
+0	| The Russian and the English servants | they | 
+0	| The Russian | he | 
+0	| the English servants | his servants | them | 
+0	| each other | The other | the other | 
+0	| each other | 
+0	| you | 
+0	| the telegram | 
+0	| one | 
+0	| no telegraph been yet , your Grace | 
+0	| your Grace | His Grace | 
+0	| the gray man-servant , who looked as though he had been up several nights instead of one | 
+0	| the gray man-servant | he | 
+0	| several nights instead of one | 
+0	| a change of voice | 
+0	| his conviction | 
+0	| the day previous in the office | 
+0	| his post | 
+0	| the Countess 's doubts | 
+0	| Elevated Road | the smooth Elevated Road | 
+0	| a cab | It | a cab | 
+0	| many foreigners | 
+0	| the Elevated Road | 
+0	| the Bowling-Green | 
+0	| steamboat offices | 
+0	| the chairs | 
+0	| his novel | it | it | 
+0	| the clerks | 
+0	| a nuisance | 
+0	| a real living swell | 
+0	| New York | New York | New York | 
+0	| the newspaper vendors | 
+0	| the gay feathers of New York business | 
+0	| New York business | 
+0	| feet on the board floor , and a sort of general revival | 
+0	| feet on the board floor | her feet | 
+0	| the board floor | 
+0	| a sort of general revival | 
+0	| She | her | 
+0	| sight , '' a clerk called out to the Duke | 
+0	| a clerk called out to the Duke | His | himself | He | he | he | he | 
+0	| two hours | these two hours | hours | Two hours | 
+0	| a telegram | your telegram | 
+0	| that her waiting was over | 
+0	| her waiting | 
+0	| due season | it | its | 
+0	| the single cabin of the little high-pressure boat | the cabin | 
+0	| the little high-pressure boat | 
+0	| the waves and the rain | 
+0	| the rain | 
+0	| the great ocean monster | 
+0	| The Custom-House officials , cheery well-fed men , who know the green side of a XX -LSB- 4 -RSB- , and are seldom troubled with gloomy forebodings | 
+0	| The Custom-House officials | cheery well-fed men , who know the green side of a XX -LSB- 4 -RSB- , and are seldom troubled with gloomy forebodings | cheery well-fed men | the Custom-House men | their | their | they | 
+0	| the green side of a XX -LSB- 4 -RSB- | 
+0	| a XX -LSB- 4 -RSB- | 
+0	| 4 -RSB- | 4 | 
+0	| gloomy forebodings | 
+0	| One of them | 
+0	| a perpetual laughing-stock for the rest | 
+0	| the rest | 
+0	| -LSB- Footnote 4 : Twenty dollars . -RSB- | 
+0	| Ike | I | He | his | his | 
+0	| one of his companions between two pulls of a small black bottle , `` you _ hev _ got a skatin ' rink on to the top of _ your _ head , and no _ mistake _ '' | 
+0	| two pulls of a small black bottle , `` you _ hev _ got a skatin ' rink on to the top of _ your _ head , and no _ mistake _ '' | 
+0	| a small black bottle , `` you _ hev _ got a skatin ' rink on to the top of _ your _ head , and no _ mistake _ '' | 
+0	| a small black bottle | 
+0	| you | your | 
+0	| hev _ | _ | _ | _ | 
+0	| a skatin ' rink | 
+0	| a skatin ' | 
+0	| the top of _ your _ head , and no _ mistake _ | 
+0	| _ your _ head , and no _ mistake _ | 
+0	| _ your _ head | 
+0	| your _ head | 
+0	| no _ mistake _ | 
+0	| the outside smooth than the inside soft | 
+0	| the inside soft | 
+0	| you | 
+0	| a water-melon | 
+0	| the first speaker | 
+0	| one | 
+0	| more than one or two passengers on the Custom-House tug | 
+0	| more than one | 
+0	| two passengers on the Custom-House tug | the passengers | the passengers | 
+0	| this occasion | 
+0	| the atmosphere of tobacco and whisky | It | five o'clock | five | 
+0	| tobacco and whisky | 
+0	| the side | the side , hurrying down to find his friend | the side | 
+0	| the engine-room | 
+0	| their smoke and their repartee | 
+0	| their smoke | 
+0	| their repartee | 
+0	| five o'clock , and already nearly dark | 
+0	| the great steamer | 
+0	| five minutes | 
+0	| his friend | him | he | 
+0	| the bursar | the bursar | he | he | I | I | he a light beard | The bursar | his | 
+0	| The officer | he | his | his | he | he | he | I | the officer kindly | 
+0	| his acquaintance | 
+0	| the voyage | 
+0	| a list of the passengers | the list | the list | 
+0	| the time of year | 
+0	| his finger | 
+0	| the name he sought | his name | his name | his name | his name | 
+0	| the paper close | 
+0	| the lamp | 
+0	| no `` Dr. Claudius '' | His | his | he | 
+0	| she | 
+0	| foolish of Claudius | 
+0	| You | 
+0	| no omissions | 
+0	| `` Quite sure , sir , '' | 
+0	| Quite sure , sir | 
+0	| Quite sure | 
+0	| a minute | 
+0	| a passenger taken ashore at Queenstown very ill | him | 
+0	| Queenstown very ill | Queenstown | 
+0	| A tall man , I should say , though they carried him . | 
+0	| A tall man | He | he | he | his | the man | 
+0	| they | 
+0	| the passage | 
+0	| you | 
+0	| a light beard | 
+0	| yes ; a large beard at all events . | he | him | He | his | My | he | his | yes | him | 
+0	| a large beard at all events | 
+0	| they | 
+0	| no one | 
+0	| The captain | He | him | him | he | 
+0	| you | 
+0	| thanks -- please ask him -- | 
+0	| a chair | a chair | 
+0	| a quarter of an hour | 
+0	| an hour | 
+0	| no one | It | 
+0	| no means clear that Claudius was not lying ill , perhaps dead | 
+0	| Englishman | his | He | he | he | himself | 
+0	| The poor Englishman bit | 
+0	| The sick passenger | he | he | he | I | himself | his | his | he | 
+0	| the description | that | it | 
+0	| Vick | Vick | Vick | he | his | he | I | I | I | 
+0	| so much sense | 
+0	| the idea of consulting with his sister | itself | 
+0	| his mind | 
+0	| I | the friendly officer | 
+0	| you | 
+0	| we | 
+0	| It | 
+0	| more than an hour | 
+0	| some faint hope | 
+0	| the Doctor 's name | 
+0	| some accident | 
+0	| the crowding passengers | they | their | 
+0	| their traps | 
+0	| the great saloons | 
+0	| a glimpse of his face | 
+0	| a towering figure | 
+0	| a darkened passage way | 
+0	| his hand | 
+0	| the stranger | 
+0	| a `` mistake '' | 
+0	| The excitement | 
+0	| the whole of his very high and mighty life | 
+0	| his very high and mighty life | my life | it , Vick | it | 
+0	| such | 
+0	| a state of mind | 
+0	| Some of the passengers | his | he | He | He | He | a defaulting bank cashier | He | He | He | his | his | he | he | 
+0	| his uneasy movements | 
+0	| remarks | 
+0	| an undertone , as he passed and repassed | 
+0	| an undertone | 
+0	| an Englishman | 
+0	| an American | 
+0	| a Scotchman | 
+0	| a New York mamma | her | 
+0	| her daughter | her | her | her | her | 
+0	| her son , who got his clothes half yearly from Smallpage | 
+0	| her son | 
+0	| his clothes | 
+0	| half yearly | 
+0	| Smallpage | 
+0	| the great thing | 
+0	| her pier | 
+0	| her jaws | 
+0	| her living freight | 
+0	| a steep plank | 
+0	| a final look at the stream of descending passengers | 
+0	| the stream of descending passengers | 
+0	| descending passengers | 
+0	| the first cab he saw | 
+0	| Elevated | 
+0	| the nearest Elevated station | the station | 
+0	| one | 
+0	| the driver | 
+0	| that placidity which cabmen assume whenever one is in a hurry | 
+0	| a hurry | 
+0	| Sixth | Sixth | 
+0	| damn the avenue -- Sixth Avenue of course | Sixth Avenue | Avenue Elevated | 
+0	| Sixth Avenue of course | 
+0	| a stew | 
+0	| good , sir -- Sixth Avenue Elevated | 
+0	| I | he | I | good | sir -- Sixth Avenue Elevated | he | his | I | I | his | he | his | He | he | His | him | he | he | his | 
+0	| you | her | 
+0	| the questions that repeated themselves with stunning force in his ear as he rattled through the streets , and slid over the smooth Elevated Road , swiftly towards his hotel | 
+0	| themselves | 
+0	| his ear | 
+0	| the streets | 
+0	| hundred | 
+0	| still some few hundred yards | 
+0	| His courage | 
+0	| the bearer of bad news | 
+0	| the steps , and the few stairs | 
+0	| the steps | 
+0	| the few stairs | 
+0	| Lady Victoria under the gaslight | she | her | 
+0	| the gaslight | him | 
+0	| the clock | 
+0	| you | 
+0	| a low voice | her voice | 
+0	| the expletive , which found vent elsewhere , as expletives will | 
+0	| the expletive | 
+0	| expletives | 
+0	| the devil | he | 
+0	| Europe | it | 
+0	| his senses enough | 
+0	| he | the friend who had taken so much trouble | him | 
+0	| so much trouble | 
+0	| a moment | a moment | 
+0	| your room to wait | 
+0	| your | her | she | 
+0	| your | they | 
+0	| sight at three o'clock | 
+0	| three o'clock | 
+0	| Devilish | her | 
+0	| `` Devilish quick , indeed , '' | 
+0	| Devilish quick , indeed | 
+0	| Devilish quick | 
+0	| her profane brother | his | me | he | 
+0	| his breath | it | 
+0	| one | 
+0	| bed that | it | It | this | 
+0	| another steamer , one of the German line | 
+0	| another steamer | 
+0	| one of the German line | 
+0	| a couple of hours | 
+0	| the Duke 's message | 
+0	| no discrepancy | 
+0	| Custom House | 
+0	| The tall Doctor | his | He | he | he | he | his | he | his | his | his | him | his | he | 
+0	| his slender luggage | 
+0	| the mercy of the Custom House | 
+0	| the Custom House | 
+0	| the servant | his | 
+0	| the formality of taking up his name to the Countess | 
+0	| the stereotyped American hotel phrase | it | 
+0	| the stairway but a single step | 
+0	| the stairway | 
+0	| a single step | 
+0	| One | 
+0	| One moment | it | 
+0	| the fair white hands | her hands | 
+0	| his height | 
+0	| her forehead | 
+0	| his fingers | 
+0	| her waist | 
+0	| the length of his mighty arms before him , unconscious , in his overmastering happiness , of the strength he was exerting | 
+0	| his mighty arms before him | 
+0	| his overmastering happiness | 
+0	| the strength he was exerting | 
+0	| pride of such a man | 
+0	| such a man | me | my | he | I | myself | his | him | he | 
+0	| my beloved | they | beloved | beloved | 

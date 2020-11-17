@@ -1,0 +1,582 @@
+0	| Brookfield on the morning of December 3 , ' 84 | 
+0	| the morning of December 3 , ' 84 | the morning | 
+0	| December 3 , ' 84 | 
+0	| December 3 | 
+0	| 84 | 
+0	| the rain | the rain | it | 
+0	| the midst of a profound silence | 
+0	| a profound silence | 
+0	| The trees | 
+0	| the grey air | it | the air | 
+0	| the falling leaf | 
+0	| one | 
+0	| the wet sheep | 
+0	| an outside car , one seat overturned to save the cushions from the wet | 
+0	| an outside car | 
+0	| one seat overturned to save the cushions from the wet | 
+0	| the cushions | 
+0	| the wet | 
+0	| the avenue | 
+0	| a shaggy horse and a wild-looking driver in a long , shaggy frieze ulster | 
+0	| a shaggy horse | 
+0	| a wild-looking driver in a long , shaggy frieze ulster | 
+0	| a long , shaggy frieze ulster | 
+0	| a long | 
+1	| Alice | her | Alice | Alice | Alice | Alice 's | Alice | she | her | her | She | her | She | her | Alice | Alice 's | she | her | Alice | her | her | her | She | her | she | her | she | she | she | her | her | she | she | her | Alice | Alice | she doing | She | She | her | she | she | she | Alice | Alice | 
+0	| the last moment | the moment | it | its | 
+0	| the drawing-room door | the door | 
+0	| her mother | her | 
+0	| her good-bye | 
+0	| one | 
+1	| Mrs. Barton | her | she | her | her | 
+0	| one more kiss | 
+0	| her sister 's pale cheek | 
+0	| her sister 's | 
+0	| a passionate flood of tears | 
+0	| tears | 
+0	| Gladys | Gladys | 
+0	| Zoe Brennan | Zoe | Zoe | Zoe | 
+0	| streaming mackintoshes , and leaning on dripping umbrellas | 
+0	| streaming mackintoshes | 
+0	| umbrellas | 
+0	| her husband , and Gladys and Zoe Brennan | 
+0	| her husband | 
+0	| Gladys and Zoe Brennan | 
+0	| the porch of the church | it | 
+0	| the church | the church | 
+0	| you | 
+0	| n't it dreadful | It | 
+0	| you | 
+0	| the bridegroom | 
+0	| What | what | what | 
+0	| We | 
+0	| to-day | 
+0	| to-morrow and the next and the next | 
+0	| the next and the next | 
+0	| the next | the next | next to it | 
+0	| Father Shannon | he | his | his | his | him | him | 
+0	| this most appropriate remark | 
+0	| the party | 
+0	| the altar-rails | them | 
+0	| arrogant | 
+0	| his altar-steps | 
+0	| his hands | their hands | 
+0	| his portly stomach | 
+0	| either side of him | 
+0	| the plaster angels | their | their | 
+0	| their heads | 
+0	| their wings | 
+0	| Christ | 
+0	| the great chancel window , with its panes of green and yellow glass | 
+0	| the great chancel window | its | 
+0	| its panes of green and yellow glass | 
+0	| an unutterable clash of colour | 
+0	| the great white | its | 
+0	| the chalky walls | 
+0	| the earthen floor with its tub of holy water , and the German prints absurdly representing the suffering of Christ | 
+0	| the earthen floor with its tub of holy water | The floor | the floor | 
+0	| its tub of holy water | 
+0	| the German prints absurdly representing the suffering of Christ | 
+0	| the suffering of Christ | 
+0	| the primitive belief , the coarse superstition , of which the place was an immediate symbol | 
+0	| the primitive belief | the coarse superstition | 
+0	| the place | an immediate symbol | the place | 
+0	| Alice and the doctor | their | their | them | they | they | they | 
+0	| the doctor | the Doctor 's | 
+0	| each other | it | it | 
+0	| their thoughts | 
+0	| the actual problem of their united lives to wander far in the most hidden ways of the old world 's psychical extravagances | 
+0	| their united lives to wander far in the most hidden ways of the old world 's psychical extravagances | 
+0	| the most hidden ways of the old world 's psychical extravagances | 
+0	| the old world 's psychical extravagances | 
+0	| the old world 's | the world | 
+0	| absurd usages the place they were in | 
+0	| use of it | it | its | what use | 
+0	| the police-station , where inquiries are made concerning parcels | 
+0	| the police-station | 
+0	| inquiries | 
+0	| parcels | 
+0	| cabs ; the Commissioner before whom an affidavit is made | 
+0	| the Commissioner before whom an affidavit is made | 
+0	| an affidavit | 
+0	| its purpose as well as any of the others | 
+0	| the others | theirs | their | they | their | they | their | their | their | they | their | they | themselves | their | they | them | them | 
+0	| Edward | Edward | Edward 's | his | he | Edward | 
+0	| Miss Brennans | 
+0	| one | 
+0	| one | 
+0	| one | 
+0	| one | 
+0	| The priest | 
+0	| the ring | 
+0	| Alice 's finger | 
+0	| the usual prayers | 
+0	| no harm | 
+0	| no good | 
+0	| their names | 
+0	| the register and bid good-bye | 
+0	| the Miss Brennans | 
+0	| the carriage , man and wife , their feet set for ever upon one path , their interests | 
+0	| the carriage , man and wife | their feet set for ever upon one path , their interests | the carriage | the carriage | The carriage | 
+0	| one path , their interests | 
+0	| one path | 
+0	| their interests | 
+0	| one interest and one delight | 
+0	| one interest | 
+0	| one delight | 
+0	| their separate troubles | 
+0	| one trouble that might or might not be made lighter by the sharing | 
+0	| the sharing | 
+0	| such thoughts | 
+0	| the blue cushions of the carriage | 
+0	| a little | a little | a little | a little | it | 
+0	| Ardrahan | 
+0	| three hours waiting for a train at the little station of Ardrahan | it | 
+0	| a train at the little station of Ardrahan | 
+0	| the little station of Ardrahan | 
+0	| the time driving to Athenry ; and , as the carriage rolled through the deliquefying country , the eyes of the man and the woman rested half fondly , half regretfully , and wholly pitifully | time to time | time | your time | 
+0	| Athenry | 
+0	| the deliquefying country , the eyes of the man | 
+0	| the deliquefying country | the country | 
+0	| the eyes of the man | 
+0	| the man | 
+0	| the woman | 
+0	| the wild landmarks which during so many years had grown into | 
+0	| so many years | 
+0	| part of the texture of their habitual thought ; on things of which they would now have to wholly divest themselves | 
+0	| the texture of their habitual thought | 
+0	| their habitual thought | 
+0	| things of which they would now have to wholly divest themselves | things | 
+0	| the background of their younger lives | 
+0	| their younger lives | 
+0	| the streaming glass | 
+0	| the strip of bog ; and the half-naked woman , her soaked petticoat clinging about her red legs , piling the wet peat into the baskets thrown across the meagre back of a starveling ass | 
+0	| the half-naked woman , her soaked petticoat clinging about her red legs , piling the wet peat into the baskets thrown across the meagre back of a starveling ass | 
+0	| the half-naked woman | her | her | 
+0	| her soaked petticoat clinging about her red legs , piling the wet peat into the baskets thrown across the meagre back of a starveling ass | 
+0	| her red legs | 
+0	| the wet peat | 
+0	| the baskets thrown across the meagre back of a starveling ass | 
+0	| the meagre back of a starveling ass | 
+0	| a starveling ass | 
+0	| one | 
+0	| low-lying , swampy fields , and between them and the roadside a few miserable poplars with cabins sunk below the dung-heaps , and the meagre potato-plots lying about them | 
+0	| low-lying , swampy fields | 
+0	| between them and the roadside a few miserable poplars with cabins sunk below the dung-heaps | 
+0	| them and the roadside | 
+0	| the roadside | 
+0	| cabins sunk below the dung-heaps | 
+0	| the dung-heaps | 
+0	| the meagre potato-plots lying about them | 
+0	| these | these | these | these | their | 
+0	| green enclosures full of fattening kine | 
+0	| fattening kine | 
+0	| here and there a | 
+0	| here | here | their | 
+0	| there a | 
+0	| cottage , one wall still black | 
+0	| one wall still black | 
+0	| the chimney 's smoke | 
+0	| the chimney 's | 
+0	| those who know the country a tale of eviction | 
+0	| a tale of eviction | 
+0	| beautiful plantations | 
+0	| the crests of the hills , the pillars of a Georgian house showing at the end of a vista | 
+0	| the hills , the pillars of a Georgian house showing at the end of a vista | 
+0	| the hills | the pillars of a Georgian house showing at the end of a vista | 
+0	| a Georgian house showing at the end of a vista | 
+0	| the end of a vista | 
+0	| a vista | 
+0	| a narrow road | 
+0	| our travellers | the travellers | their | them | they | ` You | 
+0	| our | we | our | our | our | us | 
+0	| a dozen policemen | 
+0	| a roadside cottage | the cottage | 
+0	| the furniture | The furniture | 
+0	| The family | 
+0	| a hawthorn-tree | 
+0	| the agents | their | they | them | 
+0	| their bailiffs | 
+0	| the walls of the cottage | its walls | 
+0	| one of the men | 
+0	| our backs | 
+0	| our work | their work | It | eleven o'clock in the morning | 
+0	| Ireland | Ireland | Ireland | Ireland | 
+0	| an eviction scene | our last glimpse of Ireland | 
+0	| the rent for them | the rent | 
+0	| the words | Words | 
+0	| the thought passed through her mind that her almsgiving was only another form of selfishness | 
+0	| her mind | 
+0	| her almsgiving | 
+0	| another form of selfishness | 
+0	| her departure to be associated with an act of kindness | 
+0	| an act of kindness | 
+0	| her request | 
+0	| Edward 's hand | 
+0	| his pocket | 
+0	| the agent how much the rent was | 
+0	| Five years ' rent | It | no rent | 
+0	| Five years ' | 
+0	| more than the travellers had in their purses | 
+0	| their purses | 
+0	| we | 
+0	| Circumstances | 
+0	| this misery | 
+0	| Ireland but the priests | 
+0	| the priests | 
+0	| us | us | we | 
+0	| as many | she | 
+0	| Two years and a half | 
+0	| Two years | 
+0	| a half | 
+0	| the suburban home predicted by May , when she came to bid Alice a last good-bye | its | 
+1	| May | May | May 's | 
+0	| a last good-bye | 
+0	| the reader in all its yellow paint and homely vulgarity | 
+0	| its yellow paint | 
+0	| this suburb | its | 
+0	| the ten-roomed house | 
+0	| a dining-room window looking upon a commodious area with dust and coal holes | 
+0	| a commodious area with dust and coal holes | 
+0	| dust and coal holes | 
+0	| two | two | two | two | two | two | two | 
+0	| The drawing-room | The drawing-room | a double room , not divided | a double room | her drawing-room | 
+0	| two windows | 
+0	| the slender balcony | its balcony | 
+0	| flower-boxes | 
+0	| mock-Elizabethan | 
+0	| the two windows of the best bedroom belonging to Mr. and Mrs. , and above that again | the windows | 
+0	| the best bedroom belonging to Mr. and Mrs. , and above that again | 
+0	| Mr. and Mrs. | 
+0	| the windows of two small rooms , respectively inhabited by the eldest son and daughter | 
+0	| two small rooms , respectively inhabited by the eldest son and daughter | 
+0	| two small rooms | 
+0	| the eldest son and daughter | 
+0	| the eldest son | her son | his | him | 
+0	| the mock-Elizabethan gable which enframes the tiny window of a servant 's room | 
+0	| the tiny window of a servant 's room | 
+0	| a servant 's room | 
+0	| a servant 's | 
+0	| Mr. | 
+0	| Mrs. | that | 
+0	| Venetian | 
+0	| Ashbourne Crescent | Ashbourne Crescent | its | it | Ashbourne Crescent | its | its | Ashbourne Crescent | it | Ashbourne Crescent | 
+0	| Each house | 
+0	| a pair of trim stone pillars , the crude green of the Venetian blinds jars the cultured eye | 
+0	| trim stone pillars , the crude green of the Venetian blinds jars the cultured eye | 
+0	| trim stone pillars | 
+0	| the crude green of the Venetian blinds jars the cultured eye | 
+0	| the Venetian blinds jars | 
+0	| even the tender green of the foliage in the crescent | 
+0	| the foliage in the crescent | it | 
+0	| the crescent | the crescent | 
+0	| the Stores | 
+0	| this crescent of shrubs | it | 
+0	| shrubs | 
+0	| the neighbourhood | 
+0	| the old ladies | their | their | them | 
+0	| their pugs for their constitutional | 
+0	| their constitutional | it | 
+0	| the young ladies | their | they | the young ladies | 
+0	| their gentleman acquaintances | 
+0	| the City on a Saturday afternoon | 
+0	| a Saturday afternoon | 
+0	| neither Dissent nor Radicalism | 
+0	| nine | 
+0	| The fathers and the brothers | 
+0	| The fathers | 
+0	| the brothers | 
+0	| the City every day | 
+0	| novels | her novels | novels | 
+0	| dances at the Kensington Town Hall | 
+0	| the Kensington Town Hall | 
+0	| Sunday | 
+0	| the clanging of bells | 
+0	| bells | 
+0	| church , the fathers in all the gravity of umbrellas and prayer-books , the matrons in silk mantles and clumsy ready-made elastic sides ; the girls in all the gaiety of their summer dresses with lively bustles bobbing , the young men in frock-coats which show off their broad shoulders | 
+0	| the fathers in all the gravity of umbrellas and prayer-books , the matrons in silk mantles and clumsy ready-made elastic sides ; the girls in all the gaiety of their summer dresses with lively bustles bobbing , the young men in frock-coats which show off their broad shoulders | they | their | 
+0	| the gravity of umbrellas and prayer-books | 
+0	| umbrellas and prayer-books | 
+0	| the matrons in silk mantles and clumsy ready-made elastic sides | their | their | 
+0	| silk mantles and clumsy ready-made elastic sides | 
+0	| silk mantles | 
+0	| clumsy ready-made elastic sides | 
+0	| the girls in all the gaiety of their summer dresses with lively bustles bobbing , the young men in frock-coats which show off their broad shoulders | 
+0	| the gaiety of their summer dresses with lively bustles bobbing | 
+0	| their summer dresses with lively bustles | 
+0	| lively bustles | 
+0	| the young men in frock-coats which show off their broad shoulders | their young men | men | them | 
+0	| frock-coats | 
+0	| their broad shoulders | 
+0	| their tawny moustaches | 
+0	| Each house | the house | its | 
+0	| a cook and housemaid | The cook | 
+0	| Sunday afternoons | 
+0	| the skies | 
+0	| sunset and the outlines of this human warren grow harshly distinct -- black lines upon pale red -- | 
+0	| this human warren | 
+0	| black lines upon pale | 
+0	| a distant park with their young men | 
+0	| its bright brass knockers , its white-capped maid-servant , and spotless oilcloths | 
+0	| its bright brass knockers | 
+0	| its white-capped maid-servant | 
+0	| spotless oilcloths | 
+0	| some great tide of revolution that is now gathering strength far away , deep down and out of sight in the heart of the nation | 
+0	| sight in the heart of the nation | 
+0	| the heart of the nation | 
+0	| the nation | 
+0	| its cheapness and vulgarity | 
+0	| more than anything else representative | 
+0	| the length and breadth of the land | 
+0	| the land | their land | 
+0	| the genius of Empire that has been glorious through the long tale that nine hundred years have to tell | 
+0	| the long tale that nine hundred years have to tell | 
+0	| nine hundred years | 
+0	| our admiration | it | typical England | 
+0	| our | 
+0	| more than all | them | 
+0	| Neither ideas nor much lucidity | 
+0	| ideas | 
+0	| the wisdom | 
+0	| the present ordering of things , and much plain sense and much honesty of purpose | 
+0	| the present ordering of things , and much plain sense | 
+0	| your quest | 
+0	| your | 
+0	| passionate impulses | 
+0	| you | 
+0	| your steps | 
+0	| your | 
+0	| you | 
+0	| a basis of honest materialism | 
+0	| 31 | 
+0	| No. 31 | its | 
+0	| the rest of the houses | the rest | 
+0	| the houses | 
+0	| three | 
+0	| The paint on its walls | its | it | 
+0	| no flowers on its balcony | 
+0	| the hall-door | 
+0	| three bells instead of the usual two | 
+0	| the usual two | 
+0	| a brass plate with ` Dr. Reed ' engraved upon it | 
+0	| Dr. Reed ' engraved upon it | 
+0	| the area-railings | 
+0	| the butcher-boy | 
+0	| a smart parlourmaid | 
+0	| we | we | 
+0	| the interior | 
+0	| The floorcloths | 
+0	| the marble-painted walls | 
+0	| a single picture | 
+0	| Tottenham Court Road | 
+0	| Guido 's | 
+0	| the right is the dining-room | 
+0	| the dining-room | 
+0	| a mahogany table | 
+0	| the Tottenham Court Road , a dozen chairs | 
+0	| the Tottenham Court Road | 
+0	| a dozen chairs | 
+0	| a sideboard and a small table ; green-painted walls decorated with two engravings , one of Frith 's ` Railway Station , ' the other of Guido 's ` Fortune | 
+0	| a sideboard | 
+0	| a small table | 
+0	| green-painted walls decorated with two engravings , one of Frith 's ` Railway Station , ' the other of Guido 's ` Fortune | 
+0	| two engravings , one of Frith 's ` Railway Station , ' the other of Guido 's ` Fortune | 
+0	| two engravings | 
+0	| one of Frith 's ` Railway Station , ' the other of Guido 's ` Fortune | 
+0	| the other of Guido 's ` Fortune | 
+0	| Guido 's ` Fortune | 
+0	| the passage leading to the kitchen-stairs | 
+0	| the kitchen-stairs | 
+0	| a second room | The second room | Alice 's study | 
+0	| this | the Doctor 's consulting-room | 
+0	| A small bookcase | 
+0	| serious-looking volumes , a mahogany escritoire strewn with papers , letters , memoranda of all sorts | 
+0	| serious-looking volumes | 
+0	| a mahogany escritoire strewn with papers , letters , memoranda of all sorts | 
+0	| papers , letters , memoranda of all sorts | 
+0	| papers | letters , memoranda of all sorts | letters | memoranda of all sorts | 
+0	| Brussels | 
+0	| a bright Brussels carpet | 
+0	| two leather armchairs | 
+0	| a portrait of an admiral | 
+0	| an admiral | 
+0	| the fireplace | the fireplace | 
+0	| us | 
+0	| the high marble-painted walls | the walls | 
+0	| first | 
+0	| the first landing | 
+0	| a large | 
+0	| curtains | 
+0	| stiff folding-doors | 
+0	| the heavy curtains that drape the windows | 
+0	| gilt cornices | 
+0	| the middle of the floor | 
+0	| a settee -LRB- probably a reminiscence of the Shelbourne Hotel -RRB- | 
+0	| a reminiscence of the Shelbourne Hotel | 
+0	| the Shelbourne Hotel | 
+0	| either side of the fireplace | 
+0	| sofas , and about the hearthrug many arm-chairs | 
+0	| sofas | 
+0	| the hearthrug | 
+0	| many arm-chairs | 
+0	| the chimneypiece | 
+0	| a gilt oval mirror , worth ten pounds | 
+0	| a gilt oval mirror | 
+0	| second | 
+0	| there she writes her novels | 
+0	| MSS | 
+0	| A table in black wood with a pile of MSS . | 
+0	| a pile of MSS | 
+0	| one | 
+0	| Shelley 's | 
+0	| Wordsworth 's | 
+0	| one corner | its | 
+0	| a bookcase | 
+0	| its shelves | 
+0	| Shelley 's poems , Wordsworth 's poems , Keats ' poems | 
+0	| Shelley 's poems | Wordsworth 's poems , Keats ' poems | Wordsworth 's poems | Keats ' poems | 
+0	| Keats ' | 
+0	| Tennyson | his | 
+0	| Browning | 
+0	| handsome editions of Tennyson and Browning | 
+0	| Tennyson and Browning | 
+0	| Dr. | 
+0	| Reed to his wife | 
+0	| his wife | 
+0	| Swinburne 's | 
+0	| Atalanta | 
+0	| Calydon | 
+0	| You | 
+0	| the shelf a thin volume , Swinburne 's _ Atalanta | 
+0	| the shelf a thin volume | Swinburne 's _ Atalanta | _ | _ | 
+0	| a thin volume | 
+0	| Calydon _ | 
+0	| Walter Pater 's _ Renaissance _ -- studies in art and poetry | 
+0	| _ Renaissance _ | 
+0	| studies in art and poetry | 
+0	| art and poetry | 
+0	| many volumes in yellow covers , evidently French novels | 
+0	| yellow covers , evidently French novels | 
+0	| yellow covers | French novels | 
+0	| The character of the house | 
+0	| its occupants | 
+0	| the complex | 
+0	| London life -- viz. , is not even suburban | 
+0	| life -- viz. | 
+0	| even suburban | 
+0	| here and there traces of new artistic impulses | 
+0	| new artistic impulses | 
+0	| Morris 's | 
+0	| Burne Jones | 
+0	| the mantelpiece in the larger room | 
+0	| the larger room | the room | 
+0	| two large blue vases ; on a small table stands a pot in yellow porcelain , evidently | 
+0	| a small table stands a pot in yellow porcelain | 
+0	| a pot in yellow porcelain | 
+0	| engravings from Burne Jones | 
+0	| tea and talk of their work | 
+0	| You | 
+0	| a tall , spare woman with kind eyes , who carries her arms stiffly | 
+0	| kind eyes , who carries her arms stiffly | 
+0	| kind eyes | 
+0	| her arms | 
+0	| her housekeeping | 
+0	| her basket of keys | 
+0	| keys | 
+0	| the young mother | she | her | 
+0	| the crawling mass of white frock , kisses her son | 
+0	| kisses her son | 
+0	| his blue sash | 
+0	| a few minutes | 
+0	| the bell for nurse | 
+0	| her pen | 
+0	| a perceptible pause | 
+0	| the opening paragraph of the article she is writing when the sound of rapid footsteps attracts her attention , and Olive bursts into the room | 
+0	| the opening paragraph of the article she is writing when the sound of rapid footsteps attracts her attention | it | 
+0	| the article she is writing when the sound of rapid footsteps attracts her attention | 
+0	| the sound of rapid footsteps | 
+0	| rapid footsteps | 
+0	| her attention | 
+0	| Olive bursts into the room | 
+0	| you | 
+0	| I | I | me | I | My | I | me | my | I | I | I | I | I | I | I | I | I | me | me | I | I | I | I | 
+0	| you | 
+0	| you | 
+0	| Olive | Olive 's | it | Olive | 
+0	| My dear Olive , I | 
+0	| My dear Olive | me ; I am so miserable at home ; I ca n't tell you how unhappy I am | 
+0	| dear Olive | 
+0	| you | 
+0	| you | 
+0	| no harm in my asking | 
+0	| you | 
+0	| the perpetual trying to make up matches | 
+0	| matches | 
+0	| Mamma | 
+0	| riches , position , and all | 
+0	| riches | 
+0	| that sort of thing | 
+0	| those kind of men | 
+0	| ten | it | 
+0	| Gibbon | 
+0	| We | we | who | 
+0	| a tennis-party | 
+0	| last year | 
+0	| sometimes ten miles | 
+0	| Captain Gibbon | Captain Gibbon | him | 
+0	| the whole country | 
+0	| ` No , you | 
+0	| ` No | him | he | 
+0	| you | 
+0	| Galway in your time | 
+0	| your | 
+0	| Hibbert | 
+0	| Captain | him | he | he | he | he | 
+0	| India | 
+0	| you | 
+0	| once | 
+0	| And | 
+0	| one | 
+0	| people | them | 
+0	| India one | it | 
+0	| Olive 's thoughts | 
+0	| the sisters | their | them | the sisters | 
+0	| talking of their acquaintances and friends , and of how life had dealt with them | 
+0	| talking of their acquaintances and friends | 
+0	| their acquaintances and friends | 
+0	| a bad accident | 
+0	| hunting lately | 
+0	| a pounding match | 
+0	| Mrs. Manly across country | 
+0	| May 's horse | 
+0	| a big wall | 
+0	| several of her ribs | They | 
+0	| her ribs | 
+0	| You | 
+0	| the | they | them | they | their | they | 
+0	| the Shelbourne | 
+0	| the tenants | 
+0	| we | us | us | 
+0	| Home Rule | 
+0	| the subject | 
+0	| Duffys | 
+0	| Honourable Miss Gores | 
+0	| the Duffys , the Honourable Miss Gores , and the many other families of unmarried girls -- the poor muslin martyrs , whose sufferings were the theme of this book | their | their | 
+0	| the Duffys , the Honourable Miss Gores | 
+0	| the Duffys | 
+0	| the Honourable Miss Gores | 
+0	| the many other families of unmarried girls -- the poor muslin martyrs , whose sufferings were the theme of this book | 
+0	| unmarried girls | 
+0	| the poor muslin martyrs , whose sufferings were the theme of this book | 
+0	| the poor muslin martyrs | 
+0	| sufferings | 
+0	| the theme of this book | 
+0	| this book | 
+0	| their failures | 
+0	| their past life | 
+0	| the spring fire that burnt out in the grate | 
+0	| the grate | 
+0	| the end of a long silence | 
+0	| a long silence | 
+0	| you | 
+0	| a long visit | 

@@ -1,0 +1,751 @@
+0	| London | London | London | London | London | 
+0	| Bohemia | Bohemia | 
+0	| his residence in London | that | 
+0	| his | his | He | a remarkable man | him | he | 
+1	| the accomplished Prince Florizel of Bohemia | Prince Florizel | Florizel | Prince Florizel | Prince Florizel | we | Prince Florizel | I | my | I | The Prince | his | He | he | the only man of the party who kept any command over his nerves | his | the Prince | Prince Florizel | the Prince | I | the man to go back from a thing once said | the Prince | We | me | I | myself | me | I | his | his | My | I | the Prince , with undisturbed good humour | the Prince | I | he | he | he | me | you | you | your | your | The Prince and Geraldine | Prince | me out in this | I | the Prince | The Prince | his | him | he | his | his | He | you of my intention | 
+0	| even exceptional in the highly reasonable desire | 
+0	| the affection of all classes | 
+0	| the highly reasonable desire | a desire | 
+0	| the seduction of his manner | 
+0	| his manner | 
+0	| one | 
+0	| a well-considered generosity | 
+0	| A large number of our fellowmen , who have grown heartily sick of the performance in which they are expected to join daily and all their lives long | 
+0	| the performance in which they are expected to join daily and all their lives long | 
+0	| one or two considerations | 
+0	| a small part of what he actually did | my part | 
+0	| Some | That | my own experience | 
+0	| families who would be shocked , or even blamed | 
+0	| the matter | 
+0	| a placid temper in ordinary circumstances | 
+0	| others | 
+0	| ordinary circumstances | 
+0	| a weakness at heart and recoil | 
+0	| the world | 
+0	| heart and recoil | 
+0	| as much philosophy as any ploughman | my philosophy | 
+0	| the circumstances of death | no circumstances | my circumstances | 
+0	| the Prince of Bohemia | he | his | he | he | his | him | himself | 
+0	| a taste for ways of life | 
+0	| some extent | this extent | 
+0	| ways of life | 
+0	| that to which he was destined by his birth | 
+0	| his birth | 
+0	| a pistol | 
+0	| my head | his head | 
+0	| the trigger ; for something stronger than myself withholds the act | 
+0	| something stronger than myself withholds the act | 
+0	| a low humour | 
+0	| no laughable play | 
+0	| the act | 
+0	| witness in any of the London theatres | he | 
+0	| the London theatres | 
+0	| the season of the year | 
+0	| my body to take hold of death and be done with it | 
+0	| the year | 
+0	| those field sports in which he excelled all competitors | 
+0	| hold of death | it | 
+0	| such as I , and for all who desire to be out of the coil without posthumous scandal | 
+0	| his confidant and Master of the Horse , Colonel Geraldine | his confidant | 
+0	| the coil | 
+0	| the Horse , Colonel Geraldine | 
+0	| the Horse | the Horse | 
+0	| this | its | its | 
+1	| Colonel Geraldine | Geraldine | Colonel Geraldine | him | Colonel Geraldine | his | Geraldine , giving a look to Prince Florizel | Colonel Geraldine | him | he | he | I | I | Geraldine | you too , Major Hammersmith | you too | Colonel Geraldine | I | Colonel Geraldine | Geraldine about to apologise | Geraldine | Geraldine | 
+0	| its history | its | 
+0	| its ramifications in other lands | 
+0	| an evening ramble | 
+0	| The Master of the Horse | a young officer of a brave and even temerarious disposition | He | 
+0	| other lands | 
+0	| a brave and even temerarious disposition | 
+0	| even temerarious disposition | 
+0	| the news | 
+0	| a varied acquaintance of life | him | he | his | his | his | he | 
+0	| liberty to communicate to you | 
+0	| a singular facility in disguise | 
+0	| disguise | 
+0	| your service | 
+0	| his face and bearing | his voice and almost his thoughts | his voice | his voice | his face | his voice | 
+0	| a meeting | It | It | 
+0	| almost his thoughts | 
+0	| some time | 
+0	| those of any rank , character , or nation | 
+0	| this way | 
+0	| your existences | 
+1	| the Prince | the Prince | his | the Prince | the Prince | me | the Prince | Prince | I | my | I | The Prince | him | the Prince | he | you | a connoisseur | the Prince and the Colonel | the Prince | the Prince | him | I | my | I | me | I | I | my | I | I | My | my | I | me | I | I | I | his | the Prince | his | I | I | the Prince | The Prince and the Colonel | The Prince | us | the Prince | I | the Prince | I | I | my | The Prince | himself | his | the Prince , `` why , what the devil is that | the Prince | Prince | 
+0	| admission for the pair | no admission | 
+0	| his watch | 
+0	| the pair | 
+0	| his | 
+0	| strange societies | 
+0	| eleven ; by half-past , at latest , we must leave this place ; so that you have half-an-hour before you to consider my proposal | 
+0	| one | 
+0	| latest , we must leave this place ; so that you have half-an-hour before you to consider my proposal | 
+0	| The civil authorities | them | they | they | 
+0	| latest | 
+0	| the secret of these adventures | 
+0	| we | 
+0	| these adventures | 
+0	| this place | 
+0	| the imperturbable courage of the one and the ready invention and chivalrous devotion of the other | 
+0	| the one and the ready invention and chivalrous devotion of the other | 
+0	| the one and the ready invention | 
+0	| my proposal | 
+0	| the one | the one | that | 
+0	| the ready invention | 
+0	| the other | I | my | the other | I | I | myself | I | me | my | I | the other | the other | the other suspiciously | the other 's | the other | that | the other | 
+0	| a cream tart | me | my | 
+0	| a score of dangerous passes | 
+0	| a smile | 
+0	| dangerous passes | 
+0	| Colonel Geraldine ; `` and as it is so much more so , will you allow me five minutes ' speech in private with my friend , Mr. Godall | 
+0	| time | time , Mr. Godall , to make good your escape into thraldom | time | 
+0	| One | 
+0	| Leicester Square | 
+0	| five minutes ' speech in private with my friend | It | 
+0	| One evening in March | 
+0	| five minutes ' | 
+0	| March | the march | 
+0	| private with my friend | 
+0	| a sharp fall of sleet | 
+0	| sleet | 
+0	| an Oyster Bar | The bar | the bar | that bar | 
+0	| the immediate neighbourhood of Leicester Square | 
+0	| you | 
+0	| a person connected with the Press in reduced circumstances | 
+0	| the Press | 
+0	| reduced circumstances | 
+0	| his appearance | 
+0	| the addition of false whiskers and a pair of large adhesive eyebrows | 
+0	| the addition of false whiskers | 
+0	| the use of this confabulation , Geraldine | 
+0	| false whiskers | 
+0	| this confabulation , Geraldine | 
+0	| a pair of large adhesive eyebrows | 
+0	| this confabulation | 
+0	| large adhesive eyebrows | 
+0	| These | These | my commands , which I now reiterate | my commands | 
+0	| you | 
+0	| a shaggy and weather-beaten air , which , for one of his urbanity , formed the most impenetrable disguise | 
+0	| a shaggy and weather-beaten air | 
+0	| one of his urbanity | 
+0	| the most impenetrable | 
+0	| this | this | 
+0	| the commander and his satellite | their | 
+0	| `` Your Highness , '' | me | 
+0	| the commander | his | 
+0	| Your Highness | 
+0	| his satellite | 
+0	| their brandy and soda | 
+0	| the importance of your life | 
+0	| guests , male and female | 
+0	| more than one of these | 
+0	| our adventurers | them | 
+0	| our | 
+0	| the public interest | no interest to you | 
+0	| a nearer acquaintance | 
+0	| this madman ; but supposing that to-night some irreparable disaster were to overtake your Highness 's person , what , let me ask you , what would be my despair , and what the concern and disaster of a great nation | 
+0	| that to-night some irreparable disaster were to overtake your Highness 's person , what , let me ask you , what would be my despair , and what the concern and disaster of a great nation | 
+0	| the lees of London and the commonplace of disrespectability | 
+0	| to-night some irreparable disaster | 
+0	| the lees of London | 
+0	| some irreparable disaster | 
+0	| the commonplace of disrespectability | 
+0	| your Highness 's person , what , let me ask you , what would be my despair | 
+0	| your Highness 's person | the person | 
+0	| yawning | 
+0	| your Highness 's | me | my | 
+0	| the whole excursion , when the swing doors were pushed violently open | 
+0	| the whole excursion | 
+0	| the swing doors | 
+0	| a young man , followed by a couple of commissionaires | 
+0	| my despair | 
+0	| a young man | 
+0	| a couple of commissionaires | 
+0	| the concern and disaster of a great nation | 
+0	| commissionaires | the commissionaires | the commissionaires | them | 
+0	| a great nation | 
+0	| one 's | 
+0	| Each of the commissionaires | they | 
+0	| a large dish of cream tarts | 
+0	| cream tarts | these cream tarts | the cream tarts | the cream tarts | the cream tarts | my cream tarts | my cream tarts | the cream tarts | 
+0	| a cover , which they at once removed | 
+0	| a cover | 
+1	| the young man | his | the young man , with another bow | the young man | The young man | I | he | me | my | I | the young man | The young man | he | his | his | his | the young man | the young man | the young man 's | he | himself | His | his | his | he | he | his | the young man | my | The young man | his | his | he | the young man gloomily | The young man | he | his | me | the young man | you ruined , like me | me | he | his | he | the young man | his | his | me | he | his | my | I | I | I | I | him | his | the young man | the young man | I | I | my | I | my | I | my | myself | I | I | my | I | I | myself | I | I | I | I | my | he | I | you | the young man | I | You | the young man | the young man , waving his hand to his companions | the young man | his | his | the young man | He | he | 
+0	| the round of the company | round and round | 
+0	| the company | the company | 
+0	| these confections | 
+0	| an exaggerated courtesy | 
+0	| a gentleman | 
+0	| his offer | it | 
+0	| nor | 
+0	| my special authority | 
+0	| these latter cases | 
+0	| the new-comer | he | 
+0	| you | 
+0	| the tart | himself | the tart | his | 
+0	| the incognito under which I choose to go abroad | 
+0	| some more or less humorous commentary | 
+0	| last | last | that | it | last | 
+0	| `` Sir , '' | 
+0	| Sir | he | I | myself | I | Sir | 
+0	| a profound obeisance | 
+0	| you | 
+0	| the same time between his thumb and forefinger | 
+0	| his thumb and forefinger | 
+0	| a very white face as he summoned the young man of the cream tarts , and issued his directions to the waiter | 
+0	| you | 
+0	| an entire stranger | 
+0	| the quality of the pastry | 
+0	| his directions | 
+0	| the pastry | the pastry | 
+0	| two dozen and three of them | 
+0	| the waiter | 
+0	| three of them | 
+0	| his undisturbed demeanour | 
+0	| five o'clock | 
+0	| a Palais Royal farce | 
+0	| the habit | 
+0	| the young suicide | 
+0	| the nature of a gift | it | 
+0	| the Colonel 's appealing looks | 
+0	| a gift | 
+0	| the spirit in which it is offered | The spirit | 
+0	| another cheroot | his cheroot | his | his cheroot | 
+0	| more than usual care | 
+0	| The spirit , sir , '' | 
+0	| the party who kept any command over his nerves | 
+0	| his nerves | 
+0	| another bow | 
+0	| one of mockery | 
+0	| you | 
+0	| the whole change of the note | 
+0	| mock | 
+0	| the note | 
+0	| the astonished waiter | 
+0	| a four - wheeler | 
+0	| the cab | 
+0	| the entrance | 
+0	| a rather dark court | the court | 
+0	| the ridicule of the transaction | 
+0	| the transaction | 
+0	| you | you | we | us any natural inclination | we | us | 
+0	| the fare | 
+0	| my twenty-eighth | 
+0	| your escape into thraldom | 
+0	| the exercise | 
+0	| your | you | your | their | 
+0	| one | 
+0	| You | you | your | you | you | 
+0	| another step | this step | 
+0	| your hearts | 
+0	| the world to rescue you from this dilemma | 
+0	| no | 
+0	| this dilemma | 
+0	| the cross-roads | 
+0	| one condition | 
+0	| Lead on , sir | 
+0	| my friend and I | My friend and I | my friend and I | persons very well worthy to be entrusted with a secret | 
+0	| Lead on | 
+0	| my friend | My friend | my friend | my friend | Major Alfred Hammersmith | he | your friend | my friend | Major Hammersmith | 
+0	| your cakes | 
+0	| a thing | the thing | 
+0	| Your coolness | 
+0	| Your | you | you | your | 
+0	| neither of us any natural inclination | 
+0	| me | their guide | I | I | me | I | I | me | I | I | their guide | 
+0	| one | 
+0	| way of recompense | the way | the way | 
+0	| this conjuncture | 
+0	| the first whom I have escorted to this door | 
+0	| still several dozen | 
+0	| More than one of my friends | 
+0	| several more bars | 
+0	| this | this | 
+0	| my great affair | 
+0	| This | we | 
+0	| some time ; and if you are hungry | 
+0	| only a few moments | 
+0	| you | My | I | he | me | 
+0	| the preliminaries of your introduction | 
+0	| a polite gesture | 
+0	| your introduction | 
+0	| you | your | 
+0	| already a deep interest in your very agreeable mode of passing an evening | 
+0	| your very agreeable mode of passing an evening | 
+0	| a doorway | 
+0	| an evening | 
+0	| the preliminaries of peace | 
+0	| a low voice | 
+0	| the treaty for both | 
+0	| both | 
+0	| the tart with the best grace | tart | 
+0	| the best grace | It | 
+0	| your Highness | your Highness | his Highness | your Highness | 
+0	| your | your | 
+0	| the opportunity | 
+0	| one | 
+0	| The consequences of this step | 
+0	| his delicacies | 
+0	| a little | 
+0	| the liberty which your Highness is so condescending as to allow me in private | 
+0	| the young man with the cream tarts | the young man of the cream tarts | his | 
+0	| another and similar establishment | 
+0	| another | 
+0	| two | two | two | two | two | two | two | the two | alone - `` What , '' said Prince Florizel , `` is the use of this confabulation , Geraldine | 
+0	| The two commissionaires , who seemed to have grown accustomed to their absurd employment | 
+0	| The two commissionaires | their | 
+0	| their absurd employment | 
+0	| his lips | 
+0	| the other 's face | 
+0	| the Colonel | they | The Colonel | the Colonel | my | he | the Colonel | I | my | the Colonel | the Colonel | the Colonel | the Colonel 's | They | the Colonel , `` a moment to ourselves | the Colonel | ourselves | the Colonel | the Colonel | us | the Colonel | you | you | the Colonel | 
+0	| the rear , arm in arm , and smiling to each other as they went | 
+0	| My fear | 
+0	| the rear | 
+0	| arm in arm | his arm | the arm | arm in arm | 
+0	| smiling to each other as they went | 
+0	| each other | 
+0	| your | our | our | 
+0	| this order | 
+0	| two other taverns , where scenes were enacted of a like nature to that already described - some refusing , some accepting , the favours of this vagabond hospitality , and the young man himself eating each rejected tart | 
+0	| two other taverns | 
+0	| you | you | 
+0	| scenes | 
+0	| the difference in our stations | 
+0	| a like nature | 
+0	| our stations | 
+0	| that already described | 
+0	| some refusing , some accepting | 
+0	| No more - no more | 
+0	| some refusing | himself | his | 
+0	| more - no more | 
+0	| some accepting | 
+0	| no more | 
+0	| the favours of this vagabond hospitality | 
+0	| this vagabond hospitality | 
+0	| the young man himself eating each rejected tart | 
+0	| each | 
+0	| a railing | 
+0	| the young man returned | me | I | 
+0	| third | 
+0	| the third saloon | 
+0	| our reception | 
+0	| the young man counted his store | 
+0	| his store | 
+0	| the reply | 
+0	| nine | nine | 
+1	| The President | the President 's | The President | a man of fifty | his | his | His | he | he | He | his | he | he | him | I | me | The President | his | his | he | me | I | I | the President | I | 
+0	| one | 
+0	| remaining , three in one tray and six in the other | 
+0	| the cabinet | the cabinet | the cabinet | 
+0	| remaining | 
+0	| three in one tray | three | three | three | three | three | the three | 
+0	| one tray | 
+0	| your answers | 
+0	| six in the other | 
+0	| your guarantee | 
+0	| `` Gentlemen , '' | Gentlemen | them | 
+0	| Gentlemen | he | himself | his | I | I | I | I | me | I | my | I | me | my | my | I | he | his | he | I | he | he | he | his | he | his | 
+0	| a searching inquiry before admission ; for the indiscretion of a single member | 
+0	| the indiscretion of a single member | 
+0	| his two new followers | 
+0	| a single member | 
+0	| the dispersion of the whole society for ever | 
+0	| the whole society for ever | 
+0	| your supper | 
+0	| ever | their | 
+0	| your | you | you | you | 
+0	| their heads | 
+0	| a moment | 
+0	| a special consideration | 
+0	| `` Bear me out in this , '' | 
+0	| this great day for me | 
+0	| Bear me out in this | me | he | 
+0	| this | them | they | themselves | 
+0	| a career of folly | 
+0	| my most conspicuously silly action | The action | itself | 
+0	| the characters of men | they | their | 
+0	| both | 
+0	| my constitution | its constitution | 
+0	| an agreement in a twinkling | 
+0	| previous excesses | 
+0	| a twinkling | 
+0	| the risk of my life | 
+0	| my life | 
+0	| the President 's cabinet | 
+0	| the suspensory condition | 
+0	| no formidable obstacles to pass | 
+0	| The outer door | 
+0	| these words | these words | 
+0	| the door of the cabinet | 
+0	| the nine remaining tarts | 
+0	| a small but very high apartment | 
+0	| his mouth | His mouth | his mouth | his mouth | 
+0	| a single movement each | 
+0	| each | 
+0	| a nod | 
+0	| one | 
+0	| Voices | 
+0	| a couple of sovereigns | 
+0	| sovereigns | 
+0	| the folding doors which formed one end | these doors | 
+0	| one end | 
+0	| you | them | 
+0	| the noise of a champagne cork , followed by a burst of laughter | 
+0	| your extraordinary patience | 
+0	| a champagne cork | 
+0	| your | 
+0	| a burst of laughter | 
+0	| the sounds of conversation | 
+0	| Charing Cross | 
+0	| a bow apiece | 
+0	| A single tall window | 
+0	| apiece | 
+0	| the river and the embankment | 
+0	| some seconds | it | 
+0	| the river | 
+0	| the embankment | 
+0	| the purse from which he had just paid his assistants , then , with a laugh | my purse | his purse | it | 
+0	| the disposition of the lights | 
+0	| the lights | 
+0	| his assistants | 
+0	| a laugh | 
+0	| Charing Cross station | 
+0	| The furniture | 
+0	| the coverings | 
+0	| the middle of the street | 
+0	| the thread | 
+0	| the street | the street | 
+0	| a hand-bell in the centre of a round table | 
+0	| his readiness | 
+0	| the centre of a round table | 
+0	| a round table | 
+0	| Soho | 
+0	| the hats and coats of a considerable party | 
+0	| a considerable party | your party | 
+0	| the wall | 
+0	| a den | That | 
+0	| four | 
+0	| this | they | 
+0	| a small French restaurant in Soho , which had enjoyed an exaggerated reputation for some little while , but had already begun to be forgotten , and in a private room up two pair of stairs | 
+0	| an exaggerated reputation for some little while | 
+0	| some little while | the while | 
+0	| a private room | 
+0	| two pair of stairs | 
+0	| stairs | 
+0	| live devils | 
+0	| the three companions | their | We | our | we | us | We | our | we | his companions | our | 
+0	| the premises | 
+0	| a very elegant supper | this supper | 
+0	| three or four bottles of champagne | 
+0	| Just then the folding door | the door behind him | 
+0	| the passage of a human body | 
+0	| indifferent subjects | 
+0	| a human body | 
+0	| the same moment | 
+0	| a louder buzz of talk , and the redoubtable President of the Suicide Club | 
+0	| a person of polite breeding | 
+0	| a louder buzz of talk | 
+0	| his hands | 
+0	| the redoubtable President of the Suicide Club | 
+0	| fifty | 
+0	| sudden and surprising inflections , which seemed to be independent of his will | 
+0	| a man of fifty or upwards ; large and rambling in his gait | 
+0	| sudden and surprising inflections | 
+0	| his will | 
+0	| upwards ; large and rambling in his gait | 
+0	| his gait | 
+0	| The dessert | 
+0	| shaggy side whiskers , a bald top to his head , and a veiled grey eye , which now and then emitted a twinkle | 
+0	| their cigars | 
+0	| shaggy side whiskers | 
+0	| a bald top to his head | 
+0	| a veiled grey eye | 
+0	| You | you | you | your | you | 
+0	| a twinkle | 
+0	| His mouth , which embraced a large cigar | 
+0	| my curiosity | 
+0	| a large cigar | his cigar | 
+0	| the strangers | 
+0	| one | 
+0	| light tweeds | 
+0	| his neck very open in a striped shirt collar | 
+0	| a striped shirt collar | 
+0	| a secret | 
+0	| a minute book | 
+0	| one arm | 
+0	| many of our own | 
+0	| our own | 
+0	| improper ears | 
+0	| one | 
+0	| you | We | 
+0	| England | 
+0	| your story | a silly one | my story | that | the reason why I am going to do so | 
+0	| a desire , sir , to join the Suicide Club | 
+0	| no delicacy with us , who are two of the silliest men in England | 
+0	| two of the silliest men in England | 
+0	| My name | My name | 
+1	| Godall , Theophilus Godall | Godall | Theophilus Godall | you , Mr. Godall | you | Mr. Godall | Godall | he | no soldier | Godall | Mr. Godall | Mr. Godall | Godall | 
+0	| you | 
+0	| such | the name by which he chooses to be known | 
+0	| information on that point | 
+0	| that point | 
+0	| our lives | 
+0	| the search for extravagant adventures | 
+0	| `` A Suicide Club ? | their | 
+0	| extravagant adventures | 
+0	| no extravagance with which we are not capable of sympathy | 
+0	| this | this | This | a private house | it | 
+0	| allowances | 
+0	| gentlemen who get merry in their liquor ; but let there be an end to this | we | 
+0	| their liquor | 
+0	| an end to this | 
+0	| you | your | 
+0	| a natural confidence | confidence in us | 
+0	| your | you | you | 
+0	| the Major , whom I take to be a nobleman in masquerade | 
+0	| some company behind these doors | it | 
+0	| the Major | 
+0	| a nobleman in masquerade | 
+0	| masquerade | 
+0	| the President curtly , `` you have made a mistake | 
+0	| the President curtly | 
+0	| a mistake | 
+0	| this compliment | 
+0	| the perfection of his art | 
+0	| his art | 
+0	| a more animated manner | 
+0	| his seat | 
+0	| I | my | I | I | my | My | I | myself | My | I | my | I | I | I | me | my | I | I | I | My | me | I | a person full of manly accomplishments | I | I | my | I | my | I | I | my | I | me of my capital | my | I | I | I | my | my | my | I | I | I | I | me | I | I | me | my | me | I | myself : a fool | I | 
+0	| you | you | you | your | you | your | you | you | you | you | 
+0	| this little colloquy | 
+0	| your | 
+0	| God 's sake | 
+0	| God 's | 
+0	| a tale of silliness | it | 
+0	| my heart to disappoint you | my heart | his heart | 
+0	| I | he | my | me | my | I | a very quiet man | my | me | me | 
+0	| the invitation of a friend of yours | 
+0	| spite of your example | 
+0	| a friend of yours | 
+0	| your example | 
+0	| yours | your | you | you | you | you | you | your | 
+0	| my intention | 
+0	| My age | 
+0	| the narrative | 
+0	| my ancestors | them | they | 
+0	| a person in my circumstances | him | 
+0	| the very eligible human tenement which I still occupy and a fortune of three hundred pounds | 
+0	| the very eligible human tenement which I still occupy | it | my chief delight | 
+0	| a fortune of three hundred pounds | 
+0	| a usual thing | 
+0	| a year | a year | 
+0	| my dear sir | 
+0	| a hare-brain humour , which it has been my chief delight | 
+0	| the little matter of which you are aware | 
+0	| a hare-brain humour | 
+0	| your ante-chamber | 
+0	| a good education | 
+0	| the violin nearly well enough to earn money in the orchestra of a penny gaff | 
+0	| the orchestra of a penny gaff | 
+0	| a penny gaff | 
+0	| The same remark | 
+0	| the flute and the French horn | 
+0	| the flute | 
+0	| the French horn | 
+0	| a hundred a year | 
+0	| that scientific game | 
+0	| Paris | 
+0	| My acquaintance with French | your acquaintance | 
+0	| money in Paris | 
+0	| almost the same facility as in London | 
+0	| manly accomplishments | 
+0	| a duel about nothing | 
+0	| Only two months | 
+0	| a young lady exactly suited to my taste in mind and body | 
+0	| my taste in mind and body | 
+0	| mind and body | my mind | 
+0	| my fate | 
+0	| the way to fall in love | 
+0	| my capital | it | 
+0	| something less than four hundred pounds | 
+0	| a man who respects himself | 
+0	| himself | 
+0	| love on four hundred pounds | 
+0	| the presence of my charmer | 
+0	| my charmer | 
+0	| my usual rate of expenditure | 
+0	| this morning to my last eighty pounds | 
+0	| forty | 
+0	| This | 
+0	| two equal parts ; forty I reserved for a particular purpose ; the remaining forty | 
+0	| forty I reserved for a particular purpose ; the remaining forty | 
+0	| a particular purpose ; the remaining forty | 
+0	| the remaining forty | 
+0	| the night | 
+0	| a very entertaining day | 
+0	| many farces besides that of the cream tarts which procured me the advantage of your acquaintance | 
+0	| that of the cream tarts | 
+0	| the advantage of your acquaintance | 
+0	| a foolish career | 
+0	| a still more foolish conclusion | 
+0	| an end | an end | 
+0	| a fool | his | the fool | 
+0	| his folly | 
+0	| neither a whimperer nor a coward | 
+0	| a whimperer | 
+0	| a coward | 
+0	| the whole tone of the young man 's statement | 
+0	| the young man 's statement | 
+0	| very bitter and contemptuous thoughts | 
+0	| His auditors | 
+0	| his love affair | 
+0	| a design on his own life | 
+0	| his own life | 
+0	| The farce of the cream tarts | 
+0	| the air of a tragedy | 
+0	| a tragedy | 
+1	| Geraldine | Geraldine | Geraldine | you and I | Geraldine | Your | you | your | your | your | you | I | the Prince in his most deliberate tones ; `` and have the kindness , Colonel Geraldine , to remember and respect your word of honour as a gentleman | his most deliberate tones ; `` and have the kindness , Colonel Geraldine , to remember and respect your word of honour as a gentleman | his | and | the kindness , Colonel Geraldine , to remember and respect your word of honour as a gentleman | the kindness | Colonel Geraldine | Geraldine | your word of honour | your | my | I | my | I | he | me | Colonel Geraldine | he | he | 
+0	| this not | we three fellows | 
+0	| a look | 
+0	| three fellows | 
+0	| the merest accident in so large a wilderness as London | 
+0	| so large a wilderness as London | 
+0	| the same condition | 
+0	| you | 
+0	| a folly like my cream tarts | your folly | 
+0	| the devil | The devil , depend upon it | The devil | I | I | my | the devil | 
+0	| three of his own | it | 
+0	| a last carouse | 
+0	| a very gentlemanly thing | 
+0	| this coincidence | 
+0	| the same case | your case | it | 
+0	| the disparity | 
+0	| your heroic treatment of the last cream tarts | my example | 
+0	| your | 
+0	| the last cream tarts | 
+0	| a small bundle of bank-notes | the bundle | 
+0	| bank-notes | 
+0	| You | you | you | he | He | 
+0	| a week | the week | 
+0	| the winning-post | 
+0	| This | them | they went up the chimney in a single blaze | them | them | This , my two fellow-rebels | 
+0	| one of the notes | 
+0	| the table | the table | 
+0	| the bill | the bill | The bill | 
+0	| the rest | 
+0	| the fire , and they went up the chimney in a single blaze | 
+0	| the fire | the fire | 
+0	| the chimney | 
+0	| a single blaze | 
+0	| his interference | 
+0	| you | You | 
+0	| heaven 's name | 
+0	| heaven 's | 
+0	| eighty | 
+0	| my certain knowledge | 
+0	| a hundred in the bundle | hundred | 
+0	| them | 
+0	| The rule | strict | 
+0	| each | 
+0	| a man | 
+0	| glances | 
+0	| yourself | you | you | 
+0	| the latter | I | I | I | my | I | You | he | me | 
+0	| a pocket-book tolerably | his pocket-book | 
+0	| my wealth | 
+0	| what end : you must certainly tell us what you mean | the end of this | the end of this | 
+0	| one | 
+0	| You | 
+0	| men | men | You | the men for me | men | 
+0	| a ruined man | his | `` A ruined man - yes , '' | a | a | 
+0	| his notes | 
+0	| yes | 
+0	| the other suspiciously , `` or else a millionaire | 
+0	| a millionaire | 
+0	| my word | 
+0	| one | 
+0	| you | you | yourself | you '' | you going to give yourselves that last indulgence | 
+0	| a life of indulgence , come to such a pass that you can only indulge yourself in one thing more | your life | 
+0	| such a pass that you can only indulge yourself in one thing more | 
+0	| one thing | 
+0	| yourselves that last indulgence | 
+0	| one | 
+0	| you | your | you going to give the slip to the sheriff 's officers of conscience by the one open door | he | 
+0	| the consequences of your folly | 
+0	| the one infallible and easy path | 
+0	| one | 
+0	| the slip | 
+0	| the sheriff 's officers of conscience | 
+0	| the sheriff 's | 
+0	| the one open door | 
+0	| Here | your health | 
+0	| your | he | his | my | 
+0	| his glass | 
+0	| good night | 
+0	| you | us | We | we | we | 
+0	| my merry | 
+0	| You | you | your | yourself | you | your | you | 
+0	| answer in the affirmative | your answer | 
+0	| the affirmative | the affirmative | 
+0	| the Queen 's English | 
+0	| Queen 's | 
+0	| alone | 
+0	| him | he | he | he | 
+0	| Pluto | 
+0	| Such a penniless trio | 
+0	| the halls of Pluto | 
+0	| each other | 
+0	| some countenance among the shades | 
+0	| the shades | 
+0	| the manners and intonations that became the part he was playing | 
+0	| the part he was playing | the part | 
+0	| a shade of doubt | 
+0	| the flush | 
+0	| his cheek | 
+0	| his eyes | 
+0	| an almost terrible gaiety | 
+0	| `` Shake hands upon the bargain ! '' | 
+0	| `` Shake | 
+0	| the bargain | 
+0	| his hand | his hand | 
+0	| You | you | You | yourselves | you | you | They | 
+0	| a company | 
+0	| a happy moment | this moment | `` a moment to ourselves | 
+0	| a unit | 
+0	| a unit in an army | 
+0	| an army | 
+0	| Death 's private door | Death 's private door | this door | 
+0	| Death 's | Death 's | 
+0	| one of his familiars | 
+0	| eternity without ceremony and yet without scandal | 
+0	| his meaning | 
+0	| you | you | he | his | 
+0	| beings | 
+0	| the entry money of the Suicide Club | 
+0	| the Suicide Club | The Suicide Club | Suicide Club | the Suicide Club | the Suicide Club | the club | the Suicide Club | the Suicide Club | Suicide Club | Suicide Club | your Club what you will | 
+0	| `` The Suicide Club , '' | 
+0	| what the devil | We | us | our | we | we | us | we | us | we | 
+0	| this | the age of conveniences | 
+0	| conveniences | 
+0	| you | you | you | your | you | you | you | your | you | you | 
+0	| the last perfection of the sort | 
+0	| the sort | 
+0	| affairs in different places | 
+0	| different places | 
+0	| railways | Railways | 
+0	| our friends | your friends | 
+0	| telegraphs | 
+0	| speedier | 
+0	| great distances | 
+0	| hotels | 
+0	| lifts to spare us a climb of some hundred steps | 
+0	| a climb of some hundred steps | 
+0	| some hundred steps | 
+0	| a stage to play the fool upon as long as the part amuses us | 
+0	| one | 
+0	| one more convenience lacking to modern comfort ; a decent , easy way to quit that stage ; the back stairs to liberty ; or , as I said this moment , Death 's private door | 
+0	| a decent , easy way | 
+0	| stage ; the back stairs to liberty | 
+0	| the back stairs to liberty | 
+0	| This | my two fellow-rebels | they | their | 

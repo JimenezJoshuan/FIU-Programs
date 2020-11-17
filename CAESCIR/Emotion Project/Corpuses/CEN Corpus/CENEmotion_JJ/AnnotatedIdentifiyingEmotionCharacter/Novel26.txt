@@ -1,0 +1,642 @@
+1	| I , who write this | I | a dead man | me | my | I | my | my | I | I | my | me | I | me | My | my | I | I | I | my | I | me | I | I | I | I | I | my | I | me | I | I | my | my | my | I | me | my | I | my | I | I | my | me | then a lad of seventeen | my | my | I | I | I | my | I | I | my | I | my | My | I | my | I | I | me | I | My | me | I | mine | me | my | my | me | I | I | I | my | me | I | myself | my | my | I | me | I | I | I | myself | I | I | I | me | I | me | I | I | I | my | myself | me | my | I | myself | my | I | I | I | me | I | I | my | I | I | I | I | my | I | I | I | my | I | I | my | I | me | I | I | my | me | me | I | me | my | Almost I | my | I | I | my | me | my | I | I | I | I | My | me | I | my | me | my | I | myself | me | I | I | I | me | I | I | my | My | my | me | I | I | my | my | me | I | I | my | I | I | my | my | I | I | me | I | you | 
+0	| the infant | 
+0	| this | they | 
+0	| the nurse , who waited to receive it | 
+0	| the nurse | 
+0	| Dead legally -- dead by absolute proofs -- dead and buried ! | Dead | that | the dead | 
+0	| absolute proofs | 
+0	| a smile , `` Tell my wife we have welcomed her May-blossom | 
+0	| a smile | a smile | 
+0	| my native city | the city | 
+0	| you | 
+0	| her May-blossom | 
+0	| one of the victims of the cholera that ravaged Naples in 1884 | 
+0	| the cholera that ravaged Naples in 1884 | 
+0	| Naples in 1884 | Naples | Naples | Naples | 
+0	| 1884 | 
+0	| my shoulder | 
+0	| my mortal remains | 
+0	| the servant retired | 
+0	| the funeral vault of my ancestors | 
+0	| my ancestors | 
+0	| a good fellow , Fabio | 
+0	| thirty | 
+0	| a good fellow | 
+0	| the warm blood coursing through my veins -- the blood of thirty summers -- the prime of early manhood invigorates me , and makes these eyes of mine keen and bright -- these muscles strong as iron -- this hand powerful of grip -- this well-knit form erect and proud of bearing | 
+0	| my veins | our veins | my veins | 
+0	| the blood of thirty summers -- the prime of early manhood invigorates me , and makes these eyes of mine keen and bright -- these muscles strong as iron -- this hand powerful of grip | 
+0	| other men | 
+0	| thirty summers | 
+0	| You | he | him | I | He | his | he | he | you | 
+0	| the prime of early manhood | 
+0	| the majority | 
+0	| these eyes of mine keen and bright -- these muscles strong as iron -- this hand powerful of grip | 
+0	| these muscles | 
+0	| a spray of clematis that trailed on one of the pillars of the veranda | 
+0	| this well-knit form erect | 
+0	| one of the pillars of the veranda | 
+0	| proud of bearing | 
+0	| one | 
+0	| the fullness of manly force | 
+0	| few distinguishing marks | 
+0	| one | 
+0	| Alpine | 
+0	| reason to suspect any one | 
+0	| My hair , once ebony-black | 
+0	| My hair | once ebony-black | its | 
+0	| his seat | 
+0	| the breakfast-table | 
+0	| a wreath of Alpine snow | 
+0	| Alpine snow | 
+0	| a frank look | 
+0	| its clustering curls | 
+0	| `` A constitutional inheritance ? '' | 
+0	| jealousy 's dagger | 
+0	| one | 
+0	| jealousy 's | 
+0	| one physician | 
+0	| the very children | 
+0	| my frosted locks | 
+0	| the ways of vice | 
+0	| Penitents | penitents | 
+0	| `` A sudden shock ? '' | 
+0	| priests who are worse than penitents | 
+0	| another | them | 
+0	| `` Exposure to intense heat | 
+0	| third | 
+0	| hints a third . | 
+0	| such a state of society , where conjugal fidelity is a farce '' -- he paused a moment , and then went on -- `` is it not wonderful to know a man like you , Fabio | 
+0	| society , where conjugal fidelity is a farce '' -- he paused a moment , and then went on -- `` is it not wonderful to know a man like you , Fabio | 
+0	| a farce '' | it | 
+0	| a moment | 
+0	| my story | 
+0	| a man | you , Fabio | his | 
+0	| a man I met by chance -- one renowned for medical skill and kindliness | He | man 's | 
+0	| one renowned for medical skill and kindliness | 
+0	| A man happy in home affections , without a cloud on the sky of his confidence | I | I | me | I | me | I | I | 
+0	| home affections | 
+0	| a cloud on the sky | 
+0	| the end in evident incredulity and alarm | 
+0	| the sky | 
+0	| the possibility of madness | 
+0	| then | 
+0	| no cause for distrust | 
+0	| distrust | 
+0	| the truth | 
+0	| the little child of whom she is to-day the mother | 
+0	| the pen | 
+0	| my own blood | their blood | 
+0	| the green silence of a vast South American forest | 
+0	| a vast South American forest | 
+0	| Mont Blanc | 
+0	| me -- the grand and stately silence of a virginal nature , almost unbroken by the ruthless step of man 's civilization -- a haven of perfect calm , delicately disturbed by the fluttering wings and soft voices of birds , and the gentle or stormy murmur of the freeborn winds of heaven | 
+0	| `` White as the virgin snow on the summit of Mont Blanc -- purer than the flawless diamond -- and unapproachable as the furthest star ! | 
+0	| the grand and stately silence of a virginal nature | 
+0	| the virgin snow | 
+0	| a virginal nature | my nature | 
+0	| the summit of Mont Blanc -- purer than the flawless diamond -- and unapproachable as the furthest star | 
+0	| almost unbroken by the ruthless step of man 's civilization | 
+0	| purer than the flawless diamond | it | 
+0	| the ruthless step of man 's civilization | 
+0	| the flawless diamond | 
+0	| man 's civilization | 
+0	| unapproachable as the furthest star | 
+0	| the furthest star | 
+0	| a haven of perfect calm | 
+0	| the fluttering wings and soft voices of birds , and the gentle or stormy murmur of the freeborn winds of heaven | 
+0	| the fluttering wings | 
+0	| a certain gravity | 
+0	| soft voices of birds , and the gentle or stormy murmur of the freeborn winds of heaven | 
+0	| something in his manner | 
+0	| soft voices of birds | the gentle or stormy murmur of the freeborn winds of heaven | 
+0	| his manner | 
+0	| birds | 
+0	| the freeborn winds of heaven | 
+0	| Our conversation | 
+0	| this charmed circle of rest | 
+0	| Our | 
+0	| different topics | 
+0	| my overburdened heart like a brimming chalice , and empty it on the ground | 
+0	| no more of the matter | 
+0	| my overburdened heart like a brimming chalice | empty it on the ground | it on the ground | my heart | 
+0	| the matter | 
+0	| a brimming chalice | 
+0	| the ground | 
+0	| the last drop of gall contained therein | 
+0	| gall contained therein | 
+0	| The world | this world | the world | 
+0	| my history | 
+0	| Dead , and yet living ! | 
+0	| you | 
+0	| Ah , my friends ! | 
+0	| my friends | their | 
+0	| you | 
+0	| your dead relations | 
+0	| your | 
+0	| a certainty | 
+0	| you | 
+0	| their bodies cremated | 
+0	| no knowing what may happen | No | 
+0	| Cremation | the best way | the only way | It | it | 
+0	| the remains of what we loved | 
+0	| we | we | our | we | our | we | we | our | our | we | we | ourselves of the secure and classical method of cremation | we | us | us | us | we | 
+0	| fire and pure air | 
+0	| them | 
+0	| a cold vault of stone | its vault | 
+0	| the wet and clinging earth | 
+0	| loathly things | things | 
+0	| the mold -- things , foul and all unnameable -- long worms -- slimy creatures with blind eyes and useless wings -- abortions and deformities of the insect tribe born of poisonous vapor -- creatures the very sight of which would drive you , oh , delicate woman | 
+0	| things , foul and all unnameable -- long worms -- slimy creatures with blind eyes and useless wings -- abortions and deformities of the insect tribe born of poisonous vapor | 
+0	| foul | 
+0	| long worms -- slimy creatures with blind eyes and useless wings | 
+0	| slimy creatures with blind eyes and useless wings | 
+0	| blind eyes and useless wings | 
+0	| blind eyes | 
+0	| abortions and deformities of the insect tribe | 
+0	| the insect tribe | 
+0	| creatures the very sight | 
+0	| the very sight | 
+0	| you | 
+0	| a fit of hysteria | 
+0	| you | 
+0	| a shudder of repulsion | 
+0	| Christian | 
+0	| a worse thing than these merely physical horrors which come of so-called Christian burial | that | the terrible UNCERTAINTY | 
+0	| these merely physical horrors which come of so-called Christian burial | 
+0	| the narrow strong box | 
+0	| our dear deceased relation | its | 
+0	| the ground -- what , if after we have worn a seemly garb of woe , and tortured our faces into the fitting expression of gentle and patient melancholy -- what , I say | 
+0	| a seemly garb of woe | 
+0	| our faces | 
+0	| the fitting expression of gentle and patient melancholy -- what | 
+0	| gentle and patient melancholy -- what | 
+0	| what | they | what | 
+0	| one | 
+0	| the prison to which we have consigned the deeply | 
+0	| the deeply | 
+0	| such close doors | 
+0	| the stout coffin | 
+0	| fierce and frenzied fingers | 
+0	| what , if our late dear friend should NOT be dead | 
+0	| our late dear friend | 
+0	| Lazarus of old | 
+0	| our affection | my affection | 
+0	| the secure and classical method of cremation | 
+0	| worldly goods | 
+0	| the so deservedly | 
+0	| we | self-deceiving hypocrites | 
+0	| few of us | they | 
+0	| few of us | them | 
+0	| God | God | 
+0	| pity than we dream of | 
+0	| we dream of | 
+0	| my task | 
+1	| Fabio Romani | thee , Fabio | thee | Fabio | he | Thou | thou | thou | thou | thou | thou | Fabio | 
+0	| one | 
+0	| Fabio Romani , lately deceased | 
+0	| the events of one short year | 
+0	| short year | 
+0	| a year in which | 
+0	| the agony of a long and tortured life-time | 
+0	| a long and tortured life-time | 
+0	| One little year ! | the little one | 
+0	| little year | 
+0	| one | 
+0	| -- one sharp thrust from the dagger of Time ! | It | it | 
+0	| the dagger | 
+0	| Time | time | 
+0	| the wound | 
+0	| One | 
+0	| One suffering , common to many , I have never known -- that is -- poverty | 
+0	| One suffering , common to many | 
+0	| One suffering | 
+0	| seventeen | 
+0	| my father , Count Filippo Romani | my father | Count Filippo Romani | Filippo Romani | me , then a lad of seventeen , sole heir to his enormous possessions -- sole head of his powerful house | his | his | my father 's | her father | himself | his | 
+0	| his enormous possessions | 
+0	| his powerful house | 
+0	| many candid friends who , with their usual kindness , prophesied the worst things of my future | friends - | 
+0	| their usual kindness | 
+0	| their | 
+0	| the worst things of my future | these things | 
+0	| my future | 
+0	| Nay | 
+0	| some who looked forward to my physical and mental destruction with a certain degree of malignant expectation | they | estimable persons | They | their | their | their | 
+0	| my physical and mental destruction with a certain degree of malignant expectation | 
+0	| a certain degree of malignant expectation | 
+0	| their words | 
+0	| a time | that time | our time | a time | 
+0	| an object of their maliciously pious fears | 
+0	| their maliciously pious fears | 
+0	| their calculations | 
+0	| a gambler , a spendthrift , a drunkard , an incurable roue of the most abandoned character | 
+0	| a gambler | 
+0	| a spendthrift | 
+0	| a drunkard | 
+0	| an incurable roue of the most abandoned character | 
+0	| the most abandoned character | 
+0	| Neapolitan | 
+0	| a Neapolitan | 
+0	| my race | 
+0	| an innate | 
+0	| the contemptible vices and low desires of the unthinking vulgar | 
+0	| the contemptible vices | 
+0	| low desires of the unthinking vulgar | 
+0	| the unthinking vulgar | 
+0	| me a delirious folly -- drink , a destroyer of health and reason -- and licentious extravagance an outrage | 
+0	| a delirious folly | 
+0	| drink , a destroyer of health and reason | 
+0	| a destroyer of health and reason | 
+0	| health and reason | 
+0	| an outrage | 
+0	| the poor | 
+0	| my own way of life -- a middle course between simplicity and luxury -- a judicious mingling of home-like peace with the gayety of sympathetic social intercourse -- an even tenor of intelligent existence which neither exhausted the mind nor injured the body | 
+0	| a middle course between simplicity and luxury | 
+0	| simplicity and luxury | 
+0	| a judicious mingling of home-like peace with the gayety of sympathetic social intercourse | 
+0	| the gayety of sympathetic social intercourse | 
+0	| an even tenor of intelligent existence | 
+0	| the mind nor injured the body | 
+0	| the mind | 
+0	| my father 's villa -- a miniature palace of white marble , situated on a wooded height overlooking the Bay of Naples | Our villa | a place of rendezvous for the leading members of the best society in and around Naples | 
+0	| a miniature palace of white marble , situated on a wooded height overlooking the Bay of Naples | 
+0	| a wooded height overlooking the Bay of Naples | 
+0	| the Bay of Naples | the bay | 
+0	| My pleasure-grounds | their | 
+0	| fragrant groves of orange and myrtle | 
+0	| orange and myrtle | 
+0	| hundreds of full-voiced nightingales | their | 
+0	| their love-melodies | 
+0	| the golden moon | 
+0	| Sparkling fountains | 
+0	| huge stone basins carved with many a quaint design | 
+0	| their cool murmurous splash | 
+0	| the burning silence of the hottest summer air | 
+0	| the hottest summer air | the air | 
+0	| this retreat | 
+0	| some happy years , surrounded by books and pictures | 
+0	| some happy years | 
+0	| books and pictures | 
+0	| young men whose tastes were more or less like my own , and who were capable of equally appreciating the merits of an antique volume , or the flavor of a rare vintage | 
+0	| my own | thine own | their own | 
+0	| the merits of an antique volume , or the flavor of a rare vintage | 
+0	| the merits of an antique volume | 
+0	| an antique volume | 
+0	| the flavor of a rare vintage | 
+0	| a rare vintage | 
+0	| women | them | women | women | 
+0	| little or nothing | 
+0	| little | 
+0	| Truth to tell | 
+0	| Parents with marriageable daughters | their | his parents | 
+0	| marriageable daughters | 
+0	| their houses | 
+0	| these invitations | 
+0	| My best books | 
+0	| the warning | 
+0	| This tendency of mine | 
+0	| the ridicule of those among my companions who were amorously inclined | 
+0	| those among my companions | their | they | 
+0	| my companions | 
+0	| their gay jests at what they termed my `` weakness '' never | 
+0	| my `` weakness '' | my weakness | 
+0	| friendship rather than love | 
+0	| a friend -- one for whom at that time I would gladly have laid down my life -- one who inspired me with the most profound attachment | my friend | His | him | his | his | him | my friend | 
+0	| one for whom at that time I would gladly have laid down my life | 
+0	| my life | my life | 
+0	| one who inspired me with the most profound attachment | 
+0	| the most profound attachment | 
+1	| He , Guido Ferrari | He | Guido Ferrari | Guido 's | he | his | Guido Ferrari | his | he | thou | my | Guido Ferrari , my friend | Guido Ferrari | he | him | him | he | him | he | Guido | Guido | Guido | his | his | Thou | he | Ferrari | he | his | he | 
+0	| others in the good | 
+0	| the good | 
+0	| my shrinking dislike of women | 
+0	| `` Fie on thee , Fabio | 
+0	| the nectar | thy | 
+0	| a pair of rose-red lips | 
+0	| rose-red lips | 
+0	| the riddle of the stars | 
+0	| the stars | 
+0	| the fathomless glory of a maiden 's eyes | 
+0	| a maiden 's eyes | 
+0	| a maiden 's | 
+0	| clasped eager arms | thine | my arms | 
+0	| a coy waist | 
+0	| the beating of a passionate heart against thine own | 
+0	| a passionate heart against thine own | 
+0	| A truce to thy musty volumes ! | it | 
+0	| thy musty volumes | 
+0	| those ancient and sorrowful philosophers | them | their | their | their | 
+0	| no manhood in them | 
+0	| their slanders against women | 
+0	| the pettish utterances of their own | 
+0	| disappointments | 
+0	| Those who miss the chief prize of life | Thou | thou | those | 
+0	| the chief prize of life | 
+0	| others | 
+0	| a ready wit , a glancing eye , a gay smile , a supple form | 
+0	| a ready wit , a glancing eye , a gay smile | 
+0	| a ready wit | a glancing eye | a gay smile | a supple form | 
+0	| the lists of love | 
+0	| Voltaire of the blind god | 
+0	| the blind god | 
+0	| Il | 
+0	| ` Qui que tu sois voila ton maitre | 
+0	| ton maitre | 
+0	| fut -- il est | 
+0	| il est | 
+0	| ou il doit | 
+0	| etre | 
+0	| His arguments | 
+0	| his voice | 
+0	| the note of a thrush | 
+0	| a thrush | 
+0	| his eyes | my eyes | his eyes , `` as innocent | his eyes | 
+0	| an eloquence greater | 
+0	| -- with that rare tenderness | his | he | he | his | his | his | He | him | him | his | his | he | his | 
+0	| that rare tenderness | 
+0	| schoolboys | 
+0	| one another | 
+0	| grown men | 
+0	| his society | 
+0	| We | our | we | we | us | we | 
+0	| most of our time | 
+0	| his own course of life | 
+0	| his particular fancy | 
+0	| a profession | 
+0	| , though a fairly successful painter | 
+0	| a fairly successful painter | 
+0	| this neglect of fortune for him | 
+0	| fortune for him | 
+0	| various ways | 
+0	| many commissions | 
+0	| his suspicion | 
+0	| his pride | 
+0	| a strong attraction for me -- we had much the same tastes | 
+0	| much the same tastes | 
+0	| the same sympathies | 
+0	| his confidence and companionship | his confidence | 
+0	| no one , however harmless | 
+0	| no one | 
+0	| Fate -- or caprice -- | 
+0	| Something perfectly trivial -- a look , a word , a touch , and lo ! | 
+0	| a look , a word , a touch , and lo | 
+0	| a look | 
+0	| a word | 
+0	| a touch | 
+0	| a long chain of old associations | 
+0	| old associations | 
+0	| This change | it | it | 
+0	| One day -- how well I remember it ! | 
+0	| day | 
+0	| one | 
+0	| -- one sultry evening toward the end of May , 1881 , I was in Naples . | 
+0	| one sultry evening toward the end of May | 
+0	| the end of May | 
+0	| May | May , 1882 | May | 
+0	| 1881 , I was in Naples | 
+0	| 1881 | 
+0	| the afternoon in my yacht , idly and slowly sailing over the bay | 
+0	| my yacht , idly and slowly sailing over the bay | 
+0	| my yacht , idly | 
+0	| my yacht | 
+0	| sailing over the bay | 
+0	| little | 
+0	| Rome | 
+0	| Guido 's absence -LRB- he had gone to Rome on a visit of some weeks ' duration -RRB- | 
+0	| a visit of some weeks ' duration | 
+0	| some weeks ' duration | 
+0	| some weeks ' | 
+0	| a solitary | 
+0	| my light craft | it | its | 
+0	| a pensive , half-uncertain mood , which brought with it its own depression | 
+0	| a pensive , half-uncertain mood | 
+0	| its own depression | 
+0	| The few sailors who manned my vessel | they | they | 
+0	| my vessel | 
+0	| each to his own favorite haunts of pleasure or dissipation | 
+0	| his own favorite haunts of pleasure or dissipation | 
+0	| pleasure or dissipation | 
+0	| no humor to be easily amused | 
+0	| plenty of acquaintance | 
+0	| little | 
+0	| one of the principal streets | 
+0	| my own dwelling on the heights | It | the Month of Mary | 
+0	| the heights | 
+0	| a sound of singing | 
+0	| the distance | 
+0	| a glimmer of white robes | 
+0	| white robes | 
+0	| Mary | 
+0	| this | an approaching Procession of the Virgin | The procession | 
+0	| the Virgin | 
+0	| Half in idleness | half | 
+0	| one | 
+0	| The singing voices | 
+0	| and nearer | us all | 
+0	| the priests , the acolytes | 
+0	| the priests | the acolytes | 
+0	| the swinging gold censers heavy with fragrance , the flaring candles | 
+0	| fragrance , the flaring candles | 
+0	| the flaring candles | 
+0	| the snowy veils of children and girls | 
+0	| children and girls | 
+0	| the picturesque beauty of the scene | Her beauty | 
+0	| the scene | 
+0	| a whirling blur of brilliancy and color | her | 
+0	| brilliancy and color | 
+0	| which looked forth -- one face | 
+0	| One | 
+0	| one | 
+0	| two | two | 
+0	| one | 
+0	| One face beaming out like a star from a cloud of amber tresses -- one face of rose-tinted , childlike loveliness -- a loveliness absolutely perfect , lighted up by two luminous eyes , large and black as night -- one face in which the small , curved mouth smiled half provokingly , half sweetly ! | 
+0	| a star from a cloud of amber tresses -- one face of rose-tinted , childlike loveliness -- a loveliness absolutely perfect , lighted up by two luminous eyes , large and black as night -- one face in which the small , curved mouth smiled half provokingly , half | 
+0	| a cloud of amber tresses -- one face of rose-tinted , childlike loveliness -- a loveliness absolutely perfect , lighted up by two luminous eyes , large and black as night | 
+0	| a cloud of amber tresses -- one face of rose-tinted , childlike loveliness -- a loveliness absolutely perfect | 
+0	| amber tresses | 
+0	| one face of rose-tinted , childlike loveliness | 
+0	| a loveliness absolutely perfect | 
+0	| two luminous eyes , large and black | 
+0	| two luminous eyes | 
+0	| night | 
+0	| one face in which the small , curved mouth smiled half provokingly | 
+0	| the small , curved mouth | 
+0	| such fools of us all | 
+0	| fifteen | 
+0	| This | 
+0	| a woman -- one of the sex I mistrusted and avoided -- a woman in the earliest spring of her youth , a girl of fifteen or sixteen at the utmost | Her | 
+0	| one of the sex I mistrusted and avoided -- a woman in the earliest spring of her youth , a girl of fifteen or sixteen at the utmost | 
+0	| a woman in the earliest spring of her youth | 
+0	| the earliest spring of her youth | 
+0	| her youth | 
+0	| a girl of fifteen | 
+0	| sixteen at the utmost | 
+0	| the utmost | 
+0	| one | 
+0	| Her veil | 
+0	| accident or design | 
+0	| one brief moment | 
+0	| that soul-tempting glance , that witch-like smile | 
+0	| that soul-tempting glance | that witch-like smile | 
+0	| one | 
+0	| the vision | 
+0	| that breath of time | 
+0	| one epoch of my life | 
+0	| another | her | 
+0	| We Neapolitans | 
+0	| We | We | ours | our | We | we | we | We | we | 
+0	| no time in such matters | 
+0	| such matters | 
+0	| Englishmen | Englishmen | 
+0	| the calm blood of Englishmen | it | 
+0	| wine and sunlight | 
+0	| no fictitious stimulant | 
+0	| We tire , you say ? | 
+0	| We tire | 
+0	| you | 
+0	| These southern races | 
+0	| you | 
+0	| Englishmen tire | 
+0	| they | their | they | 
+0	| no secret ennui | 
+0	| times | 
+0	| the chimney nook of `` home , sweet home , '' | 
+0	| home , sweet home | 
+0	| their fat wives and ever-spreading families | 
+0	| their fat wives | 
+0	| ever-spreading families | 
+0	| the story of my courtship | 
+0	| my courtship | 
+0	| a song | 
+0	| no obstacles | 
+0	| The girl I sought | the only daughter of a ruined Florentine noble of dissolute character , who gained a bare subsistence by frequenting the gaming - tables | 
+0	| a ruined Florentine noble of dissolute character , who gained a bare subsistence by frequenting the gaming - tables | 
+0	| a bare subsistence | 
+0	| the gaming - tables | 
+0	| tables | 
+0	| His child | she | She | our child | 
+0	| His | he | his | him | 
+0	| a convent renowned for strict discipline | 
+0	| maudlin tears in his eyes , `` as innocent | 
+0	| a flower on the altar of the Madonna | 
+0	| the altar of the Madonna | 
+0	| the Madonna | 
+0	| this lovely , youthful , low-voiced maiden | her | her to me , no doubt inwardly congratulating | 
+0	| even the shadow of evil | 
+0	| so fair a lily | 
+0	| my own proud wearing | 
+0	| the wealthy match that had fallen to the lot of his dowerless daughter | 
+0	| the lot of his dowerless daughter | 
+0	| his dowerless daughter | 
+0	| We | our | 
+0	| the end of June | 
+0	| June | 
+0	| our bridal with his handsome and gallant presence | 
+0	| his handsome | 
+0	| the body of Bacchus | 
+0	| the nuptial ceremony | 
+0	| my teaching , Fabio | 
+0	| my teaching | 
+0	| A quiet rogue | Thou | thou | his | he | 
+0	| most cunning | 
+0	| the casket of Venus | 
+0	| Venus | her | 
+0	| her fairest jewel | 
+0	| the loveliest maiden in the two Sicilies | 
+0	| the two Sicilies | 
+0	| first | first | 
+0	| his hand | it | It | his hand | 
+0	| a touch of remorse | 
+0	| yes , on my very wedding-morn I looked back to the old days -- old now though so recent -- and sighed to think they were ended | 
+0	| yes | they | 
+0	| my very wedding-morn I looked back to the old days -- old now though so recent -- and sighed to think they were ended | 
+0	| the old days -- old now though so recent | the days | those days | 
+1	| Nina , my wife | Nina | my wife | Her | her | her | My wife 's | she | her | she | She | hers | her | she | her | she | she | She | she | her | her | her | she | her | My wife | her | her | her | Nina | her | her | Nina 's | my wife | her | Nina | she | 
+0	| The melting languor of her large limpid eyes | 
+0	| her large limpid eyes | its eyes | 
+0	| that high delirium of passion in which love , and love only , seems the keynote of creation | 
+0	| love , and love only | 
+0	| love only | 
+0	| the keynote of creation | 
+0	| the topmost peak of the height of joy -- the days were feasts of fairy-land , the nights dreams of rapture | 
+0	| the height of joy | 
+0	| feasts of fairy-land | 
+0	| the nights | 
+0	| dreams of rapture | 
+0	| My wife 's beauty | 
+0	| each day of possession | 
+0	| a few months | 
+0	| certain sweet looks of hers | 
+0	| her side , a willing and devoted slave ; she measured my weakness with her own power ; she knew -- what did she not know ? | 
+0	| her side | 
+0	| a willing and devoted slave | 
+0	| her own power | 
+0	| these foolish memories | 
+0	| twenty | 
+0	| the age of twenty | 
+0	| the tricks of women -- the pretty playful nothings that weaken the will and sap the force of the strongest hero | 
+0	| women -- the pretty playful nothings that weaken the will and sap the force of the strongest hero | 
+0	| the pretty playful nothings that weaken the will and sap the force of the strongest hero | 
+0	| the | 
+0	| the force of the strongest hero | 
+0	| the strongest hero | 
+0	| nine hundred | 
+0	| nine hundred wives out of a thousand | 
+0	| hundred wives | their | they | 
+0	| a thousand | 
+0	| their husbands | 
+0	| her nothing | 
+0	| the stature of an angel | 
+0	| an angel | 
+0	| the low level of mere womanhood | that | my folly , not her fault | my folly | her fault | 
+0	| We | Our | 
+0	| rendezvous for the leading members of the best society in and around Naples | 
+0	| the leading members of the best society in and around Naples | 
+0	| the best society in and around Naples | 
+0	| her lovely face and graceful manners | themes of conversation | 
+0	| her lovely face | 
+0	| graceful manners | 
+0	| the whole neighborhood | 
+0	| one of those who were loudest in her praise | 
+0	| loudest in her praise | 
+0	| her praise | 
+0	| the chivalrous homage he displayed toward her doubly | 
+0	| her doubly | 
+0	| a brother | 
+0	| Nina gifts of flowers | 
+0	| flowers | 
+0	| fanciful trifles | 
+0	| her taste | 
+0	| my happiness perfect -- with love , wealth , and friendship , what more could a man desire | 
+0	| love , wealth , and friendship , what more could a man desire | 
+0	| love , wealth , and friendship | 
+0	| a man desire | 
+0	| another drop of honey | 
+0	| my cup of sweetness | 
+0	| the first morning of May , 1882 | 
+0	| 1882 | 
+0	| our | us | our | we | 
+0	| a girl-babe , fair as one of the white anemones which at that season grew thickly in the woods surrounding out home | 
+0	| a girl-babe | 
+0	| one of the white anemones which at that season grew thickly in the woods surrounding out home | 
+0	| that season | 
+0	| the woods surrounding out home | 
+0	| They | they | their | 
+0	| the shaded veranda where I sat at breakfast with Guido -- a tiny , almost shapeless bundle , wrapped in soft cashmere and old lace | the veranda | 
+0	| a tiny , almost shapeless bundle , wrapped in soft cashmere | 
+0	| a tiny , almost shapeless bundle | 
+0	| the fragile thing | it | its | 
+0	| a tender reverence | 
+0	| the light of a recent heaven | 
+0	| a recent heaven | Heaven | 
+0	| their pure depths | 
+0	| the little face | his face | 
+0	| the same | 
+0	| quiet eyes | the eyes | 
+0	| a strange half-inquiring solemnity | 
+0	| A bird perched on a bough of jasmine | it | 
+0	| a bough of jasmine | 
+0	| a low , sweet song | 
+0	| the soft wind | 
+0	| the petals of a white | 
+0	| a white | 
+0	| our feet | 

@@ -1,0 +1,531 @@
+0	| You | 
+0	| love , of course | it | it | it | Love 's | love 's | 
+0	| you | 
+0	| the measles | the measles | 
+0	| we | we | 
+0	| One | it | it | 
+0	| a second time | 
+0	| The man who has had it | He | He | he | his | He | He | He | his | He | He | He | He | He | his | him | 
+0	| the most dangerous places | 
+0	| the most foolhardy tricks with perfect safety | 
+0	| picnic in shady woods | 
+0	| shady woods | 
+0	| leafy aisles | 
+0	| mossy seats | 
+0	| the sunset | 
+0	| a quiet country-house | 
+0	| his own club | 
+0	| a family party | 
+0	| the Rhine | 
+0	| the last of a friend , venture | itself | 
+0	| a friend , venture | 
+0	| a friend | 
+0	| the very jaws of the marriage ceremony itself | 
+0	| very jaws | 
+0	| the marriage | 
+0	| his head | 
+0	| the whirl of a ravishing waltz , and rest afterward in a dark conservatory | 
+0	| the whirl of a ravishing waltz | 
+0	| a ravishing waltz | 
+0	| rest afterward in a dark conservatory | 
+0	| a dark conservatory | 
+0	| a cold | 
+0	| a moonlight | 
+0	| adown sweet-scented lanes or a twilight | 
+0	| adown sweet-scented lanes | 
+0	| a twilight | 
+0	| the somber rushes | 
+0	| a stile | 
+0	| danger , scramble | 
+0	| a tangled hedge | 
+0	| a slippery path | 
+0	| falling | their | 
+0	| sunny eyes | 
+0	| the siren voices | 
+0	| white hands in his | 
+0	| no electric `` Lulu '' - like force holds him | I | My | I | I | I | I | 
+0	| their dainty pressure | 
+0	| No | 
+0	| we | our | our | We | we | we | we | our | our | we | we | we | our | 
+0	| second | 
+0	| Cupid | 
+0	| no second arrow on the same heart | 
+0	| the same heart | 
+0	| Love 's handmaids | our life-long friends | their | 
+0	| one | 
+0	| Respect , and admiration , and affection , our doors | 
+0	| Respect , and admiration | 
+0	| affection , our doors | 
+0	| our doors | 
+0	| their great celestial master , in his royal progress | 
+0	| their great celestial master | his | 
+0	| his royal progress | 
+0	| but one visit and departs | 
+0	| one visit | 
+0	| departs | 
+0	| Respect , and admiration , | 
+0	| A man 's heart | a firework that | its | it | its | 
+0	| A man 's | a man 's | a man 's | a man 's | 
+0	| its time flashes | 
+0	| a moment and lights with its glory the whole world | 
+0	| a moment | 
+0	| lights with its glory the whole world | 
+0	| its glory | 
+0	| the whole world | 
+0	| the night of our sordid commonplace life | it | night | 
+0	| our sordid commonplace life | life 's | 
+0	| the burned-out case , falling back to earth | 
+0	| the burned-out case | his case | 
+0	| ashes | 
+0	| our prison bonds | 
+0	| mighty old Prometheus dared , to scale the Olympian mount and snatch from Phoebus ' chariot the fire of the gods | it | its | it | it | 
+0	| the Olympian | 
+0	| Phoebus ' chariot | 
+0	| Phoebus ' | 
+0	| the fire of the gods | 
+0	| the gods | 
+0	| Happy those who , hastening down again ere it dies out | their | 
+0	| their earthly altars | 
+0	| its flame | 
+0	| the noisome gases | 
+0	| a torch to ignite the cozy fire of affection | 
+0	| the cozy fire of affection | the fire of affection | 
+0	| warming glow | 
+0	| our cold little back parlor of a world | 
+0	| a world | the world 's | the world | the world | 
+0	| the burning spirit love | His love | 
+0	| the vestal fire of some mighty temple -- some vast dim fane whose organ music is the rolling of the spheres | 
+0	| some mighty temple | 
+0	| some vast dim fane whose organ music is the rolling of the spheres | his | 
+0	| the rolling of the spheres | 
+0	| the spheres | 
+0	| the white flame of love | 
+0	| a fire that can be fed from day to day and be piled up ever higher as the wintry years draw nigh | it | that fire | 
+0	| day | day | the day | day | day | 
+0	| the wintry years | 
+0	| Old men and women | their | 
+0	| their thin hands | 
+0	| the little children | 
+0	| the friend and neighbor | 
+0	| his welcome corner | its | the corner | 
+0	| its side | 
+0	| even shaggy Fido and sleek Titty | their | 
+0	| even shaggy Fido | 
+0	| sleek Titty | 
+0	| their noses | 
+0	| the bars | 
+0	| us | 
+0	| the coals of kindness | 
+0	| your pleasant words , your gentle pressures of the hand , your thoughtful and unselfish deeds | 
+0	| your pleasant words | your gentle pressures of the hand , your thoughtful and unselfish deeds | 
+0	| your | 
+0	| your | 
+0	| the hand , your thoughtful and unselfish deeds | 
+0	| the hand | it with good-humor , patience , and forbearance | 
+0	| your thoughtful and unselfish deeds | 
+0	| your | 
+0	| Fan it with good-humor , patience , and forbearance . | 
+0	| good-humor , patience , and forbearance | 
+0	| You | 
+0	| the wind blow and the rain fall | 
+0	| the wind blow | it | 
+0	| the rain fall | 
+0	| your hearth | 
+0	| your | 
+0	| the faces | 
+0	| spite of the clouds | 
+0	| the clouds | 
+1	| Edwin | Edwin | him | he | his | him | Edwin | his | loving Edwin | only Edwin | Edwin | he | you both | 
+1	| Angelina | Angelina | she | her | she | she | she | Poor little Angelina | Angelina | her | Angelina | Angelina | Angelina | her | 
+0	| Edwin and Angelina | 
+0	| you | 
+0	| You | 
+0	| your little hearts | our hearts | 
+0	| your | 
+0	| this fierce | 
+0	| your | 
+0	| Ah , young folk ! | Ah , lad | her | Ah , what raptures they | her | her | her | her | her | her | her | her | Ah , those foolish days , those foolish days when we were unselfish and pure-minded ; those foolish days when our simple hearts were full of truth , and faith , and reverence ! | Ah , those foolish days of noble longings and of noble strivings ! | 
+0	| that unsteady flicker | It | it | 
+0	| the months | 
+0	| no replenishing the fuel | 
+0	| the fuel | 
+0	| You | 
+0	| anger and disappointment | 
+0	| each | it | 
+0	| the other who is growing colder | 
+0	| colder | 
+0	| bitterness that Angelina no longer runs to the gate to meet him , all smiles and blushes | 
+0	| the gate | 
+0	| him , all smiles and blushes | 
+0	| blushes | our blushes | 
+0	| a cough | 
+0	| her arms | 
+0	| his neck | 
+0	| The most she will probably do | that | 
+0	| a lozenge , and even that | 
+0	| a lozenge | it | 
+0	| a tone implying that it is the noise more than anything else she is anxious to get rid of | 
+0	| the noise | 
+0	| silent tears | 
+0	| her old handkerchief | 
+0	| the inside pocket of his waistcoat | 
+0	| his waistcoat | 
+0	| one | 
+0	| Both | they | they | they | They | their | their | 
+0	| the other one | 
+0	| neither | their | 
+0	| their own change | 
+0	| the cause in the right quarter | 
+0	| the right quarter | 
+0	| the littleness of poor human nature | 
+0	| hands over their common failing | hands | 
+0	| their common | 
+0	| their house | the house | it | 
+0	| a more earthly and enduring foundation | 
+0	| we | our | us | 
+0	| our own shortcomings | 
+0	| those of others | 
+0	| others | 
+0	| the other person 's fault | It | his fault | your fault | 
+0	| the other person 's | 
+0	| first | 
+0	| the same | 
+0	| a cheerless hour for you both when the lamp of love has gone out and the fire of affection is not yet lit | it | 
+0	| the lamp of love | 
+0	| you | 
+0	| the cold , raw dawn of life | it | 
+0	| God grant it catches light before the day | 
+0	| Many | his | 
+0	| the dead coals | 
+0	| what | it | that | it | 
+0	| the rush of young | 
+0	| young | 
+0	| his veins | 
+0	| twenty | 
+0	| sixty | 
+0	| the boy of twenty | he | he | He | his | his | himself | His | he | his | he | his | 
+0	| his acquaintance | 
+0	| symptoms of frantic attachment | 
+0	| his belief in himself | 
+0	| 's | 
+0	| the rest of the world 's experience | no guide in his case | 
+0	| the world 's experience | 
+0	| thirty | 
+0	| the ranks of the sneerers | 
+0	| the sneerers | 
+0	| Our passions , both the good and bad | 
+0	| Our passions | 
+0	| Our | our | We | our | we | our | we | We | we | 
+0	| the good and bad | 
+0	| grieve , nor joy | 
+0	| despair in our thirties like we | your despair | 
+0	| our thirties like we | 
+0	| our teens | 
+0	| a minor key | 
+0	| few majestic passages in the later acts of life 's opera | 
+0	| the later acts of life 's opera | 
+0	| life 's opera | 
+0	| a less ambitious aim | itself | 
+0	| circumstances | 
+0	| Irreverence for the dreams of youth | 
+0	| the dreams of youth | 
+0	| a killing frost | 
+0	| our | 
+0	| The tender | its | it | 
+0	| the expanding flowers | 
+0	| a vine that yearned to stretch its tendrils round the world | 
+0	| its tendrils | 
+0	| a sapless stump | 
+0	| My fair friends | they | 
+0	| a man 's not loving | he | his | his | 
+0	| a good deal of gray in his hair | 
+0	| gray in his hair | 
+0	| his hair | 
+0	| his protestations | 
+0	| Frankenstein 's | 
+0	| Young ladies | their | their | they | which | them | dear ladies | 
+0	| their notions of our sex | 
+0	| our sex | 
+0	| our | 
+0	| the novels written by their own | 
+0	| their own | 
+0	| the monstrosities that masquerade for men in the pages of that nightmare literature | 
+0	| men in the pages of that nightmare literature | 
+0	| the pages of that nightmare literature | 
+0	| that nightmare literature | 
+0	| Pythagoras ' plucked bird and Frankenstein 's demon | fair average specimens of humanity | 
+0	| Pythagoras ' plucked bird | 
+0	| Pythagoras ' | 
+0	| Frankenstein 's demon | 
+0	| these so-called books , the chief lover , or Greek god | 
+0	| these so-called books | only books | 
+0	| the chief lover | he | He | his | he | 
+0	| the way | it | it | hump-backed Vulcan | 
+0	| `` Greek god '' it is that the gentleman bears such a striking likeness to ; it might be hump-backed Vulcan , or double-faced Janus , or even driveling Silenus , the god of abstruse mysteries | God 's | 
+0	| the gentleman | 
+0	| such a striking likeness | 
+0	| hump-backed Vulcan , or double-faced Janus | 
+0	| Silenus , the god of abstruse mysteries | 
+0	| Silenus | the god of abstruse mysteries | 
+0	| abstruse mysteries | 
+0	| the whole family of them , however | 
+0	| a blackguard | 
+0	| this | 
+0	| forty | 
+0	| even the little manliness his classical prototypes possessed | 
+0	| his classical prototypes | 
+0	| no claim whatever , being a listless effeminate noodle , on the shady side of forty | 
+0	| a listless effeminate noodle , on the shady side of forty | 
+0	| a listless effeminate noodle | 
+0	| the shady side of forty | 
+0	| the depth and strength of this elderly party 's emotion for some bread-and-butter school-girl ! | 
+0	| this elderly party 's emotion | 
+0	| this elderly party 's | 
+0	| some bread-and-butter school-girl | 
+0	| Romeos | 
+0	| your heads | ye | 
+0	| your | 
+0	| ye young Romeos and Leanders | 
+0	| _ | 
+0	| four | 
+0	| this _ blase _ old beau | 
+0	| _ old beau | 
+0	| an hysterical fervor that requires four adjectives to every noun to properly describe | 
+0	| four adjectives | 
+0	| well , dear ladies , for us old sinners that you study only books | 
+0	| us | our | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| the lad 's shy stammering | 
+0	| a truer tale | 
+0	| our bold eloquence | 
+0	| A boy 's love | Our love | a religion we could have died for | It | It | it | 
+0	| A boy 's | a boy 's | 
+0	| a full heart | 
+0	| the result of a full stomach | 
+0	| a full stomach | 
+0	| a man 's sluggish current | 
+0	| the rushing fountain that wells up when a boy 's heart is struck with the heavenly rod | 
+0	| wells up when a boy 's heart is struck with the heavenly rod | 
+0	| a boy 's heart | 
+0	| the heavenly rod | 
+0	| you | 
+0	| drink of the pure stream that youth | it | its | it | its | 
+0	| the pure stream that youth | 
+0	| your feet | 
+0	| your | 
+0	| a muddy river | 
+0	| you | 
+0	| its waves | 
+0	| you | 
+0	| its bitter flavor | 
+0	| the clear , limpid water | its | 
+0	| your palate | 
+0	| your | 
+0	| the pollution of its after-course | it | 
+0	| its after-course | they | they | they | they | they | their | their | 
+0	| a relish to your lips | 
+0	| your lips | your lips | 
+0	| your | 
+0	| we | us | 
+0	| those who tell us that a hand foul with the filth of a shameful life is the only one a young girl cares to be caressed by | That | the teaching that is bawled out day by day from between those yellow covers | 
+0	| a hand foul with the filth of a shameful life | the only one a young girl cares to be caressed by | 
+0	| the filth of a shameful life | 
+0	| a shameful life | 
+0	| a young girl | 
+0	| those yellow covers | 
+0	| Eves | 
+0	| those devil 's ladyhelps , what mischief they are doing crawling about God 's garden , and telling childish Eves and silly Adams that sin is sweet and that decency is ridiculous and vulgar | 
+0	| those devil 's ladyhelps | 
+0	| those devil 's | 
+0	| God 's garden | 
+0	| childish Eves and silly Adams | 
+0	| childish Eves | 
+0	| silly Adams | 
+0	| an innocent girl | 
+0	| an evil-minded woman | 
+0	| a weak lad | 
+0	| the dirty by-path | It | it | itself | 
+0	| the shortest cut | 
+0	| a maiden 's heart | 
+0	| a maiden 's | 
+0	| care of itself | 
+0	| their pictures | coarse daubs painted from the sickly fancies of their own diseased imagination | 
+0	| the sickly fancies | 
+0	| their own diseased imagination | 
+0	| We | us | us | 
+0	| women not | their | them | They | they | women | 
+0	| their own sex | 
+0	| Lorleis luring us to destruction , but as good angels beckoning us upward | 
+0	| Lorleis luring us to destruction | 
+0	| good angels beckoning us upward | 
+0	| more power for good or evil | It | 
+0	| the very age when a man 's character is forming that he tumbles into love | 
+0	| a man 's character | he | he | him | he | himself | him | 
+0	| the lass he loves | she | 
+0	| the making or marring of him | the | 
+0	| he molds himself to what she would have him , good or bad | 
+0	| him , good or bad | they | their | Their | 
+0	| their influence | 
+0	| the best | 
+0	| the female world | this world | 
+0	| the limits of the commonplace | 
+0	| the commonplace | 
+0	| Their ideal hero | a prince of littleness | 
+0	| that many a powerful mind , enchanted by love | 
+0	| that many a powerful mind | It | it | it | It | 
+0	| life and use and name and fame | 
+0	| life and use | your life | your life | 
+0	| name and fame | 
+0	| you | 
+0	| us | 
+0	| you | 
+0	| you | you who must wake it to noble deeds | 
+0	| a little | 
+0	| Chivalry | 
+0	| noble deeds | noble deeds | 
+0	| You | 
+0	| You | 
+0	| ourselves | 
+0	| Una | 
+0	| the Red Cross Knight | 
+0	| no painted | 
+0	| the dragon | 
+0	| ladies fair | their | 
+0	| mind and soul as well as face | 
+0	| knights | 
+0	| your service | 
+0	| your | 
+0	| your disguising cloaks of selfishness , effrontery , and affectation | 
+0	| your | 
+0	| selfishness , effrontery , and affectation | 
+0	| forth once more a queen in your royal robe of simple purity | a queen | 
+0	| your royal robe of simple purity | 
+0	| your | 
+0	| thousand | thousand | 
+0	| A thousand swords , now rusting in ignoble sloth | 
+0	| A thousand swords | now rusting in ignoble sloth | 
+0	| their scabbards to do battle for your honor against wrong | 
+0	| battle for your honor | 
+0	| your honor | 
+0	| your | 
+0	| A thousand Sir Rolands shall lay lance in rest , and Fear , Avarice , Pleasure , and Ambition | 
+0	| lance in rest , and Fear , Avarice , Pleasure , and Ambition | 
+0	| lance in rest | 
+0	| Fear , Avarice , Pleasure , and Ambition | 
+0	| Avarice | 
+0	| the dust | 
+0	| your colors | 
+0	| your | 
+0	| we | we | we | Our | we | ourselves | we | we | we | we | 
+0	| the days | 
+0	| her sake | 
+0	| her | 
+0	| no mere human creature like ourselves | 
+0	| a goddess that we worshiped | 
+0	| love 's young dream | it | it | it | a wild , romantic misery | 
+0	| You | 
+0	| truly little Tom Moore | he | 
+0	| the dull , worldly pain of after-sorrows | 
+0	| after-sorrows | 
+0	| you | 
+0	| the light | its | its | 
+0	| your life and the world | 
+0	| your | 
+0	| you | 
+0	| a long , dark horror , even then a half-enchantment mingles with your despair | 
+0	| a long , dark horror | 
+0	| then a half-enchantment mingles | they | 
+0	| your | 
+0	| its terrors | 
+0	| its raptures | raptures | 
+0	| The mere recollection | it | it | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| what floods | 
+0	| you | 
+0	| you | 
+0	| what awe | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| yet , how pleasant to be bullied by her and to sue for pardon without having the slightest notion of what your fault was | 
+0	| yet | she | she | she | her | she | she | her | her | she | her | her | her | her | her | her | her | her | her | her | her | her | she | she | her | her | she | her | she | 
+0	| the slightest notion of what your fault was | 
+0	| your | 
+0	| you | 
+0	| the little rogue | 
+0	| you | 
+0	| one | 
+0	| you | 
+0	| you | 
+0	| the maid that did her hair , the boy that cleaned her shoes , the dog she nursed | 
+0	| hair , the boy that cleaned her shoes , the dog she nursed | her hair | 
+0	| the boy that cleaned her shoes , the dog she nursed | 
+0	| shoes , the dog she nursed | 
+0	| shoes | 
+0	| the dog she nursed | 
+0	| you | 
+0	| the last-named | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| a word | it | 
+0	| you | 
+0	| the day or night | 
+0	| yourself | 
+0	| opposite | 
+0	| her windows | 
+0	| You | 
+0	| you | 
+0	| the outside | 
+0	| you | 
+0	| the risk of your life | 
+0	| your | 
+0	| little things | that | 
+0	| you | her , spaniel-like | 
+0	| her slightest wish | 
+0	| you | 
+0	| her bidding | it | 
+0	| your whole life | 
+0	| your | 
+0	| yourself | 
+0	| such a simple thing | 
+0	| You | 
+0	| a holiday to lay a humble offering at her shrine | it | 
+0	| a humble offering | 
+0	| her shrine | 
+0	| you | that | 
+0	| hallowed | It | It | 
+0	| her touch | 
+0	| her little glove , the ribbon | 
+0	| her little glove | the ribbon | 
+0	| withered leaves | 
+0	| the poems you never care to look at now | 
+0	| you | 
+0	| now | 
+0	| some angel entering the room | She | her | her | 
+0	| the room | 
+0	| almost presumption to gaze at her | 
+0	| You | 
+0	| her as of singing comic songs in a cathedral | 
+0	| a cathedral | It | desecration enough to kneel and timidly raise the gracious little hand to your lips | 
+0	| the gracious little hand | 
+0	| your | 
+0	| those foolish days | those foolish days when our simple hearts were full of truth | 
+0	| those foolish days when we were unselfish and pure-minded ; those foolish days when our simple hearts were full of truth , and faith , and reverence | 
+0	| we | we | we | we | ourselves | 
+0	| our simple hearts | 
+0	| our | 
+0	| faith , and reverence | 
+0	| those foolish days of noble longings and of noble strivings | 
+0	| noble longings | 
+0	| noble strivings | 
+0	| these wise , clever days when we know that money | the only prize worth striving for | 
+0	| that money | 
+0	| no living creature but ourselves | 
+0	| no living creature | 
