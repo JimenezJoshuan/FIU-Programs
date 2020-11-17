@@ -1,0 +1,598 @@
+0	| my uncle , Sir John , in Germany | 
+0	| first | first | first | first | first | first | first | 
+0	| my uncle , Sir John | my uncle | my uncle | 
+0	| the feet of the Prince | 
+0	| the Prince | his | his | he | him | his | the Prince | the Prince | you , who were bold with me in my greatness | the Prince | 
+0	| his heart , which had at first by far outstripped his running | his heart | his heart | 
+0	| a family trait | 
+0	| his running | 
+0	| some of his GRAND AIR and studious courtesy | 
+0	| his GRAND AIR and studious courtesy | 
+1	| Seraphina | her | she | her | her | she | Seraphina 's | Seraphina | Seraphina | Seraphina | she | her | her | her | her | She | her | her | Seraphina | she | Seraphina | she | Seraphina | She | her | Seraphina | Seraphina | Seraphina | she | Seraphina | she | she | Seraphina | 
+0	| his GRAND AIR | 
+0	| the misfortune or to yearn for the sight of Seraphina | 
+0	| the misfortune | her misfortune | the misfortune | 
+0	| May 30th | 
+0	| the sight of Seraphina | 
+0	| 30th | 
+0	| the memory of her obdurate coldness | 
+0	| her obdurate coldness | 
+0	| a most REFINED , INTELLIGENT woman | 
+0	| a most REFINED | 
+0	| the old school , now , HELAS | 
+0	| his own habitual diffidence of self | 
+0	| the old school , now | 
+0	| the old school | 
+0	| Felsenburg | 
+0	| SICILY | it | 
+1	| Sir John | him | he | he | he | himself | him | his | his | he | he | his | his | he | he | his | his | he | him | him | he | Sir John -LRB- 2 vols. , London : Longman , Hurst , Rees , Orme and Brown -RRB- | Sir John | John | His | Sir John | John | 
+0	| my REMARKS ON SICILY | 
+0	| time | it | time | 
+0	| the Felsenburg | 
+0	| more of grace - I feared she thought there was less energy - assured no - a softer style of presentation , more of the LITERARY GRACE , but the same firm grasp of circumstance and force of thought - in short , just Buttonhole 's opinion | 
+0	| no - a softer style of presentation , more of the LITERARY GRACE , but the same firm grasp of circumstance and force of thought - | 
+0	| a softer style of presentation | force of thought | 
+0	| more of the LITERARY GRACE , but the same firm grasp of circumstance | 
+0	| more of the LITERARY GRACE | 
+0	| the LITERARY GRACE | 
+0	| unloved caresses | 
+0	| the same firm grasp of circumstance | 
+0	| the wife who had spurned him | the wife 's | 
+0	| short , just Buttonhole 's opinion | 
+0	| short | Buttonhole 's opinion | 
+0	| The sore spots upon his vanity | 
+0	| his vanity | 
+0	| Buttonhole 's | 
+0	| Much | 
+0	| his anger | your anger | 
+0	| a real esteem for this patrician lady | 
+0	| the carriage of a hostile generosity | 
+0	| this patrician lady | 
+0	| a hostile generosity | 
+0	| some time | 
+0	| his unloving wife | 
+0	| the suite of Lord Protocol | 
+0	| Lord Protocol | 
+0	| distant self-denial | 
+0	| us | 
+0	| Admiral Yardarm 's flag-ship | 
+0	| Seraphina 's disaffection | 
+0	| Admiral Yardarm 's | 
+0	| one of his chief causes of regret | 
+0	| the innocence of a child | 
+0	| most SPIRITUELLE and sympathetic lady | 
+0	| a child | 
+0	| most SPIRITUELLE | 
+0	| a younger brother | 
+0	| a corner | 
+0	| the Princess | her | She | her | she | she | the Princess | the Princess | 
+0	| his first thought to reassure her of the purity of his respect | 
+0	| the purity of his respect | 
+0	| his respect | 
+0	| her part | 
+0	| a little cry | 
+0	| the most guilty timidity | 
+1	| Otto | he | his | Otto | Otto | Otto | Otto the Hunter | Otto | Otto | Otto | Otto | Otto | he | Otto the Hunter | Otto | him | his | him | his | his | he | he | himself | Otto | his | his | him | he | he | He | Otto | Otto | 
+0	| I | I | me | my | I | I | I | I | me | I | I | I | I | I | myself | mine | my | I | I | my | me | me | My | me | I | I | I | me | me | my | I | My | I | I | my | I | me | my | I | a pleasant fellow | I | my | me | I | no gentleman , no | no gentleman | no | I | I | I | you to Mittwalden | My | My | I | me | I | me | my | I | my | my | I | an habitual drinker | I | I | I | I | my | I | I | I | I | I | myself | I | My | I | my | my | I | ` No | I | I | I | me | me | I | I | I | I | I | I | I | I | I | I | I | I | I | I | I | myself | I | I | me | you , as you have been always ; me , as I was - me , above all | me , as I was | me | I | me , above all | me | I | I | me | I | myself | I | me | me | you ; let me be your servant ; it is enough for me to serve you and to be near you ; let me be near you , dear - do not send me away | me | your servant | me | me | you , dear | me | I | my | me | I | I | my | I | me | I - who had no merit but a love , slavish and unerect - | my | I | me a small volume -LRB- printed for private circulation : no printer 's name ; n.d. -RRB- , ` Poesies par Frederic et Amelie | Mine | me | I | I | I | I | I | I | I | my | me | my | me | my | me | me | my | my | I | I | me | 
+0	| with a | her | she | she | herself | she | 
+0	| his resolutions | 
+0	| the sight of her weariness and disorder | 
+0	| her weariness and disorder | 
+0	| they | 
+0	| an | 
+0	| the interview | 
+0	| the golden hour | 
+0	| protestations | 
+0	| you | 
+0	| own , my faults | 
+0	| own | my faults | my own | 
+0	| such time for thought | time to time | 
+0	| the world | the world 's | 
+0	| shadows | 
+0	| this dream | 
+0	| you | 
+0	| She | 
+0	| Gondremark | she | Gondremark | she | She | the Baronne de Gondremark | her | she | 
+0	| a deep flush | 
+0	| you | 
+0	| The mention of the name of Gondremark | it | 
+0	| the name of Gondremark | 
+0	| the Princes generosity | 
+0	| a spur | 
+0	| he | 
+0	| my duty to be beside you , loved or not | 
+0	| you | 
+0	| or not | 
+0	| a skulker in the grain | it | 
+0	| the grain | 
+0	| you | 
+0	| better part of love | 
+0	| love 's battles | 
+0	| love 's | the love | the love | My love | it | it | your love | love 's | my love | 
+0	| this toy kingdom of ours | 
+0	| ours | we | 
+0	| my demerits | 
+0	| your inexperience | 
+0	| your | 
+0	| poor as Job and merely a man and a woman | 
+0	| poor as Job | he | 
+0	| Job | Job | 
+0	| merely a man and a woman | 
+0	| merely a man | 
+0	| a woman | her | she | 
+0	| you | 
+0	| the weakness | 
+0	| a return in kind | 
+0	| You | 
+0	| ever that part in which you found me | 
+0	| you | 
+0	| the affection of a brother | 
+0	| a brother | 
+0	| You | 
+0	| your | 
+0	| this sacrifice | 
+0	| You | 
+0	| my fate | 
+0	| no | 
+0	| we | we | we | us | 
+0	| this hornet 's nest | 
+0	| this hornet 's | 
+0	| you | 
+0	| My honour | 
+0	| many miles | 
+0	| here | here | here | 
+0	| a house of my own to which I will conduct you | my house | my house | 
+0	| you | 
+0	| Otto the Prince | 
+0	| you | 
+0	| this business of escape | 
+0	| the best spirits possible | 
+0	| You | 
+0	| a husband and a prince | 
+0	| a husband | her husband | 
+0	| a prince | 
+0	| you | 
+0	| my company | it | 
+0	| you | 
+0	| Forth , then , ' | 
+0	| Forth | he | he | 
+0	| the way | 
+0	| A little below where they stood , a good-sized brook | it | 
+0	| where they stood , a good-sized brook | 
+0	| they | 
+0	| the road , which overleapt it in a single arch | 
+0	| the road | 
+0	| a single arch | 
+0	| one | 
+0	| one bank of that loquacious water | it | it | it | 
+0	| that loquacious water | 
+0	| a foot-path | 
+0	| a green dell | 
+0	| rocky and stony | 
+0	| rocky | 
+0	| the steep scarps of the ravine | 
+0	| the ravine | 
+0	| brambles | 
+0	| fairy haughs | 
+0	| a few paces | 
+0	| the green turf | 
+0	| a sponge | 
+0	| the hillside | 
+0	| The | it | in the | the | it | 
+0	| force and volume | 
+0	| heavier plunges | 
+0	| more | 
+0	| the pool | 
+0	| Great | great | the fall of it | 
+0	| the labours of that stream , and great and agreeable the changes | 
+0	| the labours of that stream | great and agreeable the changes | 
+0	| that stream | it | It | it | the stream | this stream | 
+0	| the changes | 
+0	| dykes of stubborn rock | 
+0	| a blowing dolphin , spouted through the orifice ; along all its humble coasts | 
+0	| a blowing dolphin | its | it | 
+0	| the orifice ; along all its humble coasts | 
+0	| its humble coasts | 
+0	| rafted-down | 
+0	| the goodlier timber of the forest | 
+0	| the forest | the forest | the forest | 
+0	| these rough clearings | 
+0	| primrose gardens | 
+0	| woods of willow | 
+0	| a favourite of the silver birch | 
+0	| the silver birch | 
+0	| two | 
+0	| these friendly features the path | her features | 
+0	| the path | its | The path | it | the path , Otto | the path | the path | 
+0	| its human acolyte , conducted our two wanderers downward | her | her | her | She | 
+0	| its human acolyte | he | his | him | He | he | himself | 
+0	| our two wanderers | 
+0	| our | 
+0	| Otto before , still pausing at the more difficult passages to lend assistance | 
+0	| the more difficult passages | 
+0	| its human acolyte , conducted our two wanderers downward , | 
+0	| her face | her face | It | 
+0	| her eyes | her eyes | 
+0	| This | remorse or gratitude | only this | 
+0	| no gentleman , no , nor yet a man | 
+0	| a man | the man | the man | a man | 
+0	| these pitiful concessions | 
+0	| third | 
+0	| Some way | it | that way ? ' | 
+0	| the glen | the glen , which now began to open and to be invaded by the taller trees | the glen | 
+0	| the stream , already grown to a good bulk of water | 
+0	| a good bulk of water | 
+0	| a third of it abducted in a wooden trough | 
+0	| a wooden trough | 
+0	| Gaily the pure water , air 's first cousin | 
+0	| Gaily the pure water | it | 
+0	| air 's first cousin | 
+0	| air 's | 
+0	| the rude aqueduct , whose sides and floor it had made green with grasses | 
+0	| the rude aqueduct | 
+0	| grasses | the grasses | 
+0	| it close company | 
+0	| a wilderness of briar and wild-rose | 
+0	| briar and wild-rose | 
+0	| a little in front | 
+0	| the brown top of a mill and the tall mill-wheel | 
+0	| a mill and the tall mill-wheel | 
+0	| a mill | 
+0	| the tall mill-wheel | 
+0	| diamonds | 
+0	| the glen ; at the same time the snoring music of the saws broke the silence | 
+0	| the same time | The time | 
+0	| the snoring music of the saws | 
+0	| the saws | 
+0	| the silence | 
+0	| The miller , hearing steps | The miller | his | he | The miller | he | The miller | He | he | he | My miller | him | 
+0	| steps | 
+0	| his door | 
+0	| both he and Otto | 
+0	| ` Good-morning , miller , ' | it | 
+0	| Good-morning , miller | 
+0	| You | 
+0	| Mittwalden | Mittwalden Rath-haus | 
+0	| you | 
+0	| the news | 
+0	| My throne | it | 
+0	| - and your good friends | 
+0	| your good | 
+0	| your | 
+0	| the Phoenix | 
+0	| the rule | 
+0	| The red-faced miller | he | 
+0	| your | 
+0	| My Highness | your Highness | Your Highness | 
+0	| the frontier | 
+0	| Grunewald | Grunewald | Grunewald | 
+0	| Your father 's son | 
+0	| Your father 's | 
+0	| Your | 
+0	| It | 
+0	| you | 
+0	| us | 
+0	| ` Arrest you ? | 
+0	| you | 
+0	| what | 
+0	| your | 
+0	| hands | 
+0	| you | 
+0	| O , many , many , ' | O yes | It | 
+0	| you | 
+0	| my greatness | 
+0	| aid in my distress | 
+0	| my distress | 
+0	| the colour of beetroot | 
+0	| You | 
+0	| you and your lady step | 
+0	| you | 
+0	| your lady step | 
+0	| your | 
+0	| one | 
+0	| We | that | us | 
+0	| you | 
+0	| a cup of wine | 
+0	| you | 
+0	| a pleasure and a service | 
+0	| a pleasure | 
+0	| a service | 
+0	| the nape | 
+0	| three | 
+0	| wine in a pitcher and three bright crystal tumblers | The wine | 
+0	| a pitcher and three bright crystal tumblers | them | 
+0	| a pitcher | 
+0	| three bright crystal tumblers | 
+0	| Your | 
+0	| you | 
+0	| a trifle | 
+0	| a more sober man | 
+0	| my ordinary | 
+0	| you | 
+0	| this glass that I drink to you -LRB- and to the lady -RRB- | quite an unusual recreation | 
+0	| you | 
+0	| the lady | 
+0	| due rustic courtesies | 
+0	| Otto and Seraphina | Otto and Seraphina | 
+0	| the taller trees | trees | 
+0	| man a reparation , ' | him | he | 
+0	| a reparation | 
+0	| the Prince ; ` for when we met I was in the wrong | 
+0	| we | 
+0	| the wrong | 
+0	| a sore affront | 
+0	| no one | the better for a humiliation | 
+0	| a humiliation | 
+0	| some | she | 
+0	| a painful embarrassment | 
+0	| us | us | 
+0	| my faith | 
+0	| innumerable windings | 
+0	| this glade | it | this glade , ' she cried , ` | this glade | 
+0	| a cross-cut - the world 's end for solitude - the very deer scarce visit it | 
+0	| the world 's end for solitude - the very deer scarce visit it | 
+0	| the very deer scarce visit it | 
+0	| deer | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| she | she | you not | 
+0	| ` No , ' he replied | It | 
+0	| a singular imbecility of manner and appearance | 
+0	| manner and appearance | 
+0	| glade and dingle | 
+0	| the dingles | They | 
+0	| now burst across a veil of underwood | 
+0	| a veil of underwood | 
+0	| a lawn among the forest | 
+0	| the margin | 
+0	| his glance | 
+0	| that silvan pleasantness | 
+0	| undecipherable eyes | his eyes | 
+0	| A weakness both of the body and mind | 
+0	| the body and mind | 
+0	| the body | 
+0	| the beginnings of sleep | 
+0	| the cords of his activity | 
+0	| his activity | 
+0	| us | 
+0	| rest , ' he said | 
+0	| the slope of an inconsiderable mound | 
+0	| an inconsiderable mound | 
+0	| her slim hand dabbling in grass , like a maid waiting for love 's summons | her hand | it | 
+0	| a maid waiting for love 's summons | 
+0	| love 's summons | 
+0	| The sound of the wind in the forest | 
+0	| the wind in the forest | 
+0	| them | 
+0	| a running rush | 
+0	| the distance | 
+0	| fainting whispers | 
+0	| a bird | 
+0	| the deep covert | 
+0	| broken and anxious notes | 
+0	| a halting prelude to speech | it | 
+0	| the whole frame of nature | 
+0	| his words | words | 
+0	| his pride | 
+0	| the harder and rougher | 
+0	| the fight between pride and its kindly adversary | 
+0	| the fight between pride | its | 
+0	| its kindly adversary | 
+0	| one | 
+0	| last | 
+0	| you | 
+0	| one thing : I | 
+0	| you | 
+0	| , if true | it | it | it | it | 
+0	| you | 
+0	| he | 
+0	| you | 
+0	| the weak man | man 's | 
+0	| you | 
+0	| some things | 
+0	| kind speeches | 
+0	| your anger , how much less to be forgiven | 
+0	| your | 
+0	| only me and you : you , as you have been always ; me , as I was - me , above all | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| myself : and what can I think ? | 
+0	| us | ourselves | we | we | 
+0	| the parts | 
+0	| another | 
+0	| a friend | 
+0	| last night | 
+0	| these terms , Seraphina | 
+0	| these terms | 
+0	| you | 
+0	| yourself - and me | them in tender and transforming currents | 
+0	| him | He | his | he | He | his | he | 
+0	| the smooth fingers | 
+0	| tender and transforming currents | 
+0	| the past | 
+0	| your | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| the speech of a frightened child | It | 
+0	| a frightened child | 
+0	| . | she | her | her | her | 
+0	| He | he | 
+0	| the very ecstasy of tenderness and anguish | 
+0	| tenderness and anguish | 
+0	| most of all | 
+0	| her changed eyes | 
+0	| the very light of love | 
+0	| a sudden , tuneless voice , ` Seraphina | 
+0	| a sudden , tuneless voice | 
+0	| you | 
+0	| the leaves | 
+0	| young trees | 
+0	| the flowers | 
+0	| This | 
+0	| we | 
+0	| the first time | that time | 
+0	| O what a pit there is for sins - God 's mercy , man 's oblivion ! ' | it | that | merely the abuse of dreaming ; let me begin again , a stranger | 
+0	| a pit there is for sins - God 's mercy | 
+0	| sins - God 's mercy | 
+0	| God 's mercy | 
+0	| God 's | he | 
+0	| man 's oblivion | 
+0	| a stranger | 
+0	| a long dream | 
+0	| a girl unkind and beautiful ; in all things my superior , but still cold | 
+0	| my superior | 
+0	| no merit but a love , slavish and unerect | 
+0	| no merit | 
+0	| a love | 
+0	| durst not | 
+0	| fear of waking | 
+0	| Lie close | 
+0	| a deep thrill of speech | 
+0	| they | 
+0	| the spring woods | 
+0	| the Republic | the Republic | 
+0	| THE reader well informed in modern history | The reader | the reader | 
+0	| details | 
+0	| the fate of the Republic | 
+0	| 7 | 
+0	| Leipzig | 
+0	| The best account | 
+0	| the memoirs of Herr Greisengesang -LRB- 7 Bande : Leipzig -RRB- | 
+0	| Herr Greisengesang -LRB- 7 Bande : Leipzig -RRB- | 
+0	| 7 Bande : Leipzig | 
+0	| our passing acquaintance the licentiate Roederer | The acquaintance | 
+0	| our | 
+0	| the licentiate Roederer | Herr Roederer , with too much of an author 's licence | Herr Roederer | his | 
+0	| too much of an author 's licence | 
+0	| an author 's licence | 
+0	| an author 's | 
+0	| a great figure of his hero | 
+0	| his hero | him | 
+0	| the centre-piece and cloud-compeller of the whole | 
+0	| the whole | 
+0	| this bias | 
+0	| the book | 
+0	| 2 | 
+0	| Longman | 
+0	| Hurst | 
+0	| Rees | 
+0	| Orme | 
+0	| Brown | 
+0	| course acquainted with the vigorous | 
+0	| the vigorous | 
+0	| pages of Sir John -LRB- 2 vols. , London : Longman , Hurst , Rees , Orme and Brown -RRB- | 
+0	| 2 vols. , London : Longman , Hurst , Rees , Orme and Brown | 
+0	| 2 vols. | 
+0	| London : Longman , Hurst , Rees , Orme and Brown | 
+0	| Longman , Hurst , Rees , Orme and Brown | 
+0	| a tooth-comb | his | 
+0	| the orchestra of this historical romance , blows in his own book the big bassoon | 
+0	| this historical romance , blows in his own book the big bassoon | 
+0	| this historical romance | 
+0	| blows in his own book the big bassoon | 
+0	| his own book | 
+0	| the big bassoon | 
+0	| Landor | 
+0	| His character | 
+0	| the sympathy of Landor | 
+0	| the admiration of the public | 
+0	| the public | the public | 
+0	| One | 
+0	| One point | it | 
+0	| the chapter on Grunewald | the chapter | It | it | 
+0	| the hand of the author in the palace gardens | 
+0	| the author in the palace gardens | 
+0	| the palace gardens | 
+0	| my more modest pages , the Lion of the caravan | 
+0	| my more modest pages | 
+0	| the Lion of the caravan | 
+0	| the caravan | 
+0	| That eminent literatus | a man of method ; ` Juvenal by double entry , ' he was once profanely called | he | he | he | his | he | 
+0	| method ; ` Juvenal by double entry , ' he was once profanely called | it | 
+0	| Juvenal by double entry | 
+0	| the sheets | 
+0	| the search for some dramatic evidence of his sincerity | 
+0	| some dramatic evidence of his sincerity | 
+0	| his sincerity | 
+0	| the thought of practical deletion | 
+0	| two blotted scrolls and a fair copy in double | 
+0	| scrolls and a fair copy | 
+0	| scrolls | 
+0	| a fair copy | 
+0	| double | 
+0	| Europe | 
+0	| the chapter , as the reader knows | 
+0	| the famous ` Memoirs on the various Courts of Europe | 
+0	| the various Courts of Europe | 
+0	| us | our | 
+0	| a further glimpse of our characters | 
+0	| our characters | 
+0	| Frederic | Frederic | 
+0	| a small volume -LRB- printed for private circulation : no printer 's name ; n.d. -RRB- | the volume | 
+0	| no printer 's name | 
+0	| no printer 's | 
+0	| Poesies par Frederic et Amelie | Amelie | 
+0	| a presentation copy , obtained for me by Mr. Bain in the Haymarket | 
+0	| a presentation copy | 
+0	| Mr. Bain in the Haymarket | 
+0	| the Haymarket | 
+0	| the name of the first owner | 
+0	| the first owner | himself | 
+0	| the fly-leaf in the hand of Prince Otto himself | 
+0	| the hand of Prince Otto himself | 
+0	| Prince Otto himself | 
+0	| The modest epigraph - ` Le rime n'est pas riche ' - may be attributed , with a good show of likelihood , to the same collaborator | It | 
+0	| ` Le rime n'est | 
+0	| pas riche ' - may be attributed , with a good show of likelihood , to the same collaborator | 
+0	| a good show of likelihood | 
+0	| the same collaborator | 
+0	| Those pieces in which I seem to trace the hand of the Princess | 
+0	| the hand of the Princess | 
+0	| the booklet | it | 
+0	| a fair success with that public for which it was designed | 
+0	| that public for which it was designed | 
+0	| some evidences of a second venture of the same sort , now unprocurable | 
+0	| a second venture of the same sort , now unprocurable | 
+0	| the same sort | 
+0	| we | 
+0	| leave of Otto and Seraphina - what do I say ? | 
+0	| Frederic and Amelie | 
+0	| ageing together peaceably at the court of the wife 's father , jingling French rhymes and correcting joint proofs | 
+0	| the court of the wife 's father , jingling French rhymes and correcting joint proofs | 
+0	| the wife 's father | 
+0	| French rhymes | 
+0	| joint proofs | 
+0	| Victor Hugo 's | 
+0	| the book-lists | 
+0	| Mr. Swinburne | 
+0	| a rousing lyric and some vigorous sonnets | 
+0	| a rousing lyric | It | 
+0	| some vigorous sonnets | 
+0	| the memory of Gondremark | 
+0	| Victor Hugo 's trumpet-blasts of patriot enumeration | 
+0	| patriot enumeration | 
+0	| my task | 
+0	| a trace of the fallen politician and his Countess | 
+0	| the fallen politician and his Countess | 
+0	| the fallen politician | his | 
+0	| his Countess | 
+0	| J. Hogg Cotterill | Mr. Cotterill | Cotterill | Mr. Cotterill | he | 
+0	| the ` Diary of J. Hogg Cotterill , Esq. ' -LRB- that very interesting work -RRB- | 
+0	| the ` Diary of J. Hogg Cotterill | 
+0	| Esq. ' | 
+0	| very interesting work | 
+0	| Naples | 
+0	| Baron | he a man who once made a noise - she still beautiful - both witty | 
+0	| May 27th | 
+0	| to | 
+0	| a Baron and Baroness Gondremark - he a man who once made a noise - she still beautiful - both witty | 
+0	| a man who once made a noise - she still beautiful - both witty | 
+0	| a noise - she still beautiful - both witty | 
+0	| a noise - she still beautiful - | 
+0	| witty | 
+0	| Germany | 
+0	| GRAND AIR | 
+0	| my French | his | 

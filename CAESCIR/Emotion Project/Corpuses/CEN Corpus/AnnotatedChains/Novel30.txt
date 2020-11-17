@@ -1,0 +1,626 @@
+0	| a finger to save that hound | it , dear | it | 
+1	| Giovanni | Giovanni 's | Giovanni | his | Giovanni 's | Giovanni | his | he | his | Giovanni | him | Giovanni | Giovanni | Giovanni | he | him | he | Giovanni | He | He | He | a slippery fellow | he | Giovanni | his | Giovanni | He | his | his | his | He | his | him | Giovanni | Giovanni | him | Giovanni | his | he | his | him | he | Giovanni | Giovanni | Giovanni | Giovanni | him | him | Giovanni 's | Giovanni | his | him | Giovanni | Giovanni | me | I | Giovanni | Giovanni | he | Giovanni | Giovanni | his | his | he | him | Giovanni | He | his | he | his | him | He | himself | he | he | He | his | his | he | he | he | his | His | him | him | he | himself | he | his | he | Giovanni | his | his | him | Giovanni | his | I | he | My | Giovanni 's | Giovanni | Giovanni 's | his | his | him | Giovanni | I | Giovanni | him | Giovanni | he | Giovanni | 
+0	| that hound | 
+1	| Corona | Corona | her | herself | Corona | Corona | Corona | Corona | her | Corona | Corona | Corona | I | Corona , thoughtfully | Corona | she | My | Corona 's | Corona | Corona | the grade Corona | Corona | Corona | Corona | Corona | she | her | Corona , with ready sympathy | Corona | She | her | her | I | Corona | her | Corona | Corona | Corona | her | she | her | her | My | she | Corona | 
+0	| you | she | 
+0	| France | 
+0	| you | him | 
+0	| England | 
+0	| Switzerland | 
+0	| People | they | People | their | people | their | they | they | 
+0	| Giovanni and Corona | their | their | Giovanni and Corona | their | Giovanni and Corona | Giovanni and Corona | they | they | Giovanni and Corona | they | they | Giovanni and Corona | 
+0	| the country for their honeymoon | the country around | 
+0	| the following evening , without any warning | 
+0	| their honeymoon | 
+0	| the following evening | 
+0	| France and England | 
+0	| their wedding-trip | 
+0	| The hills | the hills | the hills | 
+0	| the story of Del Ferice 's escape | 
+0	| that early season | 
+0	| Del Ferice 's escape | 
+0	| Thereupon the old gentleman | he | his own son | his | 
+0	| the old gentleman | 
+0	| advantage of the termination of her widowhood to mix at once with the world , and indemnify herself for the year of mourning by a year of unusual gaiety | 
+0	| a towering rage , swearing and cursing | 
+0	| the termination of her widowhood to mix at once with the world , and indemnify herself for the year of mourning by a year of unusual gaiety | 
+0	| a most characteristic manner | 
+0	| her widowhood to mix at once with the world , and indemnify herself for the year of mourning by a year of unusual gaiety | 
+0	| spies | spies | 
+0	| the work of spies | 
+0	| the world | 
+0	| a gentleman | 
+0	| the year of mourning | 
+0	| a year of unusual gaiety | 
+0	| the other hand , who loudly applauded the action , which , it was maintained , showed a wise spirit of economy | 
+0	| the other hand | 
+0	| the action , which , it was maintained | 
+0	| the action | it | 
+0	| * | 
+0	| the curtain | 
+0	| a wise spirit of economy | 
+0	| the first act | 
+0	| the extravagance | 
+0	| young couples who in reality had far more cause to be careful of their money | 
+0	| their money | their money | his money | 
+0	| two | the two | two | it | the two | two | two | 
+0	| Those who held this view | themselves | they | 
+0	| Donna Tullia | 
+0	| this view | it | it | 
+0	| the frontier among his friends in Naples | 
+0	| the old , patriarchal class , the still flourishing remnant of the last generation , who prided themselves upon good management , good morals , and ascetic living ; the class of people in whose marriage-contracts it was stipulated that the wife was to have meat twice a-day , excepting on fast days , a drive -- the _ trottata _ , as it used to be called -- daily , and two new gowns every year | 
+0	| his friends in Naples | 
+0	| the old , patriarchal class | the still flourishing remnant of the last generation , who prided themselves upon good management , good morals , and ascetic living ; the class of people in whose marriage-contracts it was stipulated that the wife was to have meat twice a-day , excepting on fast days , a drive -- the _ trottata _ , as it used to be called -- daily , and two new gowns every year | the class of people in whose marriage-contracts it was stipulated that the wife was to have meat twice a-day , excepting on fast days , a drive | 
+0	| news of him , in the last days of Lent , in the year 1866 | 
+0	| remnant of the last generation , who prided themselves upon good management , good morals , and ascetic living ; the class of people in whose marriage-contracts it was stipulated that the wife was to have meat twice a-day , excepting on fast days , a drive -- the _ trottata _ , as it used to be called -- daily , and two new gowns every year | 
+0	| news of him , in the last days of Lent | 
+0	| the last generation , who prided themselves upon good management , good morals , and ascetic living | 
+0	| the last generation | that generation | 
+0	| the last days of Lent | 
+0	| good morals | 
+0	| Lent | 
+0	| the year 1866 | 1866 | 
+0	| people in whose marriage-contracts it was stipulated that the wife was to have meat twice a-day , excepting on fast days , a drive | 
+0	| marriage-contracts it | 
+0	| the tale from this point | 
+0	| the wife | his wife 's | his wife 's | She | my wife | his wife | his wife | My wife | 
+0	| a new series of events more interesting | 
+0	| meat twice a-day | the `` meat '' | 
+0	| events more interesting | 
+0	| fast days , a drive | 
+0	| those herein detailed | their | their | their | their | them | 
+0	| fast days | the days | 
+0	| importance in the history of the Saracinesca family | 
+0	| a drive | 
+0	| the history of the Saracinesca family | 
+0	| the _ trottata _ , as it used to be called -- daily | 
+0	| the Saracinesca family | 
+0	| the _ trottata _ | 
+0	| their very nature | it | 
+0	| two new gowns every year | 
+0	| a distinct narrative -- a second act to the drama , if it may be so called | 
+0	| our times | 
+0	| a second act to the drama , if it may be so called | 
+0	| our | 
+0	| the drama , if it may be so called | 
+0	| most of that generation | 
+0	| the drama | 
+0	| these clauses | 
+0	| the first half of the century | 
+0	| the foregoing pages | 
+0	| A little | it | 
+0	| the reader | him | 
+0	| those characters which hereafter will play more important parts , as to enable him to comprehend the story of their subsequent lives , and in some measure to judge of their future by their past , regarding them as acquaintances , if not sympathetic , yet worthy of some attention | 
+0	| more important parts , as to enable him to comprehend the story of their subsequent lives , and in some measure | 
+0	| goat 's | 
+0	| more important parts | 
+0	| flesh , which was considered to be food fit only for servants | 
+0	| food fit only for servants | 
+0	| the story of their subsequent lives | 
+0	| servants | their | they | They | they | their | 
+0	| their subsequent lives | 
+0	| the patriarchal generation | a fine old class in spite of their economy | 
+0	| some measure | 
+0	| judge of their future | 
+0	| spite of their economy | 
+0	| their future | 
+0	| their economy | 
+0	| their past | 
+0	| Giovanni 's conduct | 
+1	| Saracinesca | The Saracinesca | Saracinesca | Saracinesca | Saracinesca | Saracinesca | Saracinesca | Saracinesca | Saracinesca | Saracinesca | old Saracinesca | Saracinesca | 
+0	| acquaintances , if not sympathetic , yet worthy of some attention | 
+0	| No one | 
+0	| acquaintances , if not sympathetic | 
+0	| the solitude of Saracinesca | the greatest luxury the newly-married couple could desire | 
+0	| acquaintances | 
+0	| some attention | 
+0	| the newly-married couple | 
+0	| matters political | 
+0	| their wish | 
+0	| the history of political events , but the history of a Roman family | 
+0	| the history of political events | 
+0	| political events | 
+0	| No one | 
+0	| the history of a Roman family | 
+0	| the preparations | 
+0	| a Roman family | 
+0	| his wife 's reception | 
+0	| times of great uncertainty and agitation | 
+0	| one | 
+0	| the changes in the castle | 
+0	| Del Ferice as a type of the Italian Liberal party | 
+0	| the castle | the castle | the castle | the castle | 
+0	| a type of the Italian Liberal party | a type | its | 
+0	| the ears of the aforesaid patriarchs | 
+0	| the Italian Liberal party | the Liberal party | 
+0	| the aforesaid patriarchs | they | their | they | their | their | 
+0	| a villain | him | 
+0	| their minds | 
+0	| pieces with the artillery of poetic justice | 
+0	| the artillery of poetic justice | 
+0	| Giovanni 's economy | 
+0	| the kind | 
+0	| Rome | Rome | 
+0	| their own quiet way | 
+0	| a type , but a type of a depraved class which very unjustly represented the Liberal party in Rome before 1870 , and which , among those who witnessed its proceedings , drew upon the great political body which demanded the unity of Italy an opprobrium that body was very far from deserving | 
+0	| the interior of the old stronghold | 
+0	| the old stronghold | 
+0	| a type of a depraved class which very unjustly represented the Liberal party in Rome before 1870 | 
+0	| a complete transformation | 
+0	| a depraved class | 
+0	| the ancient grey stones of the outer walls and towers | 
+0	| the outer walls and towers | 
+0	| 1870 | 
+0	| the valley | the valley | the valley | 
+0	| those who witnessed its proceedings | 
+0	| Italy | Italy | Italy | 
+0	| its proceedings | 
+0	| Vast halls | the halls | 
+0	| a style suited to the antiquity of the fortress | 
+0	| the great political body which demanded the unity of Italy | 
+0	| the antiquity of the fortress | 
+0	| the unity of Italy | 
+0	| the fortress | 
+0	| an opprobrium that body was very far from deserving | 
+0	| small sunny rooms | 
+0	| deserving | 
+0	| the more refined luxury which was beginning to be appreciated in Italy twenty years ago | 
+0	| The honest and upright Liberals | they | they | their | they | their | 
+0	| twenty years | 
+0	| A great conservatory | 
+0	| the southern battlement | 
+0	| The aqueduct | 
+0	| their own country | it | 
+0	| fountains | 
+0	| the courts | 
+0	| The old-fashioned fireplaces | 
+0	| huge logs | 
+0	| huge fire-dogs | 
+0	| Massimo D'Azeglio | 
+0	| Cavour | Cavour 's | Cavour himself | 
+0	| a ruddy glow | 
+0	| the trophies of old armour , the polished floors , and the heavy curtains | 
+0	| Giuseppe Mazzini | 
+0	| the polished floors | the heavy curtains | 
+0	| Garibaldi | 
+0	| no man of intelligence need | 
+0	| intelligence need | 
+0	| first | first | first | first | first | 
+0	| Quantities of magnificent tapestry , some of which had been produced when Corona first visited the castle | 
+0	| no more affinity with Massimo D'Azeglio | 
+0	| some | 
+0	| the great Cavour | 
+0	| Cavour 's great enemy Giuseppe Mazzini | 
+0	| the stairs | 
+0	| the jackal | 
+0	| the corridors | 
+0	| the lion | 
+0	| Roman | Roman | 
+0	| the scum which remained after the revolution of 1848 had subsided | 
+0	| Astrardente | Astrardente | Astrardente | he | 
+0	| the revolution of 1848 | 
+0	| The great _ baldacchino _ , the canopy which Roman princes are privileged to display in their antechambers | 
+0	| 1848 | 
+0	| The great _ baldacchino _ | the canopy which Roman princes are privileged to display in their antechambers | _ | _ | _ | _ | it | 
+0	| Roman princes | their | their | their | 
+0	| one of those men who were used and despised by their betters | 
+0	| their antechambers | 
+0	| their betters | 
+0	| the quartered arms of Saracinesca and Astrardente | 
+0	| arms of Saracinesca and Astrardente | her arms | 
+0	| Saracinesca and Astrardente | 
+0	| `` Se noi facessimo per noi quel che faciamo per l'Italia , saremmo gran bricconi '' -- if we did for ourselves what we do for Italy | we | great blackguards | 
+0	| the same armorial bearings | 
+0	| saremmo gran bricconi | we | ourselves | we | 
+0	| rich stained glass in the window of the grand staircase | 
+0	| the window of the grand staircase | 
+0	| the grand staircase | the staircase | 
+0	| The solidity and rare strength of the ancient stronghold | 
+0	| the ancient stronghold | 
+0	| honourable and just men outside of Rome | 
+0	| the decorations and improvements of a later age | 
+0	| honourable | 
+0	| a later age | 
+0	| the first time | the first time | 
+0	| the sequel | 
+0	| the splendour of his ancestral home | 
+0	| this veracious tale | 
+0	| his ancestral home | 
+0	| he and his dark bride dwelt in perfect unity and happiness , in the midst of their own lands , surrounded by their own people , and wholly devoted to each other | 
+0	| he and his dark bride dwelt in perfect unity and happiness , in the midst of their own lands | their | they | they | their | they | they | their | they | their | 
+0	| his dark bride dwelt in perfect unity and happiness , in the midst of their own lands | 
+0	| perfect unity and happiness , in the midst of their own lands | 
+0	| the midst of their own lands | 
+0	| their own lands | 
+0	| their own people | their people | 
+0	| each other | 
+0	| his dark bride dwelt in perfect unity and happiness , in the midst of their own lands , | 
+0	| much of the day | 
+0	| the day | the day when for the first time their carriage should roll smoothly down from Saracinesca to Astrardente without making the vast detour which the old road followed as it skirted the mountain | The day | 
+0	| that unceasing conversation and exchange of ideas which seem to belong exclusively to happily-wedded man and wife | 
+0	| ideas which seem to belong exclusively to happily-wedded man and wife | 
+0	| the hours | 
+0	| Aquaviva | 
+0	| Daily the two | 
+0	| their horses | their horses | 
+0	| the level stretch towards Aquaviva | 
+0	| the turning from which Corona had first caught sight of Saracinesca | 
+0	| sight of Saracinesca | 
+0	| a broad road | 
+0	| the construction | 
+0	| two miles at least | 
+0	| the gentle grade winding backwards and forwards , crossing and recrossing the old bridle-path | the grade | 
+0	| the old bridle-path | the bridle-path | 
+0	| now from the furthest point | 
+0	| the furthest point | that point | this point | 
+0	| the dim distance the great square palace of Astrardente crowning | 
+0	| the great square palace of Astrardente crowning | 
+0	| Astrardente crowning | 
+0	| the hills above the town | 
+0	| the town | 
+0	| the work | the work | the work | 
+0	| the engineer they employed | 
+0	| their carriage | 
+0	| the vast detour which the old road followed as it skirted the mountain | 
+0	| the old road | it | 
+0	| the mountain | the mountain , above Ponza to Arcinazzo | the mountain | It | it | 
+0	| one | 
+0	| an inexpressible pleasure | 
+0	| the growth of the work they had so long contemplated | 
+0	| the work they had so long contemplated | 
+0	| the advantages they would obtain by so uniting their respective villages | 
+0	| their respective villages | 
+0	| feeling that , being at last one , they were working together for the good of their people | 
+0	| last one | 
+0	| the good of their people | 
+0	| three | the three | the three | 
+0	| the men who did the work were without exception | their | them | the men | the men | 
+0	| their own peasants , who were unemployed during the winter time , and who , but for the timely occupation provided for them | 
+0	| their own peasants | 
+0	| the winter time | time | 
+0	| the timely occupation | 
+0	| the cold months | 
+0	| that state of half-starved torpor peculiar to the indigent agricultural labourer | 
+0	| the indigent agricultural labourer | he | 
+0	| that bitter season when father and mother and shivering little ones watch wistfully the ever-dwindling sack of maize , as day by day two or three handfuls are ground between the stones of the hand-mill | 
+0	| father and mother and shivering little ones | 
+0	| father and mother | 
+0	| shivering little ones | 
+0	| the ever-dwindling sack of maize , as day by day two or three handfuls are ground between the stones of the hand-mill | 
+0	| maize , as day by day two or three handfuls are ground between the stones of the hand-mill | 
+0	| day by day two or three handfuls | 
+0	| day two or three handfuls | 
+0	| day two | 
+0	| three handfuls | 
+0	| ground between the stones of the hand-mill | the ground | 
+0	| the stones of the hand-mill | stones | stones | 
+0	| the hand-mill | 
+0	| a thick unwholesome dough , the only food of the poorer peasants | 
+0	| a thick unwholesome dough | the only food of the poorer peasants | their food | 
+0	| the poorer peasants | 
+0	| the winter | 
+0	| sledge-hammer and spade | 
+0	| sledge-hammer | 
+0	| the road | our road | the road | the road , still absorbed in contemplating the landscape | the road | the road | the road | the road | the road | 
+0	| night | 
+0	| each man | his | he | his | he | 
+0	| a silver scudo in his pocket | 
+0	| his pocket | 
+0	| their wages | 
+0	| a silver scudo | 
+0	| a long way | his way | this way | his way | a long way | 
+0	| Yet many a lean and swarthy fellow there would have felt that he was cheated if besides his money he had not carried home daily the remembrance of that tall dark lady 's face and kindly eyes and encouraging voice , and they used to watch for the coming of the '' _ gran principessa _ '' as anxiously as they expected the coming of the steward with the money-bags on a Saturday evening . | 
+0	| a lean and swarthy fellow | the fellow | the fellow 's | him | 
+0	| daily the remembrance of that tall dark lady 's face and kindly eyes | his eyes | 
+0	| daily the remembrance of that tall dark lady 's face | 
+0	| that tall dark lady 's face | 
+0	| that tall dark lady 's | 
+0	| the coming | 
+0	| _ gran principessa _ | 
+0	| the coming of the steward with the money-bags on a Saturday evening | 
+0	| the steward with the money-bags on a Saturday evening | 
+0	| the money-bags on a Saturday evening | 
+0	| a Saturday evening | 
+0	| the wives and daughters of the rough workers | their | them | their | them | 
+0	| the rough workers | 
+0	| their dinners | 
+0	| the morning | 
+0	| the sake of catching a sight of Corona | 
+0	| a sight of Corona | 
+0	| her broad-shouldered manly husband | My husband | He | 
+0	| a right good | 
+0	| the story | 
+0	| years to come there | no lack of work for willing hands | 
+0	| work for willing hands | 
+0	| willing hands | her hands | 
+0	| several weeks | 
+0	| One day | 
+0	| Gouache , the artist Zouave | 
+1	| Gouache | Gouache | Gouache | That | Gouache | Gouache | Gouache | Gouache 's | Gouache | Gouache | Gouache | Gouache | 
+0	| the artist Zouave | He | his | he | he | his | 
+0	| Zouave | 
+0	| Subiaco | 
+0	| a part of his company | 
+0	| his company | 
+0	| once | 
+0	| half-a-dozen | half-a-dozen | 
+0	| a small detachment of half-a-dozen men | 
+0	| half-a-dozen men | 
+0	| instructions to watch the pass | 
+0	| the pass | the pass | 
+0	| Naples | Naples | 
+0	| that direction | 
+0	| the frontier | the frontier | 
+0	| one of the direct routes | 
+0	| the Serra di Sant ' Antonio , which was the shortest hill-route into the kingdom of Naples | 
+0	| the Serra di Sant ' Antonio | the Serra di Sant ' Antonio | my | he | 
+0	| the Serra di Sant ' | the Serra di Sant ' | 
+0	| the shortest hill-route | 
+0	| the kingdom of Naples | 
+0	| no one | 
+0	| a brigand | 
+0	| some years | 
+0	| the mountain-paths | 
+0	| robbers | 
+0	| a matter of fact there was a great deal of smuggling | 
+0	| fact there was a great deal of smuggling | 
+0	| a great deal of smuggling | 
+0	| some political refugee | his | 
+0	| I | you | I | I | I | I | I | 
+0	| the stripes | 
+0	| the young man 's sleeves | 
+0	| the young man 's | 
+0	| you | 
+0	| six | six | 
+0	| an important command of six men | 
+0	| six men | men | just men | 
+0	| Napoleon | 
+0	| much time | 
+0	| the strategy of Condé and Napoleon | 
+0	| Condé and Napoleon | 
+0	| Condé | 
+0	| the bye | 
+0	| a very important mission | 
+0	| you | yourselves | you | 
+0	| the luxury of never reading the papers in this delightful retreat | 
+0	| the papers | 
+0	| this delightful retreat | 
+1	| Del Ferice | Del Ferice | Del Ferice | Del Ferice | he | He | he | him | he | He | his | his | him | his | I | Del Ferice | me | Del Ferice , who , between fear and exhaustion , was by this time half idiotic | Del Ferice | Del Ferice | his | Del Ferice | his | Del Ferice | He | he | he | his | Del Ferice | Del Ferice | Del Ferice | Del Ferice 's | Del Ferice | his | him | Del Ferice | Del Ferice | Del Ferice | He | himself | 
+0	| yesterday | 
+0	| the Cardinal | 
+0	| our friend Del Ferice -- have you | 
+0	| our | 
+0	| `` No -- what -- | he | `` No -- no ! | no | him , Giovanni | him | he | 
+0	| what | 
+0	| a breath | 
+0	| their tones | 
+0	| the news | news of him | 
+0	| the idea | 
+0	| Heaven | 
+0	| the very walls of my house | 
+0	| my house | 
+0	| the circumstances | 
+0	| Monsieur Gouache | 
+0	| a pause | 
+0	| We | our | us | 
+0	| our road , Monsieur Gouache | 
+0	| you | you | 
+0	| a horse | his horse | her horse | his horse | his horse | 
+0	| Corona 's face | 
+0	| his six Zouaves , or patrolling | The Zouaves | Gouacho and the Zouaves | 
+0	| six Zouaves | they | they | their | them | 
+0	| the hills in search of Del Ferice | 
+0	| search of Del Ferice | 
+0	| a few minutes | 
+0	| the level stretch towards the works | 
+0	| the works | the works , the longest quarter of an hour Del Ferice remembered in his whole life | the works | 
+0	| the new road | 
+0	| their visitor | 
+0	| the pair | 
+0	| a Parisian 's love of luxury and perfect appointments as well as an artist 's love of beauty | 
+0	| a Parisian 's | 
+0	| luxury and perfect appointments | 
+0	| an artist 's love of beauty | 
+0	| an artist 's | 
+0	| the riders and their horses | 
+0	| the riders | their | their | their | their | 
+0	| no detail of their dress , their simple English accoutrements , their firm seats and graceful carriage | 
+0	| their dress , their simple English accoutrements , their firm seats and graceful carriage | 
+0	| their dress | 
+0	| their simple English accoutrements | 
+0	| their firm seats | 
+0	| a turn of the grade | 
+0	| the two riders | 
+0	| his field of vision | 
+0	| his attention | her attention | it | 
+0	| the marvellous beauty of the landscape | 
+0	| the landscape | the landscape | 
+0	| the valley towards Astrardente he saw range on range of purple hills rising in a deep perspective | 
+0	| range of purple hills | 
+0	| purple hills | 
+0	| a deep perspective | 
+0	| jagged rocks | 
+0	| brown villages , ruddy in the lowering sun | 
+0	| brown villages | 
+0	| ruddy in the lowering sun | 
+0	| the lowering sun | 
+0	| motionless , drinking in the loveliness | 
+0	| motionless | drinking in the loveliness | it | 
+0	| the loveliness | 
+0	| accidents in nature | 
+0	| accidents in the lives of men | 
+0	| the lives of men | 
+0	| the gentle incline , hardly noticing that Gouache had stopped behind , and talking of the work | 
+0	| the gentle incline | 
+0	| talking of the work | 
+0	| a curve of the grade Corona , who was on the inside | 
+0	| the inside | 
+0	| sight of Gouache 's motionless figure | 
+0	| Gouache 's motionless figure | 
+0	| the opposite extremity of the gradient | 
+0	| the gradient | 
+0	| Capuchin | 
+0	| a pale-faced Capuchin friar who with downcast eyes was toiling up the road , seemingly exhausted ; a particularly weather-stained and dilapidated friar even for those wild mountains | 
+0	| downcast eyes | 
+0	| a particularly weather-stained and dilapidated friar even for those wild mountains | 
+0	| those wild mountains | 
+0	| `` Another of those Capuccini | 
+0	| those Capuccini | 
+0	| his pocket for coppers | 
+0	| coppers | they | 
+0	| a sudden movement | it | 
+0	| his wife 's arm | his arm | his arm | 
+0	| the monk | His | his | his | The monk | his | he | I | he | You | he | me | I | 
+0	| His cowl | his cowl | the cowl | 
+0	| his features | 
+0	| his smooth shaven face | his face | 
+0	| them | 
+0	| the wrong turn | 
+0	| the main road | 
+0	| the dialect of the hills | 
+0	| the peasant who had told him especially not to take the bridle-path if he wished to avoid Saracinesca | 
+0	| his chance | 
+0	| one | 
+0	| her one moment | it | that moment | 
+0	| her pleading eyes | 
+0	| Gouache it is cold in the valley -- anything | it | 
+0	| the valley -- anything | 
+0	| you | you | 
+0	| a word | my word | a word | 
+0	| the hill | the hill with you | the hill , hardly daring to reflect upon what he had done | the hill | 
+0	| his slow walk | 
+0	| Giovanni 's saddle-bow | 
+0	| The latter | 
+0	| the pale features under the cowl | 
+0	| you | you | you | 
+0	| low distinct tones | 
+0	| the monk attempted to pass on | 
+0	| the love of Christ | 
+0	| Christ | 
+0	| you | you | I | my | me | her | her | her | 
+0	| you | you | 
+0	| the Holy Office | 
+0	| `` God | God | 
+0	| the saints | 
+0	| her kindness | 
+0	| fear and exhaustion | 
+0	| this time half | 
+0	| You | you | you | You | you | He | his | his | his | me | 
+0	| her | 
+0	| a chance | 
+0	| one of the workmen | 
+0	| Trevi | Trevi | Trevi | 
+0	| the Serra | 
+0	| best you can | 
+0	| the bridle of his horse | 
+0	| his enemy 's side | 
+0	| his enemy 's | his enemy | her | 
+0	| You | me | I | I | I | 
+0	| the wretched man | 
+0	| the love of heaven | 
+0	| The wolves | 
+0	| a meal of you | 
+0	| you | I | I | my | I | 
+0	| you | you | you | 
+0	| this whining | 
+0	| a man | 
+0	| many a year afterwards | 
+0	| a year | 
+0	| the rough words rankled in his heart | 
+0	| his heart | his heart | 
+0	| Gouacho | 
+0	| the fellow 's neck | his neck | 
+0	| Ugo 's | him | he | his | his | 
+0	| The tones of Ugo 's voice | 
+0	| Ugo 's voice | his voice | 
+0	| injuries | 
+0	| his wrath | It | a quarter of an hour | 
+0	| his wife to save the wretch , much against his will | his wife to save him | 
+0	| the wretch | his | 
+0	| his will | 
+0	| an hour | an hour | an hour | 
+0	| they | 
+0	| the longest quarter of an hour Del Ferice remembered in his whole life | 
+0	| an hour Del Ferice remembered in his whole life | 
+0	| his whole life | 
+0	| Neither | 
+0	| a sturdy-looking fellow who was breaking stones by the roadside | 
+0	| the roadside | 
+0	| Carluccio | he | 
+0	| This good monk | his | him | him | 
+0	| Arcinazzo | 
+0	| You | 
+0	| Ponza to Arcinazzo | Ponza | 
+0	| the good friar | 
+0	| a hurry | 
+0	| Carluccio | He | he | He | his | his | his | 
+0	| one | 
+0	| his torn jacket | it | 
+0	| one shoulder | 
+0	| his battered hat | 
+0	| his thick black curls | 
+0	| us | us | 
+0	| a benediction , _ padre mio _ | 
+0	| a benediction | _ padre mio _ | 
+0	| _ non è mica un passo _ -- it is a good walk to Trevi | 
+0	| _ non è mica | 
+0	| passo _ | 
+0	| a good walk to Trevi | 
+0	| the situation | 
+0	| his heel | 
+0	| A moment | 
+0	| the considerable astonishment of the labourers , who were accustomed to see him spend at least half an hour in examining the work done | 
+0	| the labourers , who were accustomed to see him spend at least half an hour in examining the work done | 
+0	| the labourers | 
+0	| at least half an hour | 
+0	| the work done | 
+0	| no humour to talk about roads | 
+0	| roads | 
+0	| a horrible quarter of an hour , between his desire to see Del Ferice punished and the promise he had given his wife to save him | 
+0	| his desire to see Del Ferice punished and the promise he had given his wife to save him | 
+0	| his desire to see Del Ferice punished | 
+0	| the promise he had given his wife to save him | 
+0	| a second man | 
+0	| the fugitive | him | 
+0	| his teeth | That | 
+0	| bitter curses | 
+0	| the eyes of the law | 
+0	| the law | 
+0	| wittingly helped a traitor to escape | 
+0	| a traitor to escape | 
+0	| his conscience | 
+0	| His instinct | 
+0	| a vast deal of trouble if he had followed his impulse | 
+0	| his impulse | the impulse | 
+0	| Shakespeare 's | 
+0	| a deep-rooted desire | 
+0	| Shakespeare 's murderer | his | 
+0	| his companion | 
+0	| the devil | his | him | 
+0	| his elbow bidding | 
+0	| murder the duke | 
+0	| the duke | 
+0	| half-a-dozen words from her | 
+0	| a result which no consideration of mercy or pity could have brought about | 
+0	| no consideration of mercy or pity | 
+0	| mercy or pity | 
+0	| Corona and Gouache | our | 
+0	| the top of the road | 
+0	| an imperceptible nod | 
+0	| our ride | it chilly | 
+0	| Anastase | herself | 
+0	| Giovanni 's pale face | 
+0	| Corona herself seemed | his | 
+0	| his gentle smile ; `` the mountain air | 
+0	| the mountain air | 
+0	| the gate Gouache dismounted and left them | 
+0	| them | 
+0	| a rather cold invitation | 
+0	| a small apartment | 
+0	| that cold season | 
+0	| a sitting-room | 
+0	| Giovanni 's shoulders | 
+0	| his angry eyes | 
+0	| My beloved | I | I | I | Especially I | I | I | I | I | I | 
+0	| you | 
+0	| more | 

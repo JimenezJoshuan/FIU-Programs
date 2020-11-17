@@ -1,0 +1,658 @@
+1	| Beatrice | Beatrice 's | Beatrice | Beatrice | Beatrice 's | Beatrice | him | Beatrice | Beatrice | Beatrice 's | Beatrice | Beatrice | him | he | her husband | his | his | Beatrice on her side | he | Beatrice | him | Beatrice | Beatrice 's | our dear Beatrice | he | Beatrice 's | him | Beatrice | Beatrice | Beatrice | Beatrice | Beatrice 's | Beatrice | his | he | Beatrice | Beatrice | Beatrice | he | himself | Beatrice | Beatrice | he | his | he | he | Beatrice | Beatrice | Beatrice , who came next | Beatrice | Beatrice | Beatrice | Beatrice | Beatrice | Beatrice | 
+0	| she | 
+0	| the steep ascent | 
+0	| She | herself | she | 
+0	| the hotel | 
+1	| Bastianello | him | his | He | him | Bastianello | Bastianello | Bastianello | Bastianello | his | He | himself | he | him , a couple of fathoms | he | he | he | he | He | he | he | him | he | himself | Bastianello | him | Bastianello | Bastianello 's | him | he | Bastianello | Bastianello | his | he | his | Bastianello | he | Bastianello 's | his | his | Bastianello | he | Bastianello | 
+0	| the scenery for a comedy | 
+1	| Teresina | she | Teresina | Teresina | herself | Teresina | Teresina | her | she | she | herself with trying to see into Bastianello 's eyes | She | she | Teresina | Teresina | Teresina | her | she | herself with looking on , while San Miniato and Beatrice silently watched the proceedings from their place | Teresina | Teresina | you | she | Teresina | her | her | she | she | herself | 
+0	| a comedy | 
+0	| Bastianello and Teresina | they | they | 
+0	| a word | no word | 
+0	| a whisper and Ruggiero | 
+0	| the dark outline of Beatrice 's graceful figure | 
+0	| Beatrice 's graceful figure | 
+0	| her hands in applause | his hands | 
+0	| the bright light which shone outside at the upper end of the tunnel | 
+0	| the upper end of the tunnel | 
+0	| the tunnel | 
+0	| one | 
+0	| Many confused thoughts | 
+0	| Bastianello 's eyes | 
+0	| advancing and retreating waves | 
+0	| the central rock of his one unalterable purpose | the rock | 
+0	| furthest forward | 
+0	| his one unalterable purpose | 
+0	| the stern-sheets | 
+0	| the starboard stroke oar | 
+0	| the gust | 
+0	| the door of the house | The door | the door | 
+0	| the sails and the boat | 
+0	| the house | 
+0	| the sails | the sails | 
+0	| no pulling | 
+0	| Donna Beatrice | Donna Beatrice | Beatrice Granmichele | 
+0	| You | his | 
+1	| Bastianello | He | himself | his | He | his | he | he | he | he | His | he | He | he | he | he | his | He | his | him | him | 
+0	| the mandolin , Donna Beatrice | the mandolin | The mandolin | the mandolin | 
+0	| the bag upstairs | 
+0	| that day | 
+0	| a sort of disappointed interrogation | it | 
+0	| time | time | time | 
+0	| some detail of the preparations for the evening 's excursion | 
+0	| the preparations for the evening 's excursion | 
+0	| the evening 's excursion | 
+0	| the young girl | the young girl | herself | she | her | 
+0	| the evening 's | the evening | the evening | this evening | 
+0	| You | her | 
+0	| the most part | no part | 
+0	| the breakwater where the breeze was blowing and the light surf breaking just high enough to wet his face from time to time with fine spray | 
+0	| the breakwater where the breeze was blowing | the breakwater | 
+0	| the breeze | 
+0	| the tiller in his hand , his eye on the dark water to landward constantly on the look-out for the gusts that came down so quickly and which could deal treacherously with a light craft like the one he was steering | the tiller | 
+0	| the light surf breaking just high enough to wet his face from time to time with fine spray | 
+0	| his hand , his eye on the dark water to landward constantly on the look-out for the gusts that came down so quickly and which could deal treacherously with a light craft like the one he was steering | his hand | his eye on the dark water to landward constantly on the look-out for the gusts that came down so quickly and which could deal treacherously with a light craft like the one he was steering | his hand | his hand | 
+0	| his face from time | her face | her face | 
+0	| time with fine spray | 
+0	| the dark water to landward | 
+0	| his mind | it | 
+0	| the look-out for the gusts that came down so quickly | 
+0	| the gusts that came down so quickly | 
+0	| a light craft like the one he was steering | 
+0	| there , breathing in the keen salt air | it | 
+0	| no desire to upset her to-night , nor even to bring the tiller down on his master 's head | 
+0	| breathing in the keen salt air | 
+0	| the keen salt air | the air | the air | The air | 
+0	| the music of the surging water , which was the only harmony he had ever loved | 
+0	| the surging water , which was the only harmony he had ever loved | 
+0	| his master 's head | 
+0	| the surging water | 
+0	| his master 's | 
+0	| the only harmony he had ever loved | 
+0	| no bungling about the business he had in hand , no mistakes and no wasting of lives | 
+0	| the business he had in hand , no mistakes and no wasting of lives | 
+0	| a very faithful and simple nature | 
+0	| hand , no mistakes and no wasting of lives | 
+0	| no mistakes | 
+0	| no wasting of lives | 
+0	| one | 
+0	| lives | 
+0	| one | 
+0	| Scutari | Scutari | 
+0	| her | her | she | her | she | her | she | she | she | Her | she | 
+0	| they | them | them | 
+0	| but one object , which was to serve her | 
+0	| Scutari point , vast , black and forbidding in the starlight | 
+0	| but one object | 
+0	| Scutari point | 
+0	| a gloom | It | 
+0	| the attainment of that one result | 
+0	| that one result | 
+0	| the shadow of coming evil | 
+0	| his eyes | his eyes | eyes | eyes | his eyes | 
+0	| coming evil | 
+0	| other ways | 
+0	| the dark and silent water | 
+0	| her will | it | That | it | 
+0	| the stillness | the stillness | 
+0	| a man | the strong man 's | his | a man , strong , whole-hearted , willing to give all | 
+0	| the enormous bluff | 
+0	| the order to stop pulling and furl the sails | 
+0	| Tragara | Tragara | 
+0	| his instinct | 
+0	| the painter | 
+0	| her steady | steady | 
+0	| her | 
+0	| the words she had spoken to San Miniato at Tragara | words | words | the words as she | 
+0	| the gunwale of the larger boat | 
+0	| San Miniato at Tragara | 
+0	| the larger boat | The larger boat | 
+0	| them | 
+0	| Beatrice and Teresina | Bastianello and Beatrice | 
+0	| you | his | he | 
+0	| a man of Beatrice 's own class | 
+0	| Beatrice 's own class | 
+0	| Her head | 
+0	| a moment | a moment | 
+0	| the truth | 
+0	| Ruggiero 's hand to steady | 
+0	| many stories of the kind | 
+0	| the kind | 
+0	| his companions | 
+0	| Women | 
+0	| one | that | 
+0	| men | them | they | the men | 
+0	| his insane passion for her | 
+0	| He | he | him | he | he | his | his | he | he | himself | 
+0	| Beatrice for any moral quality she might or might not possess | 
+0	| she | 
+0	| far too human , and natural and too little educated to seek reasons for the passion that devoured him | 
+0	| the land | 
+0	| the passion that devoured him | it | it | its | 
+0	| the deep shadow | 
+0	| the bluffs | 
+0	| seven hundred | it | an every-day excursion | it | 
+0	| its reality | It | 
+0	| the cliff | its | 
+0	| seven hundred feet | 
+0	| twenty | twenty | 
+0	| its base with wave-worn caves and hollows | 
+0	| his head to ask for any | his head | 
+0	| wave-worn caves and hollows | 
+0	| his heart | her heart | 
+0	| a fast hold | 
+0	| the broad ledge of the single islet of rock | 
+0	| twenty reasons | 
+0	| the single islet of rock | the islet | 
+0	| either side | her side | 
+0	| a high natural arch springs suddenly across the water to the abrupt precipice which forms the mountain 's base | 
+0	| the water to the abrupt precipice | 
+0	| the abrupt precipice | the precipice | 
+0	| the mountain 's base | 
+0	| the mountain 's | the mountain | 
+0	| The mere idea | 
+0	| she | she | she | 
+0	| a torch | the torch | the torch | 
+0	| a common man | himself | him | 
+0	| San Miniato | San Miniato | that | a very simple matter | San Miniato | San Miniato | San Miniato 's | San Miniato | That | San Miniato | they | San Miniato | they | its | San Miniato | San Miniato | they | San Miniato | San Miniato , who mistrusted the preamble , but was careful not to show it | San Miniato | I | my | my | I | I | My | me | I | I | I | I | I | I | San Miniato | I | I | San Miniato in a tone which betrayed some nervousness in spite of his best efforts to be calm , for he had assuredly not understood before | I | San Miniato | I | I | you | San Miniato | San Miniato | San Miniato | San Miniato | San Miniato | San Miniato | San Miniato | San Miniato | meeting San Miniato 's | we | San Miniato and her mother | San Miniato | San Miniato | them | San Miniato | it | San Miniato | San Miniato | I | I | San Miniato | It | It | it | San Miniato | they | San Miniato and Beatrice | San Miniato | their | San Miniato | San Miniato | me | San Miniato | San Miniato | San Miniato 's | them both | they | 
+0	| the rocks | the rocks | the rocks | 
+0	| the dark green crabs that lay by dozens motionless as though paralysed by the strong red glare | crabs | 
+0	| dozens | them | them | them | 
+0	| the strong red glare | 
+0	| a mother | her | her mother | her mother | her mother | her mother | her | 
+0	| her daughter | she | his daughter | his daughter 's | she | 
+0	| the kettle at his feet | 
+0	| The only way of saving Beatrice | 
+0	| an end of San Miniato | the end | 
+0	| a poor thing in those great hands of Ruggiero 's | 
+0	| one almost bit her tender fingers | 
+0	| those great hands of Ruggiero 's | her hands | 
+0	| her tender fingers | 
+0	| the average of fine gentlemen | 
+0	| fine gentlemen | 
+0	| a great sin to kill San Miniato | 
+0	| the proceedings | 
+0	| a sin | 
+0	| people who did murder and died unabsolved always | 
+0	| the eternal fire | 
+0	| Little by little Ruggiero | 
+0	| first | first | first | first | first | it | first | first | 
+0	| little Ruggiero | she | 
+0	| the first place Beatrice | 
+0	| the base of the precipice | 
+0	| the natural course of things | 
+0	| things | 
+0	| Heaven | 
+0	| the natural arch | 
+0	| she | 
+0	| Pardon | 
+0	| Excellency | he | I | 
+0	| whatever | 
+0	| San Miniato 's destruction | 
+0	| the foreigners | 
+0	| this | a sight with the torches | it | 
+1	| Ruggiero | Ruggiero | He | his | Ruggiero | Ruggiero 's | he | Ruggiero | Ruggiero | Ruggiero | him | he | he | he | he | he | his | his | Ruggiero 's | his | his | Ruggiero | him | him | he | Ruggiero | He | Ruggiero to himself | he | he | He | Ruggiero | his | Ruggiero | I | Ruggiero | I | I | Ruggiero | You | poor Ruggiero | Ruggiero | he who put the party on board , made the skiff fast astern of the sailboat and jumped upon the stern | himself | Ruggiero | Ruggiero , the tiller in his hand , his eye on the dark water to landward constantly on the look-out for the gusts that came down so quickly and which could deal treacherously with a light craft like the one he was steering | Ruggiero | his | his | he | he | his | he | Ruggiero | he | himself | his | Ruggiero 's | Ruggiero | Ruggiero | Ruggiero | he | his | him | Ruggiero | Ruggiero | Ruggiero | Ruggiero 's | me | Ruggiero of the Children of the King | himself | Ruggiero | he | he | him | Ruggiero | 
+0	| one 's | 
+0	| you | you | them | 
+0	| the flames | 
+0	| the ledge | the ledge where it was lowest | the ledge | 
+0	| the undying satisfaction of having brought him there | 
+0	| the simple and uncompromising view of the future state which he took | 
+0	| the future state which he took | 
+0	| The proposal | 
+0	| the circumstances | 
+0	| the operation of picking crabs off the rocks and dropping them into a caldron | its | 
+0	| the block of stone | it | 
+0	| the sea | 
+0	| a caldron | 
+0	| the means of saving the woman he loved | 
+0	| the woman he loved | 
+0	| many times | 
+0	| his soul and his body for such | 
+0	| the tinkle of the mandolin , playing waltz music | 
+0	| his soul | 
+0	| waltz music | 
+0	| his body for such | 
+0	| such | 
+0	| a good | 
+0	| lowest | 
+0	| one | 
+0	| Ruggiero 's way of looking at the present and future state | 
+0	| the present and future state | 
+0	| the same quiet tone | 
+0	| more than one theologian | 
+0	| that particular afternoon | the afternoon | 
+0	| matters of life and death | matters | 
+0	| life and death | 
+0	| one | 
+0	| his own way | 
+0	| she | her | her | she | she | she | 
+0	| his intentions | 
+0	| one hand | 
+0	| the red light | 
+0	| the Marchesa 's terrace | 
+1	| the Marchesa | the Marchesa | The Marchesa | the Marchesa | Marchesa | course , dearest Marchesa | dearest Marchesa | I | me | my | course , carissimo | the Marchesa , interrupting him | the Marchesa | Marchesa | I | I | my | I | you | the Marchesa | I | I | I | me | I | dearest Marchesa | Marchesa | The Marchesa | I | I | the Marchesa without a smile | It | the Marchesa | it | the | the Marchesa | it | It | The Marchesa | the Marchesa 's | the Marchesa | the | Marchesa | the | The Marchesa 's | 
+0	| The midday breakfast | 
+0	| the conversation | the conversation | the conversation indifferently enough | 
+0	| San Miniato with a little languid help | 
+0	| a little languid help | 
+0	| themselves | 
+0	| The latter | The latter | 
+0	| humour in consequence of the little scene | 
+0	| consequence of the little scene | 
+0	| the little scene | 
+0	| place in the morning | their place | 
+0	| the morning | 
+0	| She | her | her | she | her | her | her | her | she | her | she | she | her | She | she | her | she | my | I | my | 
+0	| a certain amount of opposition | it | it | 
+0	| Beatrice 's part | 
+0	| Bastianello 's hand | 
+0	| a matter of course | the matter | the matter | 
+0	| a child | 
+0	| the girl 's moods | 
+0	| the girl 's | her | 
+0	| his seat | 
+0	| a strong turn of his hand | 
+0	| the idea of marriage | 
+0	| the daily companionship of San Miniato | 
+0	| the stern of the skiff swing | 
+0	| her wisdom | 
+0	| the narrow water that is twenty fathoms deep between the mountain and the islet | 
+0	| twenty fathoms | 
+0	| as much of him | 
+0	| the mountain and the islet | 
+0	| the boat 's head | 
+0	| his own life of amusement | 
+0	| day and night | 
+0	| You and I | 
+0	| his own fashion | 
+0	| You | I | my | me | I | I | I | 
+0	| I | the sailor very quietly | the sailor 's | he | his | he | The sailor | he | his | 
+0	| a bath | 
+0	| her own friendships and her own ties | 
+0	| her own friendships | 
+0	| a sudden change in Ruggiero 's face | 
+0	| her own ties | 
+0	| Ruggiero 's face | 
+0	| best pleased her | 
+0	| a commanding tone | 
+0	| the Count | The Count | the Count | the Count | 
+0	| the sailor 's deep voice | 
+0	| a jealous humour | it | 
+0	| the same moment | 
+0	| some lady who had once known him too well | 
+0	| the bags of ballast that lay between his feet , hove them overboard , springing across the thwarts towards San Miniato as he let them go | 
+0	| the terrace , which Beatrice was beginning to hate for its unpleasant associations | the terrace | the terrace | the terrace | 
+0	| them | 
+0	| its unpleasant associations | 
+0	| the thwarts towards San Miniato | them | 
+0	| her mother and San Miniato | 
+0	| the heavy weight | 
+0	| the strong man 's terrible fingers | 
+0	| his enemy 's | 
+0	| the conversation to the subject of money in general and at last to the question of Beatrice 's marriage settlement | 
+0	| the subject of money in general | 
+0	| the darkness | 
+0	| money in general | the money | it | 
+0	| general | He | him | 
+0	| San Miniato 's death cry | 
+0	| last to the question of Beatrice 's marriage settlement | last | the last of all | 
+0	| the still air -- there was a little splashing , and all was done | 
+0	| the question of Beatrice 's marriage settlement | 
+0	| a little splashing | 
+0	| Beatrice 's marriage settlement | 
+0	| my tale | it | 
+0	| this desired point | it | 
+0	| the conversation in spite of the Marchesa | 
+0	| spite of the Marchesa | 
+0	| the Children of the King | She | her | her | her | 
+0	| the King | 
+0	| body and soul | 
+0	| the humour to discuss the matter and let him draw her on without opposition | it | 
+0	| a life 's bondage | 
+0	| a life 's | 
+0	| a whole year | the year | 
+0	| her affianced husband | 
+0	| the mourning in her heart | 
+0	| her extreme clearness of perception | 
+0	| the strong , brave , unreasoning man , who , utterly unloved , had given all for her sake | 
+0	| the strong | 
+0	| the main discussion | 
+0	| her sake | 
+0	| You | you | you who know everything | 
+0	| this world and the next | 
+0	| this world | 
+0	| my poor husband | a very rich man | my poor husband 's | he | his | He | he | My husband | he | a very thoughtful man | The man | my dear husband | 
+0	| the next | 
+0	| course familiar -- you who know everything -- with the laws of inheritance in our country | 
+0	| the laws of inheritance in our country | 
+0	| the home | 
+0	| inheritance in our country | 
+0	| our country | 
+0	| our | our | 
+0	| the sea -- a home in which she should be happy | 
+0	| a home in which she should be happy | 
+0	| an only child | 
+0	| The Marchesa 's nerves | 
+0	| a will | 
+0	| the tragedy | 
+0	| my widow 's portion | 
+0	| my widow 's | she | she | 
+0	| wonderfully and still fans | 
+0	| countless cigarettes | 
+0	| the long summer afternoon | 
+0	| those left | her | she | 
+0	| you | you | your | me | 
+0	| the most changed -- both , perhaps , for the better | 
+0	| the details | 
+0	| the most changed -- both , perhaps | 
+0	| both , perhaps | 
+0	| both | 
+0	| Beatrice 's interest -- and her | it | its interest | 
+0	| her | 
+0	| the gentleness which was never his brother 's | 
+0	| interests | 
+0	| my first concern in life | 
+0	| the great lesson of love | its | that | a question neither you nor I can well decide | a question | 
+0	| her own heart | 
+0	| another | she | 
+0	| its deepest depth | 
+0	| so many | 
+0	| you | 
+0	| my son-in-law | 
+0	| a great sinner , and a murderer , and a suicide | 
+0	| a great sinner , and a murderer | 
+0	| the first all the nobility and uprightness of your fine character | 
+0	| a great sinner | 
+0	| the first all the nobility | 
+0	| a murderer | 
+0	| the nobility | 
+0	| a suicide | 
+0	| uprightness of your fine character | 
+0	| your fine character | 
+0	| a great sinner , and a murderer , | 
+0	| neither you nor I | 
+0	| the preamble | it | 
+0	| you | 
+0	| `` Not at all , dear friend | 
+0	| one | 
+0	| dear friend | 
+0	| one thing | it | 
+0	| you | you | 
+0	| you | 
+0	| my nerves | 
+0	| we | 
+0	| my poor husband 's will | 
+0	| One | 
+0	| some of us | his | 
+0	| One half of his fortune of course | 
+0	| us | we | we | that | 
+0	| the other half | it | the other half | 
+0	| the love of woman | 
+0	| Napoleon | 
+0	| you | 
+0	| the first Napoleon | 
+0	| the ledge by Scutari | 
+0	| that just law | 
+0	| you | 
+0	| a prayer | 
+0	| one for those two who suffered on that spot | 
+0	| that spot | 
+0	| no one | it | 
+0	| prayers like hers | 
+0	| hers | 
+0	| once | 
+0	| you | you | you | his | he | 
+0	| he | he | 
+0	| a sum | 
+0	| her dowry -- just a trifle | the dowry | itself | the dowry | 
+0	| her | her | her | she | her | 
+0	| a trifle | 
+0	| her husband on the marriage | 
+0	| the marriage | 
+0	| age , and of course remains entirely in her control | 
+0	| age | 
+0	| her control | 
+0	| a tone which betrayed some nervousness in spite of his best efforts to be calm , for he had assuredly not understood before | 
+0	| some nervousness | 
+0	| spite of his best efforts | 
+0	| his best efforts | 
+0	| you | You | you | you | her | her | 
+0	| affairs , which I never had | 
+0	| affairs | 
+0	| It | 
+0	| one of your cigarettes | 
+0	| you | yourself | You | you | 
+0	| injustice , dearest Marchesa | 
+0	| his open case | the case | It | 
+0	| his | he | 
+0	| a remarkably good understanding for business | 
+0	| the smoke | 
+0	| the cigarette | 
+0	| the match | 
+0	| Marchese | he | his | 
+0	| no doubt you learned a great deal from the Marchese | 
+0	| a great deal | 
+0	| the Marchese | 
+0	| a keenness | 
+0	| his daughter 's interests such as merits the sincerest admiration | 
+0	| merits the sincerest admiration | 
+0	| the sincerest admiration | 
+0	| the case , which happily has not arisen | 
+0	| a mere fortune-hunter | 
+0	| your power and hers | 
+0	| your | my | I | his | he | his | He | his | he | 
+0	| a smile | 
+0	| you | You | you | 
+0	| hundred thousand | 
+0	| a few hundred thousand francs which he would control as the dowry | 
+0	| he | he | He | his | his | 
+0	| his wife and his mother-in-law | 
+0	| his wife | 
+0	| his mother-in-law | 
+0	| even the most improbable cases | 
+0	| such a man | He | a man | he | 
+0	| a little | a little | a little | a little | 
+0	| his watch | 
+0	| something in his eyes which he preferred to hide | 
+0	| Beatrice 's step | 
+0	| the tiled floor of the sitting-room | 
+0	| the sitting-room | 
+0	| neither the Marchesa nor San Miniato | 
+0	| the danger of being overheard | 
+0	| Massa | 
+0	| Beatrice and her mother | They | 
+0	| her | 
+0	| the Massa road | 
+0	| the hill towards Sant ' Agata | 
+0	| Sant ' Agata | 
+0	| Sant ' | 
+0	| the rattling little carriages which run so fast behind the young Turkish horses | 
+0	| the young Turkish horses | 
+0	| the roads | 
+0	| summer | the summer | 
+0	| his own devices | 
+0	| the water | the water , deeply indented | the water | The water | 
+0	| the coolness | 
+0	| The Count , as has been said before | 
+0	| a stroke | 
+0	| the sea and bathing none | 
+0	| the bathing-house fully half an hour | himself | 
+0	| you | her | 
+0	| another bath | 
+0	| the sun | it | 
+0	| half an hour of sunset | 
+0	| two | two | two | two | two | those two | 
+0	| He and Bastianello | them | them | 
+0	| the old tub between them | the tub | It | time for supper | 
+0	| two heavy sacks of pebbles | The two sacks of pebbles | 
+0	| pebbles | pebbles | 
+0	| amidships | they | 
+0	| his feet | her feet | his feet | his feet | 
+0	| three | three | it | it | the three | 
+0	| three passengers | We | them | they | them | 
+0	| you | 
+0	| one | 
+0	| the kettle and the torches | 
+0	| the kettle | 
+0	| the torches | the torches | 
+0	| the bows | the bows , hidden from sight by the foresail so soon as the boat was under way | the bows | 
+0	| You | her | 
+0	| home and cook supper | 
+0	| the others | 
+0	| the pier | it | the pier | the pier | the pier | 
+0	| his brother | he | he | his brother 's | 
+0	| the skiff | the skiff | the skiff | the skiff | the skiff | the skiff | 
+0	| the sailboat , to which he made her fast | 
+0	| the sailboat | the sailboat by him | the sailboat | 
+0	| her fast | 
+0	| trifles | 
+0	| no one on the pier | 
+0	| the boat | the boat | the boat | the boat | the boat | the boat | the boat | the boat 's | the boat | 
+0	| a bit of strong line with him , a couple of fathoms | 
+0	| him | a couple of fathoms | 
+0	| fathoms | 
+0	| the line | it | The line | 
+0	| the bags of ballast | 
+0	| a timber-hitch | 
+0	| the other end | 
+0	| a bowline round | 
+0	| the bow oar | 
+0	| the knot wide enough | its | 
+0	| side of the boat | the side | 
+0	| the bight between the ballast and the | it | 
+0	| the ballast and the | 
+0	| the ballast | 
+0	| the bottom | 
+0	| a half to three-quarters of a hundredweight | 
+0	| three-quarters of a hundredweight | 
+0	| a hundredweight | 
+0	| Cripple | 
+0	| Son of the Fool | 
+0	| the Cripple and the Son of the Fool , who at once appeared out of the dusk , and were put on board | 
+0	| the Cripple | 
+0	| the Son of the Fool , who at once appeared out of the dusk , and were put on board | 
+0	| the Fool , who at once appeared out of the dusk , and were put on board | 
+0	| the dusk | 
+0	| a ring in the pier | 
+0	| the evening shadows | 
+0	| the piano in the sitting-room playing | It | 
+0	| the sitting-room playing | 
+0	| herself such melancholy music as she could remember , which was not much | her | she | She | she | she | She | her | she | her | she | She | she | her | I | she | her | she | Her | you | she | she | I | 
+0	| she | 
+0	| her relief | 
+0	| something of what would not and could not be put into words | 
+0	| a musician | a musician | his | I | he | you | him | he | he | he | me | he | him | 
+0	| something in the tones she drew from the instrument which many a musician might have envied | 
+0	| the tones she drew from the instrument which many a musician might have envied | 
+0	| the instrument | 
+0	| her touch all | it | the touch | 
+0	| a faint satisfaction | 
+0	| the lament of the sad notes | 
+0	| the sad notes | 
+0	| them and they | 
+0	| them | they | 
+0	| his footstep | it | 
+0	| a succession of loud chords | 
+0	| loud chords | 
+0	| a racing waltz tune | 
+0	| something quite different | 
+0	| something gay | 
+0	| the remark | 
+0	| a retort | 
+0	| Her tongue | 
+0	| the whole | 
+0	| the last chords of the waltz | 
+0	| the waltz | 
+0	| an alacrity that surprised him | 
+0	| Mamma | she | I | my betrothed | 
+0	| the room | the room | 
+0	| you | them | 
+0	| a chair | 
+0	| Chiquita | 
+0	| a few chords | 
+0	| half closed eyes | 
+0	| the pathetic little song of Chiquita | 
+0	| Tu | -- Tu | 
+0	| `` On dit que l'on te marie Tu sais que j' en vais mourir -- '' Her voice was very sweet and true and there was real pathos in the words as she | 
+0	| dit que l'on te marie Tu sais que j' en vais mourir -- | Her | she | she | she | she | Tu sais que j' en vais mourir ! '' | She | She | her | she | She | her | her | her | she | her | 
+0	| Her voice | his voice | 
+0	| real pathos in the words as she | 
+0	| second | 
+0	| the second line | it | it | 
+0	| an amazing variety of expression | 
+0	| a strange burst of passion | 
+0	| the lid | 
+0	| the key-board | I | he | him | 
+0	| we | we | 
+0	| each other | the other | 
+0	| Capo Miseno | 
+0	| the black water deep below | 
+0	| the lights of the yachts and the far reflections of the stars | 
+0	| the lights of the yachts | 
+0	| the yachts | 
+0	| the far reflections of the stars | 
+0	| the stars | 
+0	| the smooth bay | 
+0	| the distant light on Capo Miseno | 
+0	| The night air | 
+0	| the table | 
+0	| the other end of the terrace | his end | it | 
+0	| neither discontent nor emotion | 
+0	| the appointed time | 
+0	| the two porters | they | they | their | them | they | they | They | they | they | they | they | 
+0	| the Marchesa 's chair | 
+0	| such a night | 
+0	| the little party | 
+0	| a few days | a few days | 
+0	| their mood | very different to-night | her to-night | 
+0	| the least show of resistance | 
+0	| the first excursion | the excursion | 
+0	| the best of humours | 
+0	| humours | 
+0	| one another | 
+0	| Doubtless the crabs | numerous along the rocky shore | Doubtless | 
+0	| the crabs | 
+0	| the rocky shore | the shore | 
+0	| hundreds of them | 
+0	| crustaceans | 
+0	| the following day | 
+0	| no one | the one | 
+0	| the delight of the sport | 
+0	| the sport | 
+0	| the dish | 
+0	| Teresina and Bastianello who whispered together as they followed last | 
+0	| front carrying a lantern | 
+0	| a lantern | 
+0	| the party | the party which nothing could dispel | 
+0	| the stern | the stern | the stern | 
+0	| The night breeze | it | 
+0	| gusts | 
+0	| a hot day in the summer | 
+0	| advantage of every puff of wind | 
+0	| the intervals of calm | 
+0	| Naples | 
+0	| Castellamare | 
+0	| The starlight | the starlight | 
+0	| the lights of Naples | 
+0	| the beginning of the chain of | 
+0	| the chain of | 
+0	| a necklace round | 
+0	| the sea from Posilippo to Castellamare | 
+0	| Posilippo to Castellamare | 
+0	| the least moisture on the gunwale of the boat | 
+0	| the gunwale of the boat | 
+0	| a sudden | 
+0	| a burst of music | 
+0	| a surprise | 
+0	| the two musicians | they | 
+0	| sight by the foresail | 
+0	| the foresail | 
+0	| Only a mandolin and a guitar | 
+0	| Only a mandolin | It | It | 
+0	| a guitar | the guitar | 
+0	| the best players of the whole neighbourhood | 
+0	| the whole neighbourhood | 
+0	| the attempt to give pleasure | 
+0	| more credit | it | 
+0	| the performers | 

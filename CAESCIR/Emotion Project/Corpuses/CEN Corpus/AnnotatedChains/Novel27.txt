@@ -1,0 +1,557 @@
+0	| the pity of it | 
+0	| it | 
+0	| The poor white thing lying like a shot | 
+0	| a shot | 
+0	| the dreadful blood | The blood | The blood | 
+0	| the red tiles | the tiles | 
+1	| Mr Hare | his | Mr Hare | his | Mr Hare | Hare | Mr Hare | Hare | 
+0	| his daughter | she | she | she | she | herself | she | 
+1	| John | John | John | his | John Norton | His | He | He | himself | him | he | He | him | him | him | him | John | his | he | his | he | he | He | John | him | He | He | he | his | he | he | he | he | he | he | he | him | he | He | he | he | him | his | His | him | he | him | his | himself | he | his | him , no wife , no life ... | him | his | his | John Norton | his | his | he | he | his | he | he | he | He | his | him | His | the humblest | John Norton | He | his | himself | him | himself | him | his | He | his | he | he | his | his | he | He | his | him | him | John | he | he | He | his | he | me | he | John | him | him | John | his | John Norton 's | John | John | He | himself | he | John | John | John | he | he | he | him | He | he | my | 
+0	| this | this | I | I | me | my | I | me | 
+0	| if afraid of me | 
+0	| the window | the window | the window | the window | her window | 
+0	| The word | its | The word | it | 
+0	| the silence | 
+0	| its significance | 
+0	| his face | 
+0	| a symbol of agony | 
+1	| Kitty | her | her | Kitty | herself | She | she | she | her | she | Kitty | her | Kitty | her | she | Kitty , their girl-friend | 
+0	| dead | the dead | the dead | 
+0	| you | he | 
+0	| his being sink | 
+0	| a breath | 
+0	| her father who carried her upstairs | 
+0	| her upstairs | 
+0	| the terrible wound | the wound | 
+0	| the head | 
+0	| Dripped | she | 
+0	| The walls | 
+0	| the bed | 
+0	| the pillow | 
+0	| the maid-servant | The maid-servant | she | she | 
+0	| towels | 
+0	| Both men | 
+0	| no hope | 
+0	| the door | 
+0	| the doctor | The doctor too | he | his | his | he | 
+0	| One | 
+0	| One man | his | 
+0	| the bed rail | 
+0	| his dead daughter | his dead daughter 's | her | his dead daughter 's | 
+0	| the other | 
+0	| That one | 
+0	| His brain | his brain | 
+0	| things moving | 
+0	| they | 
+0	| the weft of life | it | 
+0	| the thread that had made him part of it | 
+0	| part of it | 
+0	| a little | a little | a little | a little | a little | 
+0	| no sense of realisation to meet it | 
+0	| the hills | the hills | the hills | the hills | the hills | the hills | The hills | the hills | the hills , the appealing silence of a | the hills | 
+0	| the burgh | the burgh | 
+0	| her hand | 
+0	| they | They | they | their | 
+0	| each other 's sight | 
+0	| each other 's | 
+0	| Italy | 
+0	| Italy ... of Italy where they would have spent their honeymoon | 
+0	| their honeymoon | no honeymoon | it | it | 
+0	| no honeymoon , no wife | 
+0	| no wife | she | her | her | his wife | His wife | no wife | 
+0	| Miss Austins | 
+0	| There she lay dead ; here is her room , and there is her book-case ; there are the photographs of the Miss Austins , here | the fuchsia with the pendent blossoms falling | her | her | 
+0	| here | her room | Here | her work-basket | here | it | it | his room | 
+0	| her book-case | 
+0	| the photographs of the Miss Austins | 
+0	| the Miss Austins | the Miss Austins | 
+0	| the pendent blossoms falling | 
+0	| her canary | the canary | 
+0	| the cage | 
+0	| the song | 
+0	| no grief in his heart | 
+0	| his heart | his heart | his heart | his heart | 
+0	| that ; then why was there no burning grief nor any tears | 
+0	| then why was there no burning grief nor any tears | 
+0	| no burning grief nor any tears | 
+0	| no burning grief | 
+0	| the hard-sobbing father 's grief , the father who , prostrate by the bedside , held his dead daughter 's hand , and showed a face wild with fear -- a face on which was printed so deeply the terror of the soul 's emotion , that John felt a supernatural awe creep upon him ; | 
+0	| the hard-sobbing father 's grief | 
+0	| the hard-sobbing father 's | his | his | 
+0	| the father who , prostrate by the bedside , held his dead daughter 's hand , and showed a face wild with fear -- a face on which was printed so deeply the terror of the soul 's emotion , that John felt a supernatural awe creep upon him | 
+0	| the bedside | 
+0	| his dead daughter 's hand | his hand | 
+0	| a face | 
+0	| a face on which was printed so deeply the terror of the soul 's emotion , that John felt a supernatural awe creep upon him | 
+0	| the terror of the soul 's emotion , that John felt a supernatural awe creep upon him | 
+0	| the soul 's emotion , that John felt a supernatural awe creep upon him | 
+0	| the soul 's emotion | 
+0	| the soul 's | his soul | 
+0	| a supernatural awe creep | 
+0	| his presence | a sort of sacrilege | 
+0	| downstairs | 
+0	| the drawing-room | it | 
+0	| the place he had last seen her in | the place | 
+0	| his eyes | his eyes | his eyes | 
+0	| it | there he had seen the startled face , the half mad face which he had seen afterwards at the window , quite mad | there he had seen the startled face | the half mad face which he had seen afterwards at the window | 
+0	| the startled face | 
+0	| that sofa | 
+0	| she | her | her | she | her | her | her | her | her | she | her | her whom yesterday he parted with on the hills | her | her | her | her | She | she who was now but clay | she who was to have been his wife | 
+0	| only three days | 
+0	| the basket chair | 
+0	| her words | The words | 
+0	| her laughter , and now ... | 
+0	| her laughter | it | 
+0	| her laugh | 
+0	| one | 
+0	| shadow-like ; one | it | it | 
+0	| the very ball of wool which he had held for her to wind ; and here | a novel | 
+0	| wool which he had held for her to wind ; and here | 
+0	| memory of her , of her whom yesterday he parted with on the hills | 
+0	| yesterday | yesterday | Yesterday | Yesterday | it | thou | 
+0	| her little puritan look , her external girlishness , her golden brown hair and the sudden laugh | 
+0	| her little puritan look | 
+0	| her external girlishness | 
+0	| her golden brown hair | 
+0	| the sudden laugh | 
+0	| this book -- she who was now but clay ; she who was to have been his wife | 
+0	| The thought | the thought | 
+0	| a wife | a wife | 
+0	| Gothic | Gothic | 
+0	| his house | its | 
+0	| a Gothic monastery , and himself | 
+0	| a Gothic monastery | 
+0	| a monk | 
+0	| Very horrible and very bitter in its sheer grotesqueness | 
+0	| its sheer | It | 
+0	| one | 
+0	| one moment | its | its | 
+0	| the whole of his life summarised in a single symbol | 
+0	| his life summarised in a single symbol | no life | its | his life | the life | 
+0	| a single symbol | 
+0	| its vanity and its folly | 
+0	| its vanity | 
+0	| its folly | 
+0	| The tears | tears | tears | 
+0	| the shock which in its suddenness had frozen his heart | it | to-day | 
+0	| its suddenness | 
+0	| a penetrating rain | 
+0	| We | we | 
+0	| to-day , nor yet to-morrow | 
+0	| weeks and months | 
+0	| slow degrees | 
+0	| the irreparableness of his loss | 
+0	| his loss | 
+0	| Michael Angelo | 
+0	| a man upstairs who crouches like stone by his dead daughter 's side | 
+0	| his dead daughter 's side | 
+0	| his grief as an expression of grief | 
+0	| an expression of grief | 
+0	| The hours | 
+0	| them | 
+0	| the sea | the sea | the sea | 
+0	| his dead child | her | 
+0	| the world | the world 's | The world | my monastery | 
+0	| the humblest and the worthiest sorrow | 
+0	| the worthiest sorrow | 
+0	| the meaning of life | 
+0	| his suffering | nearly it | 
+0	| the same time too much , based on the inherent misery of existence | 
+0	| the inherent misery of existence | 
+0	| his personal interest | 
+0	| his weakness | 
+0	| this direction | 
+0	| the coming of grief | they | They | They | they | 
+0	| the aridness of his heart | 
+0	| the end | 
+0	| Leywood | Leywood | 
+0	| some tennis in the afternoon | 
+0	| the afternoon | 
+0	| This slight incident in the tragedy | 
+0	| the tragedy | 
+0	| the effort of putting the facts upon paper | 
+0	| the facts | 
+0	| the truth home | 
+0	| the lifelong range of consequences | 
+0	| consequences | 
+0	| the letter telling the sad story in his hand , and illimitable sorrow in his soul | It | his letter | 
+0	| the sad story in his hand , and illimitable sorrow in his soul | 
+0	| the sad story in his hand | 
+0	| the evening air | 
+0	| an evening | 
+0	| yester evening | 
+0	| earth , sea , and sky | the earth | Earth to earth , ashes to ashes , dust to dust _ , and the dread responsive | Earth to earth | 
+0	| an exquisite vision | 
+0	| fragrance , yet in whose eyes a glow of passion still survives | 
+0	| a glow of passion | 
+0	| The beauty of the last hour of light | 
+0	| the last hour of light | 
+0	| that crescent of sea | 
+0	| the ships | 
+0	| the long strand , the tapering masts and slacking ropes | 
+0	| the long strand | 
+0	| the tapering masts and slacking ropes | 
+0	| the tapering masts | 
+0	| slacking ropes | 
+0	| the pallid sky | 
+0	| Squire | 
+0	| the old town , dusty , and dreamy , and brown , with neglected wharfs and quays | 
+0	| the old town | the town | the town | the town | the town | 
+0	| dusty | dreamy , and brown , with neglected wharfs and quays | dreamy , and brown | dreamy | 
+0	| brown | 
+0	| neglected wharfs and quays | 
+0	| the new town , vulgar and fresh with green paint and trees , and looking hungrily on the broad lands of the Squire , the broad lands and the rich woods which rise up the hill side to the barn on the limit of the downs | 
+0	| the new town | 
+0	| the broad lands of the Squire , the broad lands and the rich woods which rise up the hill side to the barn on the limit of the downs | 
+0	| the Squire , the broad lands and the rich woods | 
+0	| the Squire | 
+0	| the broad lands | 
+0	| the rich woods | 
+0	| the hill side to the barn | 
+0	| the barn | 
+0	| the limit of the downs | 
+0	| the downs | the downs | 
+0	| the great green woods | 
+0	| they | 
+0	| a small expanse | 
+0	| a wave over a slope of sand | 
+0	| a slope of sand | 
+0	| a house with red gables where the girls are still on the tennis lawn | 
+0	| red gables | gables | 
+0	| the girls | 
+0	| the tennis lawn | 
+0	| the doctor he must go at once to the rectory | 
+0	| the rectory | the rectory | 
+0	| the lodge-keeper | She | she | her | 
+0	| a strange fascination | 
+0	| the farm gate | the farm gate , the bearers staggering a little under the weight of lead | the farm gate | 
+0	| graceful | her laughter and speech , '' he said , turning suddenly and looking down on the landscape ; on the massy trees contrasting with the walls of the town | her laughter and speech | 
+0	| the landscape | The landscape | 
+0	| the massy trees contrasting with the walls of the town | 
+0	| the walls of the town | 
+0	| the spine-like bridge | 
+0	| the marshy shore | 
+0	| the sails of the mill | 
+0	| the mill | 
+0	| the crest of the hill | 
+0	| the hill | the hill | 
+0	| one | 
+0	| The night | it | the night | the night | 
+0	| a blue veil it hung down over the sea | 
+0	| the deep pure sky | 
+0	| one spot | 
+0	| the pale moon shone | 
+0	| the sheep | 
+0	| phantoms , the solitary barns | 
+0	| phantoms | the solitary barns | 
+0	| monsters of the night | 
+0	| giants sleeping | themselves | 
+0	| the long | 
+0	| the depths and mistiness of space | 
+0	| Brighton | Brighton | Brighton | 
+0	| Southwick | 
+0	| Shoreham | 
+0	| thousand | 
+0	| one | 
+0	| a vista in the hills | 
+0	| a pale cloud of fire , set by the moon-illumined sea , and nearer was Southwick , grown into separate lines of light , that wandered into and lost themselves among the outlying hollows of the hills ; and below him and in front of him Shoreham lay , a blaze of living fire , a thousand lights ; lights everywhere save in one gloomy spot , and there John | 
+0	| fire , set by the moon-illumined sea , and nearer was Southwick , grown into separate lines of light , that wandered into and lost themselves among the outlying hollows of the hills ; and below him and in front of him Shoreham lay , a blaze of living fire , a thousand lights ; lights everywhere save in one gloomy spot , and there John | 
+0	| the moon-illumined sea , and nearer was Southwick , grown into separate lines of light , that wandered into and lost themselves among the outlying hollows of the hills | 
+0	| the moon-illumined sea | 
+0	| and nearer was Southwick , grown into separate lines of light , that wandered into and lost themselves among the outlying hollows of the hills | they | 
+0	| Southwick , grown into separate lines of light , that wandered into and lost themselves among the outlying hollows of the hills | 
+0	| separate lines of light | 
+0	| the outlying hollows of the hills | 
+0	| front of him Shoreham lay , a blaze of living fire , a thousand lights ; lights everywhere save in one gloomy spot , and there John | 
+0	| a blaze of living fire , a thousand lights | 
+0	| living fire , a thousand lights | 
+0	| living fire | 
+0	| a thousand lights | lights | 
+0	| one gloomy spot | 
+0	| his beloved | 
+0	| the shadowy marshy shores | 
+0	| the palest of nebulae | I | I | my | my | him who places his trust in life | I | my | I | I | I | his | 
+0	| nebulae | 
+0	| these earthly constellations | 
+0	| the stars | 
+0	| heaven shone | 
+0	| The blown hawthorn bush that stands by the burgh | 
+0	| a ship | 
+0	| the rays of the moon | 
+0	| the moon | 
+0	| the glad golden sunlight | 
+0	| a sweet wife and happy youthful days | 
+0	| a sweet wife | 
+0	| happy youthful days | 
+0	| his trust | 
+0	| his | 
+0	| Ah , life , life , what hast thou for giving save cruel deceptions and miserable wrongs ? | she | 
+0	| life , life , what hast thou for giving save cruel deceptions and miserable wrongs | life , life | life 's | life 's | 
+0	| giving save cruel deceptions and miserable wrongs | 
+0	| cruel deceptions | 
+0	| my life of contemplation and prayer | 
+0	| contemplation and prayer | 
+0	| that of desire ... | We | we | 
+0	| no happiness save in calm and contemplation | 
+0	| one | 
+0	| The death of his sweetheart | 
+0	| his sweetheart | he | he | he | 
+0	| one man | 
+0	| the slightness of life 's pleasures and the depth of life 's griefs | 
+0	| the slightness of life 's pleasures | 
+0	| life 's pleasures | 
+0	| the depth of life 's griefs | 
+0	| life 's griefs | 
+0	| the peaceful valley of natural instincts and affections | 
+0	| natural instincts and affections | 
+0	| a while | 
+0	| one of the high peaks lit with the rays of intense consciousness | 
+0	| the rays of intense consciousness | 
+0	| a too vivid realisation of self | 
+0	| The other man | his | he | 
+0	| the daughter that had gone out of his life | her | her | her | 
+0	| her pretty face and cheerful laughter | 
+0	| her pretty face | 
+0	| her love | 
+0	| the years | 
+0	| We | our | 
+0	| the manliest , which appeals to our sympathy , but who can measure the depth of John Norton 's suffering | He | his | he | his | him | his | he | he | he | he | 
+0	| the manliest | It | 
+0	| appeals | 
+0	| our sympathy | 
+0	| the depth of John Norton 's suffering | 
+0	| John Norton 's suffering | 
+0	| the stream of moonlit sea | 
+0	| late | 
+0	| his mother what had happened | 
+0	| Dreams | his dreams | 
+0	| enemies | their | 
+0	| savages | 
+0	| Kitty captured | her | she | her | 
+0	| Next morning | 
+0	| John and Mrs Norton | they | Mrs Norton | 
+0	| her _ room | 
+0	| Annie | she | her | her | She | she | 
+0	| The windows | the windows | the deep purples and crimsons | the pathetic responses and the majesty of the organ | the pathetic responses | 
+0	| Annie and Mary Austin | Austin | Austin | him | he | He | He | he | he | his | He | he | himself | 
+0	| the bedside watching | her bedside | 
+0	| the beautiful hair | 
+0	| the roses | the roses | roses | roses | 
+0	| her friends | 
+0	| one of her terrible dreams | it | 
+0	| the slender body | 
+0	| a sheet | 
+0	| the feet the linen curved and marked the inflections of the knees ; there were long flowing folds , low-lying like the wash of retiring water ; the rounded shoulders , the neck , the calm and bloodless face , the little nose , and the beautiful drawing of the nostrils , the extraordinary waxen pallor | 
+0	| the linen | 
+0	| the inflections of the knees ; there were long flowing folds , low-lying like the wash of retiring water ; the rounded shoulders , the neck , the calm and bloodless face , the little nose , and the beautiful drawing of the nostrils , the extraordinary waxen pallor | 
+0	| the inflections of the knees ; there were long flowing folds | the calm and bloodless face , the little nose | the calm and bloodless face | the face | 
+0	| the knees | 
+0	| low-lying like the wash of retiring water | 
+0	| the wash of retiring water | 
+0	| retiring water | 
+0	| the rounded shoulders , the neck | 
+0	| the rounded shoulders | 
+0	| the neck | 
+0	| the little nose | 
+0	| the beautiful drawing of the nostrils , the extraordinary waxen pallor | 
+0	| the nostrils , the extraordinary waxen pallor | 
+0	| the nostrils | 
+0	| the extraordinary waxen pallor | the pallor | 
+0	| the eyelids laid like rose | 
+0	| the eyes that death has closed for ever | 
+0	| Eucharis | 
+0	| the arm | its | 
+0	| the pale hand extended | 
+0	| a great Eucharis lily | 
+0	| its carved blossoms | 
+0	| the whole scene | 
+0	| a sad dream in the whitest marble | the dream | 
+0	| the whitest marble | 
+0	| Candles | 
+0	| the soft smell of wax | 
+0	| the perfume of the roses | 
+0	| great snowy bouquets , and long lines of scattered blossoms | 
+0	| great snowy bouquets | 
+0	| long lines of scattered blossoms | 
+0	| scattered blossoms | 
+0	| single roses | 
+0	| petals fallen and falling | 
+0	| petals fallen | 
+0	| falling | they | 
+0	| the beautiful dead | 
+0	| the white flowerage | her | her | her | she | her | 
+0	| the pallor and the immaculate stillness of the dead | 
+0	| the immaculate stillness of the dead | the stillness | it | 
+0	| The calm chastity , the lonely loveliness , so sweetly removed from taint of passion | 
+0	| The calm chastity | the lonely loveliness | 
+0	| taint of passion | 
+0	| a sister | 
+0	| a broken wreck | 
+0	| the wild washing sea of deep human love | 
+0	| a man whose life is broken | 
+0	| her coffin | It | The coffin | 
+0	| white blossoms | 
+0	| jasmine , Eucharis lilies , white roses | 
+0	| Eucharis lilies | white roses | white roses | 
+0	| the midst of the flowers | 
+0	| the flowers | 
+0	| you | 
+0	| the hands | his hands | 
+0	| some delicate filmy handkerchief | 
+0	| the funeral | 
+0	| crosses and wreaths of white flowers , roses and stephanotis | 
+0	| white flowers , roses and stephanotis | 
+0	| Worthing | 
+0	| the Austin girls and their cousins who had come from Brighton and Worthing | 
+0	| the Austin girls | their | they | their | the Austin girls , whose eyes followed him , from Mr Hare , from Mrs Norton | the Austin girls | 
+0	| their cousins who had come from Brighton and Worthing | 
+0	| Brighton and Worthing | 
+0	| loose flowers | 
+0	| two | two | two | 
+0	| the short drive | 
+0	| the iron gate | 
+0	| the bearers staggering a little under the weight of lead | 
+0	| the weight of lead | 
+0	| the little cortège | 
+0	| A broken-hearted lover , a grief-stricken father , and a dozen sweet girls , their eyes and cheeks | their | their | they | they | 
+0	| A broken-hearted lover | 
+0	| a grief-stricken father | 
+0	| and a dozen sweet girls , their eyes and cheeks | 
+0	| and a dozen sweet girls | 
+0	| their eyes and cheeks | 
+0	| their girl-friend | 
+0	| their hearts | 
+0	| the mournful tolling of the bell | 
+0	| the bell | 
+0	| The little by-way along which they went , the little green path leading over the hill , under trees shot through and through with the whiteness of summer seas | 
+0	| The little by-way along which they went | the little green path leading over the hill , under trees shot through and through with the whiteness of summer seas | 
+0	| trees shot through and through with the whiteness of summer seas | 
+0	| the whiteness of summer seas | 
+0	| summer seas | 
+0	| blossoms fallen from the bier and the dolent fingers of the weeping girls | 
+0	| the bier and the dolent fingers of the weeping girls | 
+0	| the bier | 
+0	| the dolent fingers of the weeping girls | 
+0	| the weeping girls | 
+0	| The old church was all in white ; great lilies in vases , wreaths of stephanotis ; and , above all , roses -- great garlands of white roses | 
+0	| white | 
+0	| great lilies in vases | wreaths of stephanotis | great garlands of white roses | 
+0	| vases | 
+0	| A blossom | its | 
+0	| impotent | 
+0	| the bitter burning of human sorrow : how paltry and circumscribed the old grey church | 
+0	| the old grey church | 
+0	| its little graveyard full of forgotten griefs and aspirations | 
+0	| griefs and aspirations | 
+0	| This hour of beautiful sorrow and roses | it | 
+0	| sight for ever , a snow-drift of delicate bloom descending into the earth | 
+0	| ever , a snow-drift of delicate bloom descending into the earth | 
+0	| ever | a snow-drift of delicate bloom descending into the earth | 
+0	| the green woods and fields | 
+0	| the railway gates | 
+0	| the people coming and going in and out of the public houses | they | 
+0	| the public houses | 
+0	| the trains that whizzed past | 
+0	| past | 
+0	| the great bar of the white gate | 
+0	| the white gate | 
+0	| the pressure of his hands | 
+0	| the great vault of the blue sky | 
+0	| the blue sky | 
+0	| white clouds melted and faded to sheeny visions of paradise , to a white form with folded wings | eyes whose calm was immortality | 
+0	| sheeny visions of paradise | 
+0	| a white form with folded wings | 
+0	| folded wings | 
+0	| A train | 
+0	| a ticket | 
+0	| a high embankment | 
+0	| a little suburban cemetery | 
+0	| The graves , the yews , the sharp church spire touching the range of the hills . | 
+0	| The graves | the yews | 
+0	| the sharp church spire touching the range of the hills | 
+0	| the range of the hills | 
+0	| ashes to ashes | 
+0	| ashes | 
+0	| dust to dust _ | 
+0	| dust _ | He | his | him | He | 
+0	| the dread responsive | 
+0	| the coffin lid | 
+0	| the group in the distant corner , and its very remoteness and removal from his personal knowledge and concern | 
+0	| the group in the distant corner | its | 
+0	| the distant corner | 
+0	| its very remoteness and removal from his personal knowledge and concern | 
+0	| very remoteness and removal from his personal knowledge and concern | 
+0	| his personal knowledge and concern | 
+0	| the southern sunlight of the town | 
+0	| the long expanse of sea | 
+0	| The mundane pier | its | the pier | 
+0	| gay with the clangour of the band , the brown sails of the fishing boats wave in the translucid greens of water ; and the white field of the sheer cliff , and all the roofs , gables , spires , balconies , and the green of the verandahs | 
+0	| gay with the clangour of the band | gay | 
+0	| the clangour of the band | his | him | He | him | 
+0	| the band | 
+0	| the brown sails of the fishing boats wave in the translucid greens of water | 
+0	| the fishing boats wave in the translucid greens of water | 
+0	| the translucid greens of water | 
+0	| the white field of the sheer cliff , and all the roofs , gables , spires , balconies , and the green of the verandahs | 
+0	| the sheer cliff , and all the roofs , gables , spires , balconies , and the green of the verandahs | 
+0	| the sheer cliff | 
+0	| spires | 
+0	| balconies | 
+0	| the green of the verandahs | 
+0	| the verandahs | 
+0	| the bright air | 
+0	| the beach | 
+0	| acrobats | their | them | they | they | 
+0	| comic songs , nursemaids lying on the pebbles reading novels , children with their clothes tied tightly about them building sand castles zealously ; | 
+0	| comic songs | nursemaids lying on the pebbles reading novels | 
+0	| the pebbles | 
+0	| novels | 
+0	| children with their clothes tied tightly about them building sand castles zealously | 
+0	| their clothes tied tightly about them building sand castles zealously | 
+0	| sand castles | 
+0	| the lengthy crowd of promenaders -- out of its ranks two little spots of mauve come running to meet the advancing wave | 
+0	| promenaders -- out of its ranks two little spots | 
+0	| its ranks | 
+0	| two little spots | 
+0	| mauve come running to meet the advancing wave | 
+0	| the advancing wave | 
+0	| butterflies | 
+0	| the impulse of his ravening grief | it | 
+0	| his ravening grief | 
+0	| the spectacle of the world 's forgetfulness | 
+0	| the world 's forgetfulness | 
+0	| the seeming obscenity | 
+0	| the limits of madness | 
+0	| Solitude -- the solemn peace of the hills , the appealing silence of a pine wood at even ; how holy is the idea of solitude , find it where you will . | 
+0	| the solemn peace of the hills , the appealing silence of a | 
+0	| the appealing silence of a | 
+0	| a | 
+0	| holy | the idea of solitude | it | 
+0	| you | 
+0	| The Gothic pile , the apostles and saints of the windows , the deep purples and crimsons , and the sunlight streaming through , and the pathetic responses and the majesty of the organ | 
+0	| The Gothic pile | 
+0	| the apostles and saints of the windows , the deep purples and crimsons , and the sunlight streaming through , and the pathetic responses and the majesty of the organ | them | 
+0	| the windows , the deep purples and crimsons , and the sunlight streaming through , and the pathetic responses and the majesty of the organ | 
+0	| the sunlight streaming through | 
+0	| the majesty of the organ | 
+0	| the organ | 
+0	| the sensation of idea and God | 
+0	| idea and God | 
+0	| God | 
+0	| The quiet rooms austere with Latin and crucifix ; John | 
+0	| The quiet rooms austere with Latin | 
+0	| crucifix ; John | 
+0	| these | 
+0	| a sense of reality | 
+0	| the narrowness of the life | 
+0	| the material side , and its necessary promiscuousness | 
+0	| the material side | its | 
+0	| its necessary promiscuousness | 
+0	| horror of the impossibility of the preservation of that personal life | its | 
+0	| the impossibility of the preservation of that personal life | 
+0	| the preservation of that personal life | 
+0	| that personal life | 
+0	| its sanctuary-like intensity , which was so dear to him | 
+0	| its sanctuary-like intensity | 
+0	| the gay panorama of town and beach | 
+0	| town and beach | 

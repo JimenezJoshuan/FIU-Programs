@@ -1,0 +1,941 @@
+0	| Calcombe Pomeroy | his | Calcombe Pomeroy , specially reserved by the overruling chance of the universe to be a summer retreat for quiet , peace-loving , old-world people | Calcombe Pomeroy | Calcombe Pomeroy | 
+0	| Calcombe-on-the-Sea | 
+0	| Devon | Devon | 
+0	| The decayed and disfranchised borough of Calcombe Pomeroy , or Calcombe-on-the-Sea | the | 
+0	| borough of Calcombe Pomeroy | 
+0	| one of the prettiest and quietest little out-of-the-way watering-places in the whole smiling southern slope of the county of Devon | 
+0	| the whole smiling southern slope of the county of Devon | 
+0	| the county of Devon | 
+0	| Great Western Railway | its | 
+0	| South Hams | 
+0	| eight | eight | 
+0	| the Great Western Railway , when planning its organised devastations along the beautiful rural region of the South Hams | 
+0	| the Great Western Railway | 
+0	| its organised devastations | 
+0	| the beautiful rural region of the South Hams | 
+0	| the South Hams | 
+0	| the cold | 
+0	| the consequence | what | the consequence | what | what | what | 
+0	| those few people who still love to linger in the uncontaminated rustic England of our wiser forefathers | their | 
+0	| the uncontaminated rustic England of our wiser forefathers | modern industrial England | England | England | It | my belief | It | 
+0	| our wiser forefathers | 
+0	| our | 
+0	| a beach | the beach | 
+0	| goat-carriages or black-faced minstrels , a tiny parade uninvaded by stucco terraces or German brass bands , and an ancient stone pier off which swimmers may take a header direct , in the early morning , before the sumptuary edicts of his worship the Mayor compel them to resort to the use of bathing-machines and the decent covering of an approved costume , between the hours of eight and eight | 
+0	| goat-carriages or black-faced minstrels | 
+0	| goat-carriages | an ancient stone pier off which swimmers may take a header direct , in the early morning , before the sumptuary edicts of his worship the Mayor compel them to resort to the use of bathing-machines and the decent covering of an approved costume , between the hours of eight and eight | an ancient stone pier off which swimmers may take a header direct , in the early morning , before the sumptuary edicts of his worship the Mayor compel them to resort to the use of bathing-machines | 
+0	| black-faced minstrels | 
+0	| a tiny parade uninvaded by stucco terraces or German brass bands | 
+0	| stucco terraces or German brass bands | 
+0	| stucco terraces | 
+0	| German brass bands | 
+0	| swimmers | them | 
+0	| a header direct | 
+0	| the early morning | this morning | this morning | 
+0	| the sumptuary edicts of his worship the Mayor compel them to resort to the use of bathing-machines | 
+0	| his worship the Mayor compel them to resort to the use of bathing-machines | 
+0	| the Mayor | 
+0	| the use of bathing-machines | 
+0	| bathing-machines | 
+0	| the decent covering of an approved costume | 
+0	| an approved costume | 
+0	| the hours of eight and eight | 
+0	| eight and eight | 
+0	| State | 
+0	| William the Fourth | Mr. William Sikes | him | his | his | his | him | him | he | Mr. Sikes 's | 
+0	| A board beside the mouth of the harbour , signed by a Secretary of State to his late Majesty King William the Fourth | 
+0	| the mouth of the harbour | its mouth | 
+0	| the harbour | 
+0	| a Secretary of State | his | 
+0	| his late Majesty King William | 
+0	| a heedless world | the world | it | the world | the world | 
+0	| the tolls to be paid for entry by the ships that never arrive | 
+0	| the ships that never arrive | 
+0	| a superannuated official in a wooden leg and a gold cap-band | 
+0	| a wooden leg and a gold cap-band | 
+0	| a wooden leg | 
+0	| a gold cap-band | 
+0	| the honourable sinecure of a harbour-mastership | 
+0	| a harbour-mastership | 
+0	| a hypothetical salary nominally payable from the non-existent fees and port dues | 
+0	| the non-existent fees and port dues | 
+0	| the non-existent fees | 
+0	| port dues | 
+0	| Cale | 
+0	| hundred | 
+0	| The little river Cale , at the bottom of whose combe the wee town nestles snugly | 
+0	| The little river Cale | 
+0	| the bottom of whose combe the wee town nestles snugly | itself | its | 
+0	| the wee town | 
+0	| a deep valley in the soft sandstone hills | 
+0	| the soft sandstone hills | 
+0	| the gap in the cliffs formed by its mouth | 
+0	| the cliffs formed by its mouth | 
+0	| room for the few hundred yards of level on which the antiquated little parade is warmly ensconced | 
+0	| the few hundred yards | 
+0	| level on which the antiquated little parade is warmly ensconced | 
+0	| the antiquated little parade | 
+0	| Devonian | Devonian | 
+0	| hand tall bluffs of brilliant red marl raise their honeycombed faces fronting the sea ; | 
+0	| tall bluffs of brilliant red marl raise their honeycombed faces fronting the sea | 
+0	| their honeycombed faces | 
+0	| the sea | 
+0	| the distance | the distance | 
+0	| the sheeny grey rocks of the harder Devonian promontories | 
+0	| the harder Devonian promontories | 
+0	| watered satin in the slant rays of the afternoon sun | 
+0	| the slant rays of the afternoon sun | 
+0	| the afternoon sun | 
+0	| a very sleepy little old-world place | the place | the place | 
+0	| the overruling chance of the universe to be a summer retreat for quiet , peace-loving , old-world people | the chance | her chance | 
+0	| the universe to be a summer retreat for quiet , peace-loving , old-world people | 
+0	| a summer retreat for quiet , peace-loving , old-world people | 
+0	| quiet , peace-loving , old-world people | 
+0	| Calcombe Road Station | 
+0	| twelve | 
+0	| The Londoner who escapes for a while from the great teeming human ant-hill , with its dark foggy lanes and solid firmament of hanging smoke | himself | his | him | his | 
+0	| a while from the great teeming human ant-hill , with its dark foggy lanes and solid firmament of hanging smoke | 
+0	| the great teeming human ant-hill , with its dark foggy lanes and solid firmament of hanging smoke | 
+0	| the great teeming human ant-hill | its | 
+0	| its dark foggy lanes and solid firmament of hanging smoke | 
+0	| its dark foggy lanes | 
+0	| a little unadulterated atmosphere at Calcombe Pomeroy | 
+0	| the Plymouth slow train | 
+0	| Calcombe Road Station , twelve miles | 
+0	| twelve miles | 
+0	| his final destination | 
+0	| first | first | first | first | first | first | 
+0	| six | six | 
+0	| The little grey box , described in the time-tables as a commodious omnibus , which takes him on for the rest of his journey | 
+0	| The little grey box | 
+0	| the time-tables | 
+0	| a commodious omnibus , which takes him on for the rest of his journey | 
+0	| a commodious omnibus | 
+0	| the rest of his journey | 
+0	| his journey | 
+0	| the first six miles | 
+0	| the summit of the intervening range at the Cross Foxes Inn , and jolts swiftly down the other six miles , with red hot drag creaking and groaning lugubriously | 
+0	| the intervening range at the Cross Foxes Inn , and jolts swiftly down the other six miles , with red hot drag creaking and groaning lugubriously | 
+0	| the intervening range at the Cross Foxes Inn | 
+0	| the Cross Foxes Inn | 
+0	| jolts swiftly down the other six miles , with red hot drag creaking and groaning lugubriously | 
+0	| the other six miles | 
+0	| sheer into the sea at the clambering High Street of the old borough | 
+0	| the sea at the clambering High | 
+0	| the clambering High | 
+0	| the old borough | 
+0	| you | 
+0	| the seaward slope | it | 
+0	| the Cross Foxes | 
+0	| you | 
+0	| modern industrial England and the nineteenth century | 
+0	| the nineteenth century | 
+0	| you | 
+0	| the north | 
+0	| you | 
+0	| a little isolated primaeval dale | 
+0	| the outer world by the high ridge that girds it round on every side , and turned only on the southern front towards the open Channel and the backing sun | 
+0	| the high ridge that girds it round on every side , and turned only on the southern front towards the open Channel and the backing sun | 
+0	| the southern front towards the open Channel and the backing sun | 
+0	| the open Channel and the backing sun | 
+0	| the open Channel | 
+0	| the backing sun | 
+1	| Oswald | Harry Oswald | his | he | his | he | his | Oswald | Oswald | Oswald | Oswald | Oswald | Mr. Oswald | himself | his | Oswald | Oswald | 
+0	| the steep cobble-paved High Street , just after you pass the big dull russet church | 
+0	| the steep cobble-paved High Street | 
+0	| you | 
+0	| the big dull russet church | 
+0	| a small shop on the left-hand side | the shop | the shop | the shop | the shop | the shop | 
+0	| the left-hand side | her side | 
+0	| a signboard | 
+0	| the painted legend , ` Oswald , Family Grocer and Provision Dealer | 
+0	| the painted legend | 
+0	| ` Oswald | 
+0	| Family Grocer | 
+0	| Provision Dealer | 
+0	| Oriel College | his college | his college | Oriel | 
+0	| Oxford | Oxford | Oxford | Oxford | Oxford | Oxford | Oxford | Oxford , my good woman | Oxford | Oxford | Oxford | Oxford | Oxford | it | Oxford | Oxford | Oxford , Edie | Oxford | Oxford | that | an infinitesimal fraction of Pi | that | a minute decimal of this great , sneering , ugly aggregate `` society '' that we have to deal with whether we will or no , and that rends us and grinds us to powder | it | Oxford | 
+0	| London | London | that | the way of all you people | 
+0	| Max Schurz 's | 
+0	| the front bay window of that red-brick house | the window | 
+0	| that red-brick house | 
+0	| Harry Oswald , Fellow and Lecturer of Oriel College , Oxford | Harry and Edie Oswald | Edie Oswald | she | she | her | she | she | She | her | Her | her | her | She | she | she | her | her | her | she | her | her | her | her | her | she | 
+0	| Oriel College , Oxford | 
+0	| his big oak writing-desk | 
+0	| that desk | 
+0	| most mornings | 
+0	| the long vacation | 
+0	| the end of his three weeks ' stay at a London West-end lodging-house , from which he had paid his first visit to Max Schurz 's Sunday evening receptions | the end | 
+0	| his three weeks ' stay at a London West-end lodging-house , from which he had paid his first visit to Max Schurz 's Sunday evening receptions | 
+0	| his three weeks ' | 
+0	| a London West-end lodging-house | 
+0	| his first visit | my first visit | 
+0	| Max Schurz 's Sunday evening receptions | 
+0	| Fellow | 
+0	| Lecturer | 
+1	| Luttrell | Luttrell | his | he | he | a Fellow of his college | his | Luttrell | he | Fellow of his college | his | he | Fellow of a college ! | Fellow of a college ! | he | a National schoolmaster | his | 
+0	| yours | 
+1	| Mrs. Oswald | Mrs. Oswald | Mrs. Oswald | Mrs. Oswald | she | her | her | Mrs. | Mrs. Oswald | Mrs. Oswald , ' | her | Mrs. Oswald | Mrs. Oswald | Mrs. Oswald | she | she | She | her | her | her | she | She | her | she | her | her | Her | she | Mrs. Oswald , relenting , ` you must n't be too hard | Mrs. Oswald | 
+0	| the next thing on the list | it | the thing 's | 
+0	| the list | 
+0	| Miss Luttrell , the Squire 's sister | 
+1	| Miss Luttrell | the Squire 's sister | Miss Luttrell , ' replied the mother proudly | Miss Luttrell | Miss Luttrell | Miss Luttrell | her | She | herself | she | she | her | Miss Luttrell | Miss Luttrell | Luttrell | Luttrells | Miss Luttrell | Luttrell | her | Miss Luttrell | Luttrell | she | her | Miss Luttrell | Luttrell | her | her | her | her | my sister | the redoubtable Miss Luttrell | old Miss Luttrell | 
+0	| the Squire 's | the old Squire | the Squire | 
+0	| a palsied old lady with a quavering | the old lady | her | the old lady | 
+0	| a quavering | they | 
+0	| you | 
+0	| you | 
+0	| No good tea | 
+0	| the duties | 
+0	| the country | 
+0	| I | me | I | I | I | I | I | my | I | I | me | I | my | me | I | I | I | I | I | My | I | I | I | I | I | I | my | I | I | I | me | I | My | me | I | my | me | I | I | I | I | I | I | my | my | I | me | I | me | I | I | I | a very poor critic in that matter -- if you were only a problem in space of four dimensions , now | I | I | I | me | my | me | I | my | I | I | I | I | I | I | I | my | I | I | I | I | I | my | I | my | I | an economist | I | a man of science | I | I | myself | I | I | you , Harry | I | me | me | my | I | I | I | I | myself | my | I | me | I | I | I | I | I | I | I | I | I | I | I | I | I | me | I | I | I | I | my | I | I | I | I | I | I | I | I | I | I | I | I | My | I | I | my | I | I | my | me | I | I | I | myself | I | I | I | my | I | me | I | I | I | I | I | I | 
+0	| a tall young man | his | he | 
+0	| his hat | 
+0	| Young people | they | 
+0	| no manners in these times , Mrs. Oswald | 
+0	| these times , Mrs. Oswald | 
+0	| these times | 
+0	| you and I | 
+0	| you | 
+0	| Your son | He | he | my son 's | your son 's | 
+0	| Your | 
+0	| sea or something | 
+0	| the fish-curing line , is n't he | 
+0	| the fish-curing line | the fish-curing line at all | 
+0	| you | 
+0	| ee | 
+0	| the mother | his mother 's | her mother | her mother 's | his mother | 
+0	| a young man lounging about the place ; but my son 's at home from Oxford at present for his vacations | 
+0	| the place ; but my son 's | 
+0	| present for his vacations | 
+0	| his vacations | 
+0	| ee more than once already | 
+0	| you | 
+0	| Miss Luttrell , and your memory | them | their | they | their | Miss Luttrell , and beholden to neither Luttrells nor Modburies | Miss Luttrell , and beholden to | Luttrells nor Modburies | 
+0	| your memory | it | 
+0	| your | 
+0	| dost | 
+0	| her wrinkled old head | her head | 
+0	| tke evil omen | it as well as Mrs. Oswald herself did , having heard the fact at least a thousand times before | it | 
+0	| thousand | 
+0	| Mrs. Oswald herself did , having heard the fact at least a thousand times before | 
+0	| the fact at least a thousand times | 
+0	| a matter of principle | the matter | that matter | that matter | 
+0	| these upstart pretensions | 
+0	| the part of the lower orders | 
+0	| the lower orders | 
+0	| their proper level she always made a feint of forgetting any steps in advance which they might have been bold enough to take | 
+0	| a feint of forgetting any steps in advance which they might have been bold enough to take | 
+0	| her previous permission | 
+0	| their original and natural obscurity | 
+0	| a college | a college | the college | 
+0	| the dogs | 
+0	| University | 
+0	| odd people | 
+0	| the University | the University | 
+0	| second | second | 
+0	| Archdeacon | 
+0	| my second brother -- the Archdeacon , you know -- | a Fellow of Magdalen for some time in his younger days | his | your brother | my brother 's | her brother | her brother | my brother | her brother | 
+0	| the Archdeacon | the Archdeacon | 
+0	| you | 
+0	| Magdalen for some time in his younger days | 
+0	| some time in his younger days | the time | 
+0	| his younger days | these days | 
+0	| You | 
+0	| National | it | 
+0	| two | 
+0	| You | 
+0	| you and his father | 
+0	| you | 
+0	| his father | 
+0	| the two things | the things | 
+0	| your heads , Mrs. Oswald | 
+0	| your heads | our heads at all | 
+0	| your | 
+0	| No , ma'am , we'in perfectly sure of it | He | a scholar of Trinity | he | A scholar of Trinity | he | no | no | 
+0	| we | our | 
+0	| you | 
+0	| Trinity | it | Trinity | 
+0	| a Fellowship | a fellowship | It | 
+0	| You | 
+0	| you | 
+0	| now | now | now | it | the kind of thing | 
+0	| years | 
+0	| her increasing age or infirmities | 
+0	| her increasing age | 
+0	| infirmities | 
+0	| her revenge | 
+0	| that simple retributive fashion | the fashion | 
+0	| a great deal in these days | 
+0	| The Rector | He | he | the Rector 's | 
+0	| a wonderful interest | 
+0	| your boy | 
+0	| your | 
+0	| Plymouth Grammar School | Plymouth School | the school | it | 
+0	| a nomination no doubt | 
+0	| no doubt | no doubt | it | that | a mere detail | 
+0	| some attention | 
+0	| a decent , hard-working lad | 
+0	| a sizarship , or something of the sort | They | they | 
+0	| the sort | 
+0	| arrangements like that at the Universities | 
+0	| that at the Universities | 
+0	| the Universities | 
+0	| poor young men of respectable character | 
+0	| missionaries or ushers | 
+0	| very good salaries , considering everything | 
+0	| very good salaries | 
+0	| you | 
+0	| ma'am , ' put in Mrs. Oswald , stoutly | 
+1	| Harry | Harry | Harry | Harry | Harry | Harry | Harry , surveying her from | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | Harry | his | 
+0	| My husband | he | he | he | him | he | 
+0	| our own expense | 
+0	| our | that | 
+0	| an exhibition | 
+0	| the school , and an open scholarship | 
+0	| an open scholarship | 
+0	| patronage , ma'am | 
+0	| your | 
+0	| the matter o ' | 
+0	| a ` ways | 
+0	| the Charterhouse | 
+0	| a living | 
+0	| Lord Modbury 's influence | 
+0	| Lord Modbury 's | Modbury | 
+0	| regular | 
+0	| the Modbury people | you people | 
+0	| the borough and county | 
+0	| George | 
+0	| Modburies | 
+0	| independent , Miss Luttrell , and beholden to neither Luttrells nor Modburies , and that I tell ` ee to your face , ma'am , and no shame of it either | 
+0	| independent | 
+0	| beholden | 
+0	| ` ee to your face , ma'am , and no shame of it | 
+0	| ee to your face , ma'am | it | 
+0	| your face , ma'am | 
+0	| your face | 
+0	| your | 
+0	| no shame of it | 
+0	| ee to your face , ma'am , | 
+0	| this direct discomfiture | 
+0	| you | 
+0	| Providence | Providence | 
+0	| your son 's a very worthy young man | his | he | the young man | his | 
+0	| your | 
+0	| a very | 
+0	| his way | it | no business of mine | it | no business of mine | 
+0	| a position | 
+0	| my brother 's estate | 
+0	| Figgins | Figgins | 
+0	| Mrs. Figgins , now , the baker 's wife | 
+0	| Mrs. Figgins , now | 
+0	| Mrs. Figgins | the baker 's wife | her | her this morning | Mrs. Figgins | 
+0	| the baker 's | 
+0	| her daughter | 
+0	| a bank clerk in London | 
+0	| you | your | you | you | you | You | your | your | you | your | your | her , Mrs. Oswald | her | 
+0	| your Polly | 
+0	| some young fellow from town | 
+0	| your girls | 'em | They | their | they | fine ladies | they | That | 
+0	| bank clerks | 
+0	| a reference | 
+0	| the sake of getting 'em off your hands | 
+0	| your hands | your hands | 
+0	| America | 
+0	| their employers | their | 
+0	| a pretty household for their wives | 
+0	| their wives | 
+0	| a smash | 
+0	| your daughters and their children thrown back again penniless upon your hands | 
+0	| your daughters | their | 
+0	| their children thrown back again penniless upon your hands | 
+0	| 's | her | 's | she | 
+0	| daughter , by the way -- Jemima I | 
+0	| by the way -- Jemima I | her way | 
+0	| Jemima I | Jemima | 
+0	| you | 
+0	| how | 
+0	| Edith | Edith | Miss Edith | Edith | SHE doing | She | Edith 's | 
+0	| your pardon , Miss Luttrell , but her name 's not Jemima | 
+0	| your pardon , Miss Luttrell | 
+0	| your pardon | 
+0	| your | 
+0	| her name 's not Jemima | it | it | it | 
+0	| The grand names girls | them | 
+0	| Catherine | That horrid old Miss Catherine | her | she | she | she | shaky bitter old Miss Catherine | her | poor old Miss Catherine | 
+0	| My name 's plain Catherine , and it 's good enough for me | 
+0	| My name 's plain Catherine | 
+0	| Eleanors | 
+0	| Ophelias | 
+0	| Christian Susans | 
+0	| Janes | 
+0	| these young ladies of the new style | Ediths and Eleanors and Ophelias , and all that heathenish kind of thing | Ediths and Eleanors and Ophelias | Ediths and Eleanors | Ediths | they | princesses of the blood or play-actresses | their | 
+0	| the new style | 
+0	| the blood or play-actresses | 
+0	| the blood | 
+0	| play-actresses | 
+0	| good Christian Susans and Janes and Betties | 
+0	| good Christian Susans | 
+0	| Janes and Betties | 
+0	| their grandmothers | them | 
+0	| Betties | 
+0	| particular at this moment , Miss Luttrell | 
+0	| this moment , Miss Luttrell | this moment | this moment , Edie | this moment | 
+0	| Oxford part of this term on a visit | my part | it | 
+0	| this term on a visit | 
+0	| a visit | 
+0	| my good woman | 
+0	| the girl | she | her | She | her | her | her | her | me , Mrs. Oswald | the girl | her | her | her | her | her | 
+0	| her catechism | your catechism | 
+0	| her duty | it | 
+0	| that station of life | 
+0	| young gentlemen above her own rank and place | 
+0	| her own rank and place | 
+0	| society at Oxford | 
+0	| you | 
+0	| the tea dusty | it | 
+0	| you | 
+0	| you | 
+0	| the absolute truth of the shocking rumour which had reached her about Edith 's projected visit , the confirmation of which was the sole object of her colloquy | That | it | 
+0	| the shocking rumour which had reached her about Edith 's projected visit , the confirmation of which was the sole object of her colloquy | 
+0	| Edith 's projected visit , the confirmation of which was the sole object of her colloquy | 
+0	| Edith 's projected visit | 
+0	| the confirmation | 
+0	| the sole object of her colloquy | 
+0	| her colloquy | 
+0	| the page-boy | 
+0	| her shambling little palsied donkey-chair | 
+0	| you | 
+0	| ` nt you , ' | nt | their | they | their | 
+0	| nt you | 
+0	| you | 
+0	| his biscuit-boxes | 
+0	| the Rector 's wife | she | his wife | 
+0	| Mrs. Walters o | 
+0	| such a bit o | 
+1	| Edie | Edie , ' said Harry | Edie | Edie | her | her | her | Edie | her | her | Edie | her | Edie | Edie | Edie | Edie | you see ; a gross anti-social and individualist demonstration | Edie , till you 've met him | Edie | Edie | Edie | Edie | Edie | her | Edie | her | My dear Edie , I | My dear Edie | dear Edie | Edie | her | Edie | her | Edie dear | her | her | Edie | Edie , ' cried Harry demonstratively | Edie | pretty Edie | her | 
+0	| the little study with the bow-window over the shop | 
+0	| the bow-window over the shop | 
+0	| the necessary preparations for Edie 's long-promised visit | 
+0	| Edie 's long-promised visit | 
+0	| you | 
+0	| the way of dress | 
+0	| you | 
+0	| You | 
+0	| a decent dinner dress , of course | 
+0	| a decent dinner dress | 
+0	| you | 
+0	| you | 
+0	| one | 
+0	| that way , Harry | that way | that way | 
+0	| my dark poplin | 
+0	| the bodice | the bodice | 
+0	| one dinner dress , and my high black silk to fall back upon for another | my dress | the dress | 
+0	| one dinner dress | 
+0	| my high black silk to fall back upon for another | 
+0	| another | 
+0	| a lace handkerchief and a locket | 
+0	| a lace handkerchief | it | 
+0	| a locket | 
+0	| three | It | a charming dress , the peacock-blue | a charming dress | the peacock-blue | it | it | It | the peacock-blue | whatever dress | It | 
+0	| one | 
+0	| three afternoon dresses , the grey you gave me , the sage-greeny aesthetic one , and the peacock-blue with the satin box-pleats | 
+0	| three afternoon dresses , the grey you gave me , the sage-greeny aesthetic one | 
+0	| three afternoon dresses | 
+0	| the grey you gave me , the sage-greeny aesthetic one | 
+0	| you | 
+0	| the sage-greeny aesthetic one | 
+0	| the peacock-blue with the satin box-pleats | 
+0	| the satin box-pleats | 
+0	| a genuine Titian | 
+0	| Miss Wells 's | 
+0	| five minutes | it | it | That | 
+0	| a dear boy | 
+0	| you | 
+0	| a good girl | 
+0	| you | 
+0	| your | 
+0	| the exact pink | 
+0	| perfection , Popsy | Popsy | Popsy | Popsy | 
+0	| four | 
+0	| you | 
+0	| only a problem in space of four dimensions | 
+0	| space of four dimensions | 
+0	| four dimensions | 
+0	| more of a problem than anything in x square plus y square | 
+0	| a problem than anything in x square plus y square | 
+0	| x square plus y square | 
+0	| x square | 
+0	| y square | 
+0	| you | 
+0	| yourself | 
+0	| her own room | 
+0	| the new peacock-blue dress | her new dress | 
+0	| hat and parasol to match , and a little creamy lamb 's - wool scarf thrown with artful carelessness around her pretty neck and shoulders | 
+0	| hat and parasol to match | 
+0	| a little creamy lamb 's - wool scarf thrown with artful carelessness around her pretty neck and shoulders | 
+0	| wool scarf thrown with artful carelessness around her pretty neck and shoulders | 
+0	| her pretty neck and shoulders | 
+0	| her pretty neck | the neck | 
+0	| shoulders | 
+0	| you | 
+0	| many lighter or more fairly-like little girls than Edie Oswald , even in the beautiful half-Celtic South Hams of Devon | 
+0	| the beautiful half-Celtic South Hams of Devon | 
+0	| a wee thing | 
+0	| her form | 
+0	| a little distance | 
+0	| her case | it | 
+0	| the square of the distance | 
+0	| the proportions of the cube | 
+0	| the cube | 
+0	| Her hair and eyes -- such big bright eyes ! | her hair | 
+0	| such big bright eyes | 
+0	| dark ; but her complexion was scarcely brunette , and the colour in her cheeks was rich and peach-like , after the true Devonian type | 
+0	| her complexion | her complexion | 
+0	| the colour in her cheeks | 
+0	| her cheeks | 
+0	| the true Devonian type | 
+0	| her full lips | her lips half | 
+0	| a peculiar ripe look to her laughing | look at it | 
+0	| her laughing | 
+0	| mouth that suited admirably with her light and delicate style of beauty | 
+0	| her light and delicate style of beauty | 
+0	| some people | them | they | people | 
+0	| a critical eye | 
+0	| the distinct notion of kissability | 
+0	| her neatly fitting dainty blue dress | It | it | it | 
+0	| half | 
+0	| her arms | his arms | 
+0	| about as much | 
+0	| a fairy picture | 
+0	| head to foot with a smile of satisfaction which made her blush deepen ; ` it 's simply delicious | 
+0	| foot with a smile of satisfaction which made her blush deepen ; ` it 's simply delicious | 
+0	| a smile of satisfaction | 
+0	| you | 
+0	| the idea of it | it | the present style , ' said Edie | the present style | 
+0	| Vandyck | 
+0	| Genoa | 
+0	| the notion of the bodice | 
+0	| that Vandyck | 
+0	| you | 
+0	| the Palazzo Bossi | 
+0	| an admiring eye | 
+0	| round | it | 
+0	| Théophile Gautier | Théophile Gautier | a horrid man | Théophile Gautier | him | Gautier | 
+0	| one | 
+0	| You | 
+0	| the one great advantage which a beautiful woman possesses over a beautiful statue | this , that while a man has to walk round the beautiful statue in order to see it from every side , he can ask the beautiful woman to turn herself round and let him see her , without requiring to take that trouble | this | 
+0	| a beautiful woman | the beautiful woman | herself | her | 
+0	| a beautiful statue | 
+0	| a man | he | him | 
+0	| the beautiful statue in order | it | 
+0	| that trouble | 
+0	| anybody but my brother | him | 
+0	| such a thing | that | 
+0	| you | 
+0	| you | 
+0	| anybody but my sister | him | 
+0	| you | 
+0	| Milo | 
+0	| you | you , Harry , for the compliment | you , Harry | 
+0	| that dress at this moment , Edie | 
+0	| then the Venus of Milo | 
+0	| ultimate atoms for a rank artistic impostor | 
+0	| a rank artistic impostor | 
+0	| you | 
+0	| the compliment | 
+0	| pretty things | 
+0	| you | 
+0	| somebody else 's sister | 
+0	| somebody else 's | 
+0	| you | 
+0	| your own | 
+0	| your | 
+0	| the contrary | it | 
+0	| somebody else 's sister | 
+0	| somebody else 's | 
+0	| the kind | 
+0	| you | 
+0	| Gautier the justice | 
+0	| a circle round | That | a very important aesthetic consideration | it | a sunshiny dress | It | it | That | It | it | a serious piece of economic hubris | ` Piece of what ? ' | 
+0	| you | 
+0	| you | 
+0	| your own axis | 
+0	| your | 
+0	| the satin in the sunlight | 
+0	| the sunlight | 
+0	| you | 
+0	| the panniers toward the window | 
+0	| you | 
+0	| doors | 
+0	| a fine afternoon , when the light is falling slantwise | 
+0	| a fine afternoon | this afternoon | 
+0	| the light | the light , joyous , tremulous little figure | the light | it | It | 
+0	| you | 
+0	| the low window | 
+0	| the light painters | 
+0	| Le Breton | Le Breton | he | he | He | Le Breton | Le Breton | he | He | him | him | he | he | Le Breton | Le Breton | Le Breton 's | his mother 's Lady Le Breton | he | Mr. Le Breton | 
+0	| gross | 
+0	| ` Piece of hubris -- an economical outrage | 
+0	| an economical outrage | 
+0	| a gross anti-social and individualist demonstration | 
+0	| a gross anti-social | 
+0	| individualist demonstration | 
+0	| Hubris | it | 
+0	| you | 
+0	| Greek for insolence ; at least , not quite insolence , but a sort of pride and overweening rebelliousness against the gods , the kind of arrogance that brings Nemesis after it | 
+0	| insolence ; at least , not quite insolence , but a sort of pride and overweening rebelliousness against the gods , the kind of arrogance | 
+0	| but a sort of pride and overweening rebelliousness against the gods | 
+0	| a sort of pride | 
+0	| the gods | the gods to us all | 
+0	| the kind of arrogance | 
+0	| Nemesis | 
+0	| you | 
+0	| hubris in Agamemnon and Xerxes to go swelling about and ruffling themselves like turkey-cocks , because they were great conquerors and all that sort of thing | 
+0	| Agamemnon and Xerxes | themselves | they | great conquerors and all that sort of thing | great conquerors | their | 
+0	| turkey-cocks | 
+0	| their Nemesis to get murdered by Clytemnestra , or jolly well beaten by the Athenians at Salamis | 
+0	| Clytemnestra | 
+0	| the Athenians | 
+0	| Salamis | 
+0	| Agamemnon | 
+0	| Xerxes | 
+0	| the word | it | 
+0	| a good many things socially wrong , I can tell you -- anything that partakes of the nature of a class distinction , or a mere vulgar ostentation of wealth , or a useless waste of good , serviceable , labour-gotten material | 
+0	| a good many things socially wrong | things | 
+0	| you | 
+0	| the nature of a class distinction , or a mere vulgar ostentation of wealth | 
+0	| the nature of a class distinction | it | her nature | their nature | It | it | their nature | 
+0	| a class distinction | 
+0	| a mere vulgar ostentation of wealth | 
+0	| a useless waste of good , serviceable , labour-gotten material | 
+0	| one | 
+0	| hubris to have silver spoons when electroplate would do just as well ; or to keep a valet for your own personal attendant , making one man into the mere bodily appanage of another ; or to buy anything you did n't really need , causing somebody else to do work for you which might otherwise have been avoided | 
+0	| silver spoons | 
+0	| a valet for your own personal attendant | 
+0	| your own personal attendant | 
+0	| your | 
+0	| one man | 
+0	| the mere bodily appanage of another | 
+0	| another | 
+0	| you | 
+0	| somebody else | you which might otherwise have been avoided | 
+0	| one | 
+0	| Mr. Le | 
+0	| the elder or the younger one | 
+0	| the elder | 
+0	| the younger one | 
+0	| Ernest | Ernest 's | Ernest that would think my dress a piece of what-you-may-call-it | Ernest | 
+0	| the younger -- Ernest | They | their | they | 
+0	| Herbert | he | he | he | Herbert | 
+0	| St. Aldate 's | 
+0	| Herbert , the Fellow of St. Aldate 's | 
+0	| the Fellow of St. Aldate 's | 
+0	| their degrees , have n't they | 
+0	| their degrees | 
+0	| one | 
+0	| a piece | 
+0	| ` Yes , Ernest . ' | her | 
+0	| ` Yes | him | him | He | a very good fellow | he | he | 
+0	| hat or bonnet that suits her complexion best | 
+0	| You | 
+0	| you | 
+0	| one | 
+0	| one thing | it | 
+0	| YOU | 
+0	| a new peacock-blue camel-hair dress | that pretty dress | 
+0	| my own opinions | my opinions | 
+0	| you | 
+0	| you | her | herself | she | 
+0	| her best | 
+0	| the common delectation of all humanity | 
+0	| Your beauty | a gift from the gods to us all | it | 
+0	| Your | 
+0	| a Greek | 
+0	| us | we | 
+0	| the most of it | 
+0	| you | 
+0	| You | 
+0	| your politest humour this afternoon | 
+0	| your | 
+0	| the other hand | his hand | the other hand | 
+0	| the other side | 
+0	| the enthusiasm of humanity so strong | 
+0	| humanity so strong | 
+0	| you | 
+0	| you | 
+0	| you | that | 
+0	| fear of hubris and Nemesis | 
+0	| hubris and Nemesis | 
+0	| a perfect fright in my shabby old Indian tussore | 
+0	| my shabby old Indian tussore | 
+0	| one | 
+0	| the first place | it | 
+0	| you | 
+0	| a perfect fright | 
+0	| the second place | 
+0	| Socialist enough myself ever to have the courage of my opinions as Le Breton has | 
+0	| the courage of my opinions | 
+0	| them | 
+0	| others | 
+0	| one | 
+0	| You | 
+0	| one thing for Le Breton to be so communistic as all that comes to , and quite another thing for you and me | 
+0	| , and quite another thing for you and me | 
+0	| , and quite another thing for you | 
+0	| another thing | 
+0	| you | 
+0	| Le Breton 's father | a general | his | He | he | he | 
+0	| a general and a knight | 
+0	| a knight | 
+0	| you | 
+0	| the way of social eccentricities | 
+0	| social eccentricities | 
+0	| a very strange advanced young fellow | 
+0	| you | That | 
+0	| our political beliefs | 
+0	| our | we | 
+0	| a lot of difference | 
+0	| you | 
+0	| one 's | 
+0	| You | 
+0	| you | 
+0	| one 's own opinions | 
+0	| spite of anybody | 
+0	| a sweet thing | it | 
+0	| she | herself | her | her | she | 
+0	| her shoulder to look at the effect | 
+0	| the effect | 
+0	| a vain attempt to assume an objective attitude towards her own back | 
+0	| an objective attitude towards her own back | 
+0	| her own back | 
+0	| last , Harry | last | last | 
+0	| a short pause | 
+0	| you | an undergraduate | 
+0	| the acquaintance of all your clever friends | 
+0	| your | 
+0	| you | 
+0	| your trip on the Continent with me | 
+0	| your | 
+0	| the Continent with me | the Continent | the Continent | the Continent | 
+0	| Paris | 
+0	| Switzerland | 
+0	| Venice | 
+0	| Florence | 
+0	| That three months in Paris , and Switzerland , and Venice , and Florence | 
+0	| Paris , and Switzerland , and Venice , and Florence | 
+0	| you | 
+0	| a lot of good | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| subjects for conversation | 
+0	| France | 
+0	| Italy | 
+0	| Cook 's | 
+0	| things enough to be said about heaven and earth in England , surely , without one having to hurry through France and Italy , like Cook 's excursionists , just to hunt up something fresh to chatter about | 
+0	| heaven and earth | 
+0	| one having to hurry through France and Italy , like Cook 's excursionists , just to hunt up something fresh | 
+0	| France and Italy | 
+0	| Cook 's excursionists | 
+0	| something fresh | 
+0	| chatter about | 
+0	| a person who ca n't find anything new to say about the every-day world around her | 
+0	| the every-day world around her | 
+0	| a Continental Bradshaw | 
+0	| Geneva | 
+0	| that feeble watery lady I met at the table d'hote at Geneva | she | she | her | she | she | her | she | her | she | her | she | you | she | her | her | her | 
+0	| the table d'hote | 
+0	| India | it | it | 
+0	| Brazil | place Brazil | 
+0	| sort of place Brazil | it | 
+0	| Barbadoes | 
+0	| the West Indies | 
+0	| they | 
+0	| previous travellers | that | 
+0	| the end I ever got out of her , for all her travels | 
+0	| you | 
+0	| you | 
+0	| perhaps a judicious course of differential and integral calculus , which might possibly serve to tone down slightly your exuberant and excessive vitality | 
+0	| slightly your exuberant and excessive vitality | 
+0	| your | 
+0	| one 's | 
+0	| you | 
+0	| the point of view of society , which is a force we have always to reckon with -- a constant , in fact , that we may call Pi | It | 
+0	| view of society , which is a force we have always to reckon with -- a constant , in fact , that we may call Pi | 
+0	| society , which is a force we have always to reckon with -- a constant , in fact , that we may call Pi | 
+0	| a force we have always to reckon with -- a constant , in fact , that we may call Pi | 
+0	| we | we | we | 
+0	| a constant , in fact , that we may call Pi | 
+0	| a constant | 
+0	| fact , that we may call Pi | 
+0	| Pi | Pi | Pi 's | Pi 's | Pi | her | 
+0	| the world that to have been on the Continent | a differentiating factor in one 's social position | 
+0	| one 's social position | 
+0	| the least what your own private evaluation of Pi may be | 
+0	| your own private evaluation of Pi | Pi 's evaluation of you | approximately a minimum , of that you may be certain | approximately a minimum | 
+0	| your | 
+0	| you | 
+0	| the particular things and places that Pi knows | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| her pretty little head | the head | 
+0	| my own sake | 
+0	| the pictures , and palaces , and mountains , and waterfalls | 
+0	| the pictures | 
+0	| palaces | 
+0	| mountains | 
+0	| waterfalls | 
+0	| Pi 's opinion of me | 
+0	| them | them | 
+0	| Col de Balme | 
+0	| the same person | 
+0	| them or not | 
+0	| so much the richer | 
+0	| that view from the top of the Col de Balme , and for that Murillo | 
+0	| the top of the Col de Balme | 
+0	| the Col de Balme | 
+0	| that Murillo | that Murillo | 
+0	| you | 
+0	| the flood of light | 
+0	| Bologna | 
+0	| -- in the far corner of that delicious gallery at Bologna . | 
+0	| the far corner | 
+0	| that delicious gallery | 
+0	| mother darling , what on earth | mother darling | mother darling | 
+0	| you | 
+0	| ` Nothing at all , Edie dear ; leastways , that is , nothing to speak of , ' | it | 
+0	| leastways , that is , nothing to speak of | 
+0	| leastways | 
+0	| the shop hot | 
+0	| her desperate encounter | 
+0	| her arm | 
+0	| her mother 's waist | 
+0	| her face half a dozen times over in her outburst of sympathy | 
+0	| half a dozen times | 
+0	| her outburst of sympathy | 
+0	| my dearie | 
+0	| you | 
+0	| us | 
+0	| duckie mother | 
+0	| Mrs. Oswald , half laughing and half crying | 
+0	| half laughing and half crying | 
+0	| ee exactly what she did say , but it was just the kind of thing that she mostly does | 
+0	| a body 's feelings | 
+0	| a body 's | 
+0	| you | 
+0	| your | 
+0	| You | 
+0	| her forehead | 
+0	| the most advanced intellectual centres | 
+0	| the Church catechism | 
+0	| the absolute ultimatum of the highest and deepest economical wisdom | 
+0	| the highest and deepest economical wisdom | 
+0	| your heart , Harry , what 'd be the good of talking that way to the likes of she | 
+0	| your heart | 
+0	| your | 
+0	| the good of talking that way to the likes of she | 
+0	| the likes of she | 
+0	| a single word of what you were driving at | It | it | it | 
+0	| you | 
+0	| it 's in the way of spite , and then she sees her chance to tack round the hardest corner with half a wind in her sails only , as soon as look at it | 
+0	| the way of spite | its way | 
+0	| tack round | 
+0	| the hardest corner with half a wind | 
+0	| half a wind | 
+0	| her sails only | 
+0	| Her sharpness | it | 
+0	| you | 
+0	| you | 
+0	| this great , sneering , ugly aggregate `` society '' that we have to deal with whether we will or no , and that rends us and grinds us to powder | 
+0	| we | we | us | us | we | our | us | 
+0	| whether we will or no | 
+0	| the thin end of a chance | 
+0	| a chance | 
+0	| your unit | 
+0	| your | 
+0	| the nth | 
+0	| you | 
+0	| the irreducible power | 
+0	| one 's | 
+0	| one 's political economy | its | its | that | it | 
+0	| its way ; but the practical master of the situation | 
+0	| the practical master of the situation | 
+0	| the situation | 
+0	| our poor solitary little individualities | 
+0	| the dead weight of its inexorable cumulative nothingness | 
+0	| its inexorable cumulative nothingness | 
+0	| perambulating jealousy -- that living incarnation of envy , hatred , malice , and all uncharitableness -- | 
+0	| incarnation of envy , hatred , malice , and all uncharitableness | 
+0	| envy , hatred , malice , and all uncharitableness | 
+0	| you | 
+0	| a single moment , mother darling | 
+0	| a single moment | 
+0	| her petty , dribbling , doddering venom | 
+0	| her petty | dribbling , doddering venom , | dribbling , doddering venom | dribbling | 
+0	| ` There | She | She | her | 
+0	| you | 
+0	| neither | 
+0	| one | 
+0	| a bit | it | 
+0	| you | 
+0	| disappointments and one thing and another | 
+0	| disappointments | 
+0	| one thing and another | 
+0	| one thing | 
+0	| another | 
+0	| Folks | their | they | 
+0	| that vipers | their | 
+0	| Dr. Watts | 
+0	| a similar observation with regard to the growling and fighting of bears and lions | 
+0	| a similar observation with regard to the growling | 
+0	| regard to the growling | 
+0	| the growling | 
+0	| fighting of bears and lions | 
+0	| bears and lions | the bears ' and lions ' | the bears ' | 
+0	| a Society for the protection of those much-misunderstood creatures | 
+0	| the protection of those much-misunderstood creatures | 
+0	| those much-misunderstood creatures | they | their | 
+0	| the ground that they are not really responsible for their own inherited dispositions | 
+0	| their own inherited dispositions | 
+0	| a nature -LRB- no doubt congenital -RRB- which impelled him to beat his wife -- I 'm not sure that she was even his wife at all , now I come to think of it , but that 's a mere detail -- and to kick his familiar acquaintances casually about the head | our nature | 
+0	| his wife -- I 'm not sure that she was even his wife at all , now I come to think of it , but that 's a mere detail -- | 
+0	| his familiar acquaintances | 
+0	| We | us | we | our | our | 
+0	| natures which impel us | 
+0	| Mr. William Sikes indulging in these innate idiosyncrasies by way of recreation , to clap him promptly into prison , and even , under certain aggravating conditions , to cause him to be hanged by the neck till he be dead | Sikes 's | his | him | 
+0	| these innate idiosyncrasies | 
+0	| way of recreation | 
+0	| certain aggravating conditions | 
+0	| This | a regrettable incident of our own peculiar dispositions | it | 
+0	| our own peculiar dispositions | 
+0	| at least the same justification as Mr. Sikes 's or the bears ' and lions ' | 
+0	| Mr. Sikes 's or the bears ' and lions ' | 
+0	| lions ' | 
+0	| the same way | 
+0	| you | a bad rebellious boy to be calling names , like a chatter-mag | 
+0	| names | 
+0	| a chatter-mag | 
+0	| you | 
+0	| her new dress , to be sure , Harry | 
+0	| one | 
+0	| one | 
+0	| a prettier girl in Oxford | she | 
+0	| next week | 
+0	| no , nor a better one and a sweeter one neither | 
+0	| a better one | 
+0	| a sweeter one neither | 
+0	| one neither | 
+0	| both their waists | 
+0	| an affectionate pressure | 
+0	| their old-fashioned tea | 
+0	| the little parlour behind the shop | 
+0	| the garden , and the beach | 
+0	| the garden | 
+0	| the great cliffs | 
+0	| either hand | 
+0	| the very farthest edge of the distant clear-cut blue horizon | 
+0	| the distant clear-cut blue horizon | 

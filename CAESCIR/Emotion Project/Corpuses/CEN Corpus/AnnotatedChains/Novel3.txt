@@ -1,0 +1,328 @@
+0	| a thing or two | 
+0	| I | I | my | I | my | me | I | I | you | your | you | your | you | you | you | you | you | 
+0	| a thing | 
+1	| Silver | Silver | I | my | my | I | I | my | Silver | Silver giving a little | Silver | I | Silver , `` your head ai n't much account , nor ever was | Silver | I | I | I | my | I | I | the man for me | you | Silver ; `` rough and ready | you | I | an easy man -- I 'm quite the gentleman | I | quite the gentleman | you | I | my | I | my | I | I | Silver | I | I | I | he | me | my | you | 's | Silver , `` I trust you | Silver | I | I | Silver | himself | 
+1	| Flint | Flint 's | Flint | Flint | that | my story | Flint | Flint 's | Flint | Flint 's | Flint 's | Flint | Flint 's | old Flint | Flint | 
+0	| y lay your course , and a p ` int to windward | 
+0	| my timber leg | my leg | 
+0	| y lay your course | 
+0	| The same broadside I lost my leg | It | 
+0	| a p ` int to windward | 
+0	| int to windward | 
+1	| old Pew | Old Pew , as had lost his sight , and might have thought shame | Old Pew | Pew | 
+0	| carriages | 
+0	| his deadlights | 
+0	| his | 
+0	| But not you ! | 
+0	| Corso Castle | 
+0	| a master surgeon , him that ampytated me -- out of college and all -- Latin by the bucket , and what not | 
+0	| a master surgeon | him that ampytated me | he | 
+0	| your mouthful of rum | 
+0	| college and all -- Latin by the bucket , and what | 
+0	| tomorrow | 
+0	| the bucket | 
+0	| what | That | Roberts ' men | that | their | men now | 'em aboard here | 'em | what | 
+0	| you | you | 
+0	| a dog | her | 
+0	| a kind of a chapling , John | 
+0	| the rest | 
+0	| a chapling , John | 
+0	| a chapling | 
+0	| others as could hand and steer as well as you | They | they | They | so high and dry , nohow | their | they | they | they | they | we | 'em | we | 'em | That | 'em | That | 'em | That | that | 
+0	| Roberts ' | 
+0	| names to their ships -- ROYAL FORTUNE | 
+0	| a bit o ' fun | 
+0	| their ships | 
+0	| one | 
+0	| a ship | it | 
+0	| their fling , like jolly companions every one | 
+0	| Malabar | 
+0	| England | it | England | England | England 's | England 's | 
+0	| jolly companions | 
+0	| the CASSANDRA | 
+0	| he | he | 
+0	| us | 
+0	| a beggar-man | 
+0	| the viceroy of the Indies | He | 
+0	| the Indies | 
+0	| Savannah | 
+0	| the old WALRUS , Flint 's old ship | 
+0	| the old WALRUS | 
+0	| a sweet crew | 
+0	| Flint 's old ship | 
+0	| y , where are they | 
+0	| the red blood and fit to sink with gold | 
+0	| another voice , that of the youngest hand on board , and evidently full of admiration | 
+0	| another voice | that of the youngest hand on board , and evidently full of admiration | 
+0	| the youngest hand on board , and evidently full of admiration | 
+0	| the youngest hand on board | my hand | it | 
+0	| full of admiration | 
+0	| the flower of the flock , was Flint | 
+0	| the flock | 
+0	| Davis | him | 
+0	| a man | a man | the man | a man | a man | 
+0	| first | first | 
+0	| maroons | 
+0	| England 's way | 
+0	| that much pork | 
+0	| Billy Bones 's | 
+0	| my own account | 
+0	| been Flint 's , or Billy Bones 's | 
+0	| a manner of speaking | 
+0	| been Flint 's | 
+0	| nine hundred | That | it | it | that | 
+1	| Billy | the man for that | he | he | he | Billy | 
+0	| two thousand | 
+0	| Dead men | 
+0	| the mast | the mast , like you ! '' | the mast | 
+0	| Tai n't earning | Tai | I | I | my | I | 
+0	| the long and short on it | 
+0	| ever a rough hand | it | 
+0	| `` rough and ready | 
+0	| n no | 
+0	| rough | 
+0	| ready | 
+0	| most on 'em aboard here , and glad to | 
+0	| mark you here , I 'm an easy man -- I 'm quite the gentleman | 
+0	| here | here | here | Here | Here | this squire and doctor with a map and such | this squire and doctor | here | 
+0	| the duff -- been begging before that , some on 'em | 
+0	| that , some on 'em | that | that , my son | 
+0	| some on 'em | his | he | he | He | he | he | 
+0	| Parliament | 
+0	| Dooty | dooty , mates | dooty | her | 
+0	| his sight | 
+0	| a year | 
+0	| a lord in Parliament | 
+0	| my vote -- death | 
+0	| dead now and under hatches | that | 
+0	| my coach | 
+0	| two year before that | it | it | 
+0	| my timbers | 
+0	| these sea-lawyers in the cabin a-coming home | 
+0	| the cabin a-coming home | 
+0	| prayers | 
+0	| what I say ; but when the time comes , why , let her rip | 
+0	| throats | that | 
+0	| the powers | the powers | the powers | 
+0	| the young seaman | 
+0	| you | 
+0	| fools | 
+0	| You | you | you | you | 
+0	| you | 
+0	| nor nothing | 
+0	| you | you | you | you | you | you | I | I | myself | I | I | I | I | I | I | I | I | I | my | me | I | that | I | I | myself | I | I | me | I | 
+0	| one | 
+0	| Trelawney | his | his | 
+0	| one thing | 
+0	| my eyes | my eyes | 
+0	| his calf 's head | 
+0	| his calf 's | 
+0	| his body | 
+0	| You | 
+0	| these hands , Dick | 
+0	| this abominable old rogue addressing another in the very same words of flattery as he had used to myself | him | he | he | I | I | I | I | I | myself | my | I | 
+0	| You | 
+0	| another in the very same words of flattery | he | 
+0	| a sweet lad | 
+0	| the very same words of flattery | 
+0	| an apple , to wet my pipe like | 
+0	| an apple | 
+0	| my pipe like | 
+0	| You | 
+0	| the terror | it | 
+0	| the barrel | the barrel | 
+0	| little supposing he | it | it | 
+0	| the strength | 
+0	| gentlemen of fortune | They | they | they | their | `` Gentlemen of fortune , '' | Gentlemen of fortune | themselves | they | you gentlemen | 
+0	| my limbs and heart | 
+0	| my limbs | 
+0	| fighting-cocks | 
+0	| a cruise | this cruise | 
+0	| hundreds of pounds instead of hundreds of farthings in their pockets | 
+0	| hundreds of farthings in their pockets | 
+0	| their pockets | 
+0	| the | their | 
+0	| rum and a good fling | that | the course I lay | it | the rum | 
+0	| that bilge , John | 
+0	| a good fling | their fling | 
+0	| that bilge | 
+0	| their shirts | 
+0	| a go of the rum | 
+0	| some | 
+0	| here , some there , and none too much anywheres | 
+0	| a gauge on the keg , mind | 
+0	| some there | 
+0	| the keg , mind | 
+0	| too much anywheres | 
+0	| the keg | 
+0	| reason of suspicion | 
+0	| the key | 
+0	| fifty | 
+0	| a pannikin | it | the pannikin | 
+0	| you | you | you | 
+0	| gentleman in earnest | 
+0	| Time enough too | this time | this time | it | the time | 
+0	| this | them | 
+0	| Mr. Arrow | him | 
+0	| the strong waters that destroyed him | 
+0	| the meantime , never denied myself o ' nothing heart desires , and slep ' soft and ate dainty all my days | 
+0	| the meantime | when | 
+0	| o ' nothing heart desires | 
+0	| a little while | 
+0	| heart desires | 
+0	| his absence | 
+0	| slep ' soft and ate dainty all my days | 
+0	| dainty | 
+0	| the cook 's ear | 
+0	| but a word or two | 
+0	| the other | the other | it | 
+0	| 's | it | 
+0	| some important news | 
+0	| other scraps that tended to the same purpose | 
+0	| Bristol | Bristol , in banks and places | Bristol | It | it | 
+0	| the same purpose | 
+0	| You | 
+0	| this whole clause | 
+0	| face in Bristol | it | 
+0	| another man of them | 
+0	| this | 
+0	| you | his | 
+0	| faithful men on board | 
+0	| one after another of the trio | 
+0	| banks and places | 
+0	| another of the trio | a | ourselves | 
+0	| his companion | 
+0	| the trio | 
+0	| one `` To luck , '' another with a `` Here 's to old Flint , '' and Silver himself saying , in a kind of song | 
+0	| the cook ; `` it were when we weighed | my | me | I | I | 
+0	| luck , '' another with a `` Here 's to old Flint , '' and Silver himself saying , in a kind of song | 
+0	| another | 
+0	| we | 
+0	| my old missis | it | your missis | 
+0	| a kind of song | 
+0	| now | 
+0	| the Spy-glass is sold , lease and goodwill and rigging ; and the old girl 's | 
+0	| your luff | 
+0	| the Spy-glass is sold | it | 
+0	| your | 
+0	| lease and goodwill and rigging | 
+0	| plenty of prizes and plenty | 
+0	| the old girl 's | 
+0	| prizes and plenty | 
+0	| a sort of brightness | 
+0	| you | you | 
+0	| the moon | 
+0	| the mizzen-top | 
+0	| the mates | mates | 
+0	| the luff of the fore-sail | 
+0	| you | your | 
+0	| the fore-sail | 
+0	| the same time | 
+0	| the voice of the lookout | 
+0	| the lookout | 
+0	| Land ho | 
+0	| the cook , `` usually trusts little | the cook | the cook | I | the cook 's | 
+0	| usually trusts | 
+0	| you | you | you | yourself | you | yourself | their | they | 
+0	| I | me | I | me | I | me | I | I | a boasting man | I | I | 
+0	| a way with me | my way | 
+0	| a mate | his | 
+0	| a slip | it | 
+0	| his cable | 
+0	| one as knows me | 
+0	| the same world with old John | 
+1	| old John | old John 's | you | you , John | you | John | you | Long John | John | John | John | 
+0	| some that was feared of Pew , and some that was feared of Flint | They | them | 
+0	| some that was feared of Pew | his | he | himself | 
+0	| some that was feared of Flint | 
+0	| Flint his own self | 
+0	| his own self | 
+0	| the roughest crew afloat | 
+0	| the devil himself would have been feared to go to sea with them | the devil | 
+0	| the word for Flint 's old buccaneers | the word | that | when | That | It | a word | 
+0	| Flint 's old buccaneers | 
+0	| I | the lad | I | I | my | the lad | 
+0	| half a quarter | 
+0	| the job | 
+0	| this talk with you , John | 
+0	| lad you were | I | my | 
+0	| hands | Israel Hands | these hands | Hands | 
+0	| a | a finer figurehead for a gentleman of fortune | a | he | 
+0	| a gentleman of fortune | 
+0	| the meaning of their terms | 
+0	| their terms | 
+0	| a `` gentleman of fortune '' they plainly meant neither more nor less than a common pirate , and the little scene that I had overheard was | 
+0	| fortune '' they plainly meant neither more nor less than a common pirate , and the little scene that I had overheard was | 
+0	| a common pirate , and the little scene | 
+0	| a common pirate | 
+0	| the little scene | 
+0	| the last act in the corruption of one of the honest hands -- perhaps of the last one | 
+0	| the corruption of one of the honest hands -- perhaps of the last one | 
+0	| one of the honest hands -- perhaps of the last one | 
+0	| the last one | 
+0	| third | 
+0	| this point I was soon to be relieved , for Silver giving a little whistle | 
+0	| a little | 
+0	| a third man | 
+0	| the party | 
+1	| Dick | Dick | He | no fool , is Dick | no fool | Dick | he | his | he | I | I | me | I | I | I | I | Dick | you | you | you | you | you | Dick | me | you | Dick | Dick | him | Dick | Dick | his | Dick | 
+0	| Dick 's square | square | 
+0	| the voice of the coxswain , Israel Hands | the voice of Hands | 
+0	| the coxswain , Israel Hands | the coxswain | the coxswain | I | I | I | I | I | I | I | I | I | I | the coxswain | 
+0	| his quid and spat | 
+0	| Barbecue : how long are we a-going | 
+0	| we | 
+0	| a blessed bumboat | 
+0	| a ` most enough o ' | 
+1	| Cap'n Smollett | Cap'n Smollett | Cap'n Smollett | Cap'n Smollett | 
+0	| that cabin | 
+0	| their pickles and wines , and that | 
+0	| their pickles and wines | that | 
+0	| their | 
+0	| Israel | Israel | Israel | Israel | it | Israel when you see | Israel | 
+0	| your head | 
+0	| leastways | 
+0	| your ears | 
+0	| my son | 
+0	| you | you | you | you | you | we | We | We | That | us | we | 
+0	| The last moment | that | 
+0	| a first-rate seaman , Cap'n Smollett | 
+0	| a first-rate seaman | 
+0	| the blessed ship for us | 
+0	| us | us | we | us | 
+0	| a map and such | 
+0	| a map | it | 
+0	| such | 
+0	| the stuff | it | 
+0	| sons of double Dutchmen | 
+0	| double Dutchmen | 
+0	| you | I | my | I | I | I | 'em | my | I | 
+0	| one | 
+0	| a course | your course | 
+0	| the trades | 
+0	| no blessed miscalculations and a spoonful of water a day | 
+0	| no blessed miscalculations | 
+0	| a spoonful of water a day | 
+0	| water a day | 
+0	| a day | 
+0	| the sort you are | 
+0	| the island , as soon 's the blunt 's on board , and a pity it is | 
+0	| the island | it | 
+0	| the blunt 's on board , and a pity it is | 
+0	| the blunt 's on board | 
+0	| a pity it is | 
+0	| my sides | 
+0	| a sick heart to sail with the likes of you | 
+0	| the likes of you | 
+0	| Easy all , Long John | 
+0	| Easy all | 
+0	| a-crossin ' of you | I | me | I | I | I | 
+0	| you | 
+0	| tall ships | ye | 
+0	| brisk lads | 
+0	| the sun at Execution Dock | 
+0	| Execution Dock | 
+0	| `` And all for this same hurry and hurry and hurry | 
+0	| And all for this same hurry | hurry and hurry | 
+0	| You | you | your | you | you | you | you | You | your | 
+0	| two | two | 

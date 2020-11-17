@@ -1,0 +1,392 @@
+0	| Casti | Casti | Casti | Harriet Casti | Harriet Casti who lay there | her | 
+0	| Waymark and Casti | their | They | 
+0	| their Christmas Eve | 
+1	| Waymark | Waymark | himself | him | he | his | Waymark | Waymark | my | I | I | Waymark | Waymark 's | Waymark | him | Waymark | himself | He | him | Waymark | Waymark | he | himself in the dying man 's position | his | he | he | he | he | him | Waymark | him | he | I | Waymark | Waymark | his | Waymark | his | Waymark | I | I | me | he | me | I | I | Waymark | he | Waymark | He | Waymark | his | He | Waymark | Waymark | him | him | 
+1	| Ida | Ida and himself | Ida | Ida | they | Ida | Ida | Ida | I | Ida | Ida | Ida | Ida | Ida , in London | Ida | 
+0	| each other 's affairs | 
+0	| each other 's | the other 's | 
+0	| no mention of Ida | 
+0	| that parting | 
+0	| the hope which supported him | 
+0	| his friend | his friend 's | his friend | his friend 's | 
+1	| Julian | his suffering | he | his | he | Julian | I | my | Julian | his | He | his | himself | his | Julian | his | his | him | his | Julian | himself | Julian | Julian | himself | he | his | he | His | him | Julian 's | He | himself | he | he | his | he | his | he | Julian | my | Julian 's | Julian | Julian | Julian | his | him | Julian | Julian | Julian Casti | him | 
+0	| A month | 
+0	| months | 
+0	| the end | 
+0	| spite of his suffering | 
+0	| his duties | 
+0	| the hospital | 
+0	| a hint of this thought | 
+0	| this thought | this thought | 
+0	| both of them | me | 
+0	| them | 
+0	| a pause | 
+0	| some place | 
+0	| the sun | 
+0	| `` What an impossible idea | 
+0	| my living | 
+0	| she | she | 
+0	| a little | it | 
+0	| yours | You | your | 
+0	| the present case | it | 
+0	| an end of it | 
+0	| home to-morrow | 
+0	| We | 
+0	| your books and things | 
+0	| half an hour or so | them | 
+0	| _ Sic volo , sic jubeo | 
+0	| _ Sic volo | 
+0	| volo | 
+0	| pro ratione voluntas | 
+0	| _ '' And it | 
+0	| _ '' | it | _ | _ | _ | _ | 
+0	| the other 's opposition | 
+0	| the most determined effort | 
+0	| the full significance of the scheme | 
+0	| the scheme | 
+0	| a hopeful and commonplace aspect on his proposal | 
+0	| his proposal | 
+0	| his strength | It | 
+0	| then | then | 
+0	| his friend 's hands | 
+0	| some time | this time | 
+0	| his mind | his mind | 
+0	| rest with regard | the rest | 
+0	| the desertion of his wife | 
+0	| his wife | 
+0	| first | 
+0	| no one capable of judging the situation | itself | 
+0	| the situation | 
+0	| a shadow of blame | 
+0	| the first experience of peace | 
+1	| Harriet | herself | she | her | she | herself | her | Harriet | she | herself | Her | her | her | She | Harriet | she | Harriet | her | she | her | she | she | 
+0	| London | London | London | 
+0	| unworthy of a moment 's consideration | 
+0	| a moment 's consideration | 
+0	| a moment 's | a moment | a moment | it | 
+0	| her weekly remittance | 
+0	| an agent in London | 
+0	| events , any feeling | 
+0	| events | 
+0	| They | their | them | themselves | 
+0	| the Isle of Wight ; comfortably housed | the Isle of Wight | It | 
+0	| Wight | Wight | 
+0	| the sea before their eyes , and the boon of sunshine which Casti had so longed for | 
+0	| the sea before their eyes | 
+0	| their eyes | 
+0	| the boon of sunshine which Casti had so longed for | 
+0	| the invalid | the invalid 's | 
+0	| no impulse to resume literary work | 
+0	| the day | 
+0	| the morrow | 
+0	| the couch | 
+0	| the fireside | it | 
+0	| other times | 
+0	| a sitting attitude for long | 
+0	| long | 
+0	| His cough | 
+0	| the night | 
+0	| that fearful sound in the next room | 
+0	| the next room | the next room | 
+0	| such times | 
+0	| fancy | 
+0	| the dying man 's position | 
+0	| the dying man 's | 
+0	| the sweat of horror | 
+0	| his brow | 
+0	| the misery he could do so little to allay | 
+0	| one | 
+0	| the end a quiet one , and the consciousness of this | 
+0	| the end a quiet one | it | 
+0	| a quiet one | 
+0	| the consciousness of this | 
+0	| this | 
+0	| a calm moment | 
+0	| those fearful vigils | 
+0	| Julian 's days | 
+0	| the inevitable | 
+0	| the strength of that quiet which sometimes ensues upon despair | 
+0	| that quiet which sometimes ensues upon despair | 
+0	| the early May | 
+0	| a revival of inspiration | 
+0	| sight of his desperate condition | It | 
+0	| his desperate condition | 
+0	| once more of beginning the great poem | 
+0	| the great poem | 
+0	| his mind and heart | 
+0	| book of glorious vision | 
+0	| one | 
+0	| a splendid sunset | 
+0	| one evening | 
+0	| the two | it | 
+0	| the room in which they always sat | 
+0	| they | 
+0	| Seas of molten gold , strands and promontories of jasper and amethyst , illimitable mountain-ranges , cities of unimagined splendour | 
+0	| strands and promontories of jasper and amethyst | illimitable mountain-ranges | cities of unimagined splendour | 
+0	| jasper and amethyst | They | 
+0	| that extent of evening sky | it | 
+0	| evening sky | 
+0	| the vision wasted before the breath of night | 
+0	| the breath of night | 
+0	| night | night , ` cos he would ` ave it she 'd been a-doin ' what she ` ad n't ought -- '' | night | 
+0	| the lamp | 
+0	| Italy | 
+0	| that passage in the Georgics which glorifies Italy | It | 
+0	| the Georgics which glorifies Italy | 
+0	| my mood to-night | 
+0	| his Virgil | 
+0	| Medorum | 
+0	| Nec | 
+0	| Bactra | 
+0	| Sed neque Medorum silvae , ditissima terra , Nec pulcher Ganges atque auro turbibus Hermus Laudibus Italiae certent , non Bactra , neque Indi , Totaque | we | 
+0	| Sed neque Medorum silvae | her | her | 
+0	| Nec pulcher Ganges atque auro turbibus Hermus Laudibus Italiae certent | 
+0	| non Bactra | 
+0	| neque Indi | 
+0	| Totaque | 
+0	| Panchaia pinguis arenis | 
+0	| Julian 's eyes | 
+0	| the melody | it | 
+0	| both | we | 
+0	| a time | 
+0	| a gentle tremor in his voice , `` why do we never speak of her ? '' | 
+0	| his voice , `` why do we never speak of her ? '' | 
+0	| his voice | 
+0	| A short time | It | That | the time he | 
+0	| the need | 
+0	| no pain , but great happiness | 
+0	| no pain | 
+0	| a solemn smile | 
+0	| she | her | she | her | her | she | 
+0	| a remembrance , an ideal I once knew | 
+0	| a remembrance | an ideal I once knew | 
+0	| The noblest and sweetest woman | They | they | 
+0	| subdued voices , reverently and tenderly | 
+0	| subdued voices | 
+0	| what he knew or divined of the life she was now leading , her beneficent activity , her perfect adaptation to the new place she filled | 
+0	| the life she was now leading | 
+0	| her beneficent activity | her perfect adaptation to the new place she filled | 
+0	| the new place she filled | 
+0	| second | 
+0	| a little while | 
+0	| you | your | 
+0	| your second letter | 
+0	| no answer | 
+0	| his friend 's hand | 
+0	| good night | 
+0	| morning | 
+0	| the invalid 's health | 
+0	| the usual breakfast-time | her | 
+0	| his door | 
+0	| no result | The result of it | 
+0	| the | 
+0	| this same day | 
+0	| her houses | the houses | 
+0	| Elm Court | the Court | the Court | 
+0	| Litany lane and Elm Court | the Lane and the Court | 
+0	| Litany lane | the Lane | the Lane | the Lane | Lane | Litany Lane | 
+0	| a changed appearance | 
+0	| the inmost recesses of the Court | 
+0	| the fronts of the houses | fresh white-washed ; in the Lane | 
+0	| Even the pavement and the road-way | 
+0	| the pavement | the pavement | 
+0	| the road-way | 
+0	| an improvement | 
+0	| you | 
+0	| garrets and cellars | 
+0	| you | 
+0	| squalor and dilapidation ; poverty | 
+0	| an attempt at cleanliness | that | it | 
+0	| a landlord 's care | it | 
+0	| a landlord 's | 
+0	| The stair-cases | 
+0	| rotten pit-falls | 
+0	| the ceilings | 
+0	| traces of recent care ; the walls no longer dripped with moisture | 
+0	| the walls no longer dripped with moisture | 
+0	| patches of filth | 
+0	| the appearance of the inhabitants | 
+0	| the inhabitants | 
+0	| comforting assurances of progressing reform , results of a supervision which was never offensive , never thoughtlessly exaggerated | 
+0	| reform , results of a supervision which was never offensive , never thoughtlessly exaggerated | 
+0	| results of a supervision which was never offensive , never thoughtlessly exaggerated | 
+0	| a supervision which was never offensive , never thoughtlessly exaggerated | 
+0	| Especially in the condition of the children improvement | 
+0	| the condition of the children | 
+0	| the children | 
+0	| Lodgers in the Lane and the Court | them | themselves | them | 
+0	| stability of tenure | 
+0	| this singular lady-landlord something | that | 
+0	| those who were capable of adjusting themselves to the new _ regime _ found , on the whole , that things went vastly better with them , such as could by no means | their | themselves | 
+0	| the new _ regime _ | 
+0	| the whole , that things went vastly better with them | 
+0	| the whole | 
+0	| things | 
+0	| no means | means | 
+0	| their love of filth | 
+0	| the notice to quit | 
+0	| a little sum of ready money to cover the expenses of removal | 
+0	| the expenses of removal | 
+0	| those whom Ida called upon this afternoon | her | her | she | her | she | me | I | I | myself | 
+0	| this afternoon | 
+0	| an old woman who , in addition to her own voluminous troubles , was always in a position to give a _ compte-rendu _ of the general distress of the neighbourhood | 
+0	| addition to her own voluminous troubles | 
+0	| her own voluminous troubles | 
+0	| a position | 
+0	| a _ | 
+0	| compte-rendu _ of the general distress of the neighbourhood | 
+0	| the general distress of the neighbourhood | 
+0	| the neighbourhood | 
+0	| People | their | your | 
+0	| her eloquence | 
+0	| use of in their own service | 
+0	| their own service | 
+0	| reality holding a brief from this or that neighbour , marked , not indeed in guineas , but in `` twos '' of strong beverage , obtainable at her favourite house of call | 
+0	| a brief from this or that neighbour , marked , not indeed in guineas | 
+0	| this | 
+0	| neighbour , marked | 
+0	| guineas | 
+0	| `` twos '' of strong beverage | 
+0	| her favourite house of call | 
+0	| such a brief | 
+0	| usually urgent in the representation of a deserving case | 
+0	| the representation of a deserving case | 
+0	| a deserving case | the case | this case | the case | 
+0	| Miss Woodstock | it | It | Miss Woodstock , mem | Miss Woodstock | it | a mercy as she ` as n't been run over in the public street long ago | Miss Woodstock | 
+0	| one 's | 
+0	| mem , there 's a poor young ` oman a-lyin ' at the Clock ` Ouse , as it really makes one 's ` art | her | she | she | she | her | her | her | mem , not two weeks ago | 
+0	| a poor young ` oman a-lyin ' at the Clock ` Ouse | it | 
+0	| the Clock ` Ouse | the Clock ` Ouse , mem | the Clock | 
+0	| Ouse | Ouse , mem | Ouse | 
+0	| one 's ` art | 
+0	| a widder | 
+0	| an ' pr ` aps it 's as well she should be , seein ' how shockin ' her | he | he | bein ' done as he did by | he | an | an | an | An | you know her | an | 
+0	| seein ' how shockin ' her | 
+0	| her afore | 
+0	| no doubt | 
+0	| her sufferin | She | she ` as n't been run over in the public street long ago | I 'm told , an | I 'm told | she | her | her | 
+0	| 's | 
+0	| fits | 
+0	| everywheres | They | they | 
+0	| the public street | 
+0	| hepiplectic fits , I 'm told , an ' | 
+0	| hepiplectic fits | 
+0	| laws | 
+0	| o ' me | 
+0	| the way | 
+0	| the mouth | 
+0	| her ` usband 's etrocious treatment | 
+0	| usband 's | he | He | he | his | 
+0	| a man | 
+0	| a gentleman | 
+0	| jealous of the pore innocent thing , mem -- castin ' in her teeth things | 
+0	| the pore innocent thing , mem | 
+0	| the pore innocent thing | the pore thing 's | 
+0	| castin ' in her teeth things | 
+0	| her teeth things | 
+0	| your presence , Miss Woodstock | 
+0	| your presence | 
+0	| Many 's the time he | her | she | she | she | she | she | 
+0	| her black an | 
+0	| blue , when she jist went out to get a bit o ' somethink for his tea at night , ` cos he would ` ave it she 'd been a-doin ' what she ` ad n't ought -- '' `` Where is she ? '' | 
+0	| blue | 
+0	| a bit o ' somethink for his tea | he | 
+0	| his tea | it | 
+0	| cos he would ` ave it she | 
+0	| a-doin ' what she ` ad n't ought | 
+0	| ad n't | 
+0	| the features of the case | 
+1	| Mrs. Sprowl 's | her | her | She | her | Mrs. Sprowl | Sprowl | she | Mrs. Sprowl | her | her | she | She | she | she | ` ceptin ' Mrs. Sprowl | Sprowl | her | her | I | I | I | I | I | her | she | she | She | Mrs. Sprowl 's | she | Mrs. Sprowl | Sprowl | 
+0	| a mother | 
+0	| the pore thing 's ` appy days , before ever she married | 
+0	| the pore thing 's ` appy days | it | its | 
+0	| her pore life | 
+0	| the expense ; its a terrible responsibility , owin ' | the expense | 
+0	| its a terrible responsibility , owin | 
+0	| a terrible responsibility | 
+0	| the hepiplectic ailment , mem | 
+0	| the hepiplectic ailment | 
+0	| you | They | 
+0	| the pore creature | 
+0	| a friend | her friend | 
+0	| the world , ` ceptin ' Mrs. Sprowl | 
+0	| the world | It | a Irish name | 
+0	| less than a mother | 
+0	| Casty | Casty | her | her | 
+0	| Mrs. Casty | this `` Mrs. Casty '' | she | her | her | she | herself | She | pore Mrs. Casty , '' after a quarrel with her friend Mrs. Sprowl | pore Mrs. Casty | 
+0	| ` lieve , an ' I ca n't say as I 'm partial to the Irish , but | 
+0	| the Irish | 
+0	| no attention to the blessings | 
+0	| the blessings | 
+0	| the counsel in this case , blessings to which she was accustomed | 
+0	| this case , blessings to which she was accustomed | 
+0	| blessings to which she was accustomed | 
+0	| the value | 
+0	| Clock House | 
+0	| the Clock House | 
+0	| a quiet street | 
+0	| some little distance | 
+0	| a while | 
+0	| The calumnies against her husband | 
+0	| her husband | 
+0	| the public-house | 
+0	| personal inquiries | 
+0	| this | a needless imprudence | 
+0	| such an interview | 
+0	| Hurst | Miss Hurst | Miss Hurst | 
+0	| once despatched Miss Hurst to the Clock House | 
+0	| her real condition | 
+0	| That lady | 
+0	| the sick woman 's identity | 
+0	| the sick woman 's | 
+0	| m a sad state , clearly incapable of supporting herself by any kind of work | 
+0	| a sad state | 
+0	| Her husband -- Miss Hurst was told -- | 
+0	| Mrs. Sprowl 's charity | 
+0	| the workhouse | 
+0	| This story | It | 
+0	| a few lines | 
+0	| the old address | 
+0	| a speedy reply | 
+0	| the grave | 
+0	| receipt of money | it | 
+0	| the course of a week | 
+0	| a week | 
+0	| a place | it | 
+0	| a hospital near London | 
+0	| her ailments | 
+0	| a lady who had been told of the case , and wished to give what aid she could | 
+0	| what aid she could | 
+0	| The offer | 
+0	| a fit | 
+0	| her neck | 
+0	| a day when there came to him a letter from Miss Bygrave | 
+0	| a letter from Miss Bygrave | 
+0	| Miss Bygrave | 
+1	| Maud | she | her | she | her | she | her | she | her | 
+0	| Maud 's resolve | 
+0	| aunt and niece | their | 
+0	| members of `` the true Church | 
+0	| the true Church | 
+0	| a sisterhood | 
+0	| a midland town , where their lives would be devoted to work of charity | 
+0	| a midland town | 
+0	| their lives | 
+0	| this | 
+0	| a letter | 
+0	| a hand | 
+0	| a flush on her face | 
+0	| her face | 
+0	| the pallor of a sudden joy almost too great to be borne | 
+0	| a sudden joy almost too great to be borne | 
+0	| one | 
+0	| The letter | a long one | 
+0	| the story of several years of the writer 's life | 
+0	| several years of the writer 's life | 
+0	| the writer 's life | 
+0	| the writer 's | 
+0	| words which danced in golden sunlight before her tear-dimmed eyes | 
+0	| her tear-dimmed eyes | 
+0	| an hour | it | 
+0	| only a few minutes | 
+0	| her pen | 

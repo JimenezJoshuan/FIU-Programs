@@ -1,0 +1,969 @@
+0	| A deep breath of country air . | It | 
+0	| you | 
+0	| country air | 
+0	| this the last time | 
+0	| Wanley | New Wanley | Wanley | Wanley | Wanley | Wanley | the Wanley | 
+0	| One | it | a question of the merest curiosity | 
+0	| the valley of Wanley | the valley | 
+0	| the foot of Demos | 
+0	| Demos | 
+0	| that way | that way | that way | 
+0	| Incredible that the fume of furnaces ever desecrated that fleece-sown sky of tenderest blue , that hammers clanged and engines | 
+0	| the merest curiosity | 
+0	| Incredible that the fume of furnaces ever desecrated that fleece-sown sky of tenderest blue , that hammers clanged | 
+0	| the fume of furnaces | 
+0	| furnaces | 
+0	| tenderest | his | 
+0	| hammers | 
+0	| the distance between | 
+0	| engines | 
+0	| us | 
+0	| the thrush | 
+0	| his song | 
+0	| that money in the thought | it | It | It | 
+1	| Hubert Eldon | his | Hubert Eldon | Hubert Eldon | him | Mr. Eldon | Mr. Eldon | him | him | he | he | Mr. Eldon | Eldon | Mr. Eldon | Mr. Eldon | 
+0	| his word | the word | 
+0	| no trace | 
+0	| the opposite effect | 
+0	| You | 
+0	| Stanbury Hill | the hill | the hill | 
+0	| Belwick | Belwick | Belwick | Belwick | 
+0	| you | 
+0	| we | we | 
+0	| the top of Stanbury Hill | the top of the hill | 
+0	| your sympathies | 
+0	| the sense of remoteness and security | 
+0	| your | 
+0	| remoteness and security | 
+0	| you | 
+0	| the horizon | 
+0	| your interests | 
+0	| the cloud that hangs over Belwick | 
+0	| your | 
+1	| Hubert | Hubert | Hubert | Hubert | Hubert | Hubert | Hubert | Hubert 's | he | Hubert 's | he | Hubert | Hubert , his eyes still on her | Hubert | his | he | Hubert | Hubert | he | he | him | he | he | he | him | him | him | he | his | he | 
+0	| much the same as mine | the same | 
+0	| one | 
+0	| you | 
+1	| Richard Mutimer | Mutimer | Mutimer | Mutimer | Mutimer | Mutimer | Mutimer | Mutimer | Mr. Mutimer 's | 
+0	| that side of your nature | 
+0	| Hubert and the vicar of Wanley | 
+0	| the vicar of Wanley | 
+0	| your | 
+0	| one morning | 
+0	| You | 
+0	| late April | 
+0	| more than a year after the death of Richard Mutimer | 
+0	| the death of Richard Mutimer | Richard 's death | 
+0	| one | 
+0	| a strong breeze on this point | it | 
+0	| this point | 
+0	| the west | its | 
+0	| but one purpose , which is a vain one | 
+0	| its gentlest , warm upon the cheek | 
+0	| but one purpose | 
+0	| its gentlest | 
+0	| a vain one | 
+0	| the cheek | 
+0	| you | 
+0	| May | 
+0	| You | 
+0	| one | 
+0	| convictions and purposes | 
+0	| one sense | it | Its | that sense | 
+0	| you | 
+0	| the vicar | The vicar | the vicar , smiling | the vicar | smiling | him | 
+0	| they | 
+0	| I | I | I | myself | I | I | I | I | I | I | her in the `` Belwick Chronicle '' yesterday | me | me | I | I | I | me , that has nothing to do with the matter | me | me | I | I | my | I | I | my | I | I | I | I | I | I | I | I | me | me | I | I | I | myself | my | I | me | I | I | I | I | I | me | I | I | I | I | I | me | I | a married woman | I | I | my | I | I | I | my | I | I | I | I | I | I | I | I | me | I | my | I | I | my | me | My | me | I | me | me | I | I | I | I | I | I | I | I | I | I | I | I | I | I never | I | I | I | I | I | I | I | me | I | my | I | me | I | I | I | I | I | I | I | I | I | I | I | I | I | my | me | I | my | I | I | I | I | I | me | I | my | I | I | I | I | I | me | I | I | my | me | me | I | I | my | I | I | I | myself | I | me | I | I | I | I | I | I | I | I | my | I | me | me | me | I | me | my | I | my | I | my | I | my | I | I | myself | me | I | my | myself | me | I | I | 
+0	| the intellect | it | the intellect | 
+0	| my passion | 
+0	| Its influence on the life of the people in Wanley and in some of the farms about | it | 
+0	| We | 
+0	| the life of the people in Wanley | my life I can not | that | her life | her life | her life | itself | her life | my life | my life | my life | 
+0	| you | 
+0	| the people in Wanley | They | 
+0	| you | 
+0	| some of the farms about | 
+0	| the farms about | 
+0	| you | 
+0	| my tongue | It | 
+0	| Bolton 's | 
+0	| The typical case | 
+0	| you | 
+0	| lad of Bolton 's | him | he | his | he | 
+0	| this time | this time | 
+0	| one | 
+0	| She | 
+0	| his unfortunate father | 
+0	| one step | 
+0	| him | 
+0	| You | 
+0	| those differences which you say | 
+0	| the revolutionary oracle of Belwick pot-houses | 
+0	| you | 
+0	| Belwick pot-houses | 
+0	| an average once a fortnight before the magistrates | 
+0	| a fortnight | a fortnight | 
+0	| the magistrates | 
+0	| the march of progress | 
+0	| There _ | _ a distance between us | 
+0	| a little | 
+0	| a distance between us | 
+0	| us | 
+0	| the grass and the trees | 
+0	| my ends | 
+0	| the grass | 
+0	| the trees | 
+0	| yours | 
+0	| other people | They | happy people | themselves | them | 
+0	| the present | mine to make myself what you would have me | 
+0	| the results | 
+0	| a van of the Edgeworths ' furniture coming to the Manor | 
+0	| the Edgeworths ' furniture coming to the Manor | 
+0	| you | 
+0	| the Edgeworths ' | 
+0	| the Manor | the Manor | 
+0	| no law but your desire | 
+0	| no law | 
+0	| Something like an ideal married couple , and with nothing | 
+0	| an ideal married couple | 
+0	| your | 
+0	| you | 
+0	| he | he | his | 
+0	| you | 
+0	| her | her | her | she | her | 
+0	| long a lease | 
+0	| eyes on fire | 
+0	| Mr. Wyvern | Mr. Wyvern | Mr. Wyvern | Mr. Wyvern | his | Mr. Wyvern | his | Mr. Wyvern | Mr. Wyvern | 
+0	| their | 
+0	| work to do | it | 
+0	| that house | their house | the house | the house | the house | 
+0	| twenty years | it | years | Years | years | 
+0	| the untruth of years | 
+0	| a monomania , and one of a very loathsome kind | They | 
+0	| a veil | 
+0	| a monomania | 
+0	| one of a very loathsome kind | 
+0	| her womanhood | 
+0	| a few paces | 
+0	| Agworth | 
+0	| the `` Belwick Chronicle '' | the `` Chronicle | the `` Chronicle | 
+0	| yesterday | 
+0	| morning Something on the placard in Agworth station | her something | 
+0	| the placard in Agworth station | 
+0	| Agworth station | 
+0	| a copy | 
+0	| Tory | 
+0	| The Tory paper | it | the paper | this paper | 
+0	| a leader a day or two ago on Socialism | They | 
+0	| a leader a day | 
+0	| a day | 
+0	| two ago on Socialism | two | two | two | The two | two | it | it | two | two | 
+0	| an unmistakable way -- the old scandal of course | this way | it | a good thing , speaking generally | a good thing | it | That | the easier thing to do , be sure of it -- for _ | it | her _ | this way | this way | 
+0	| the old scandal of course | 
+0	| She | she | her | 
+0	| a letter | the letter | a letter | it | a letter | 
+0	| the editor | he | 
+0	| no attention | it | 
+0	| a leader | He | his | 
+0	| the subject -- party capital , of course | 
+0	| party capital , of course | 
+0	| party capital | 
+0	| a bitter tone | her tone | 
+0	| his companion | her | his companion | her | her companion | 
+0	| her name | 
+0	| such places | 
+0	| us | 
+0	| this | 
+0	| You | 
+0	| Your personal feeling | 
+0	| Your | 
+0	| you | 
+0	| her behaviour | 
+0	| her | 
+0	| his innocence | his innocence | it | 
+0	| his | his | his | his | 
+0	| the matter | 
+0	| we | 
+0	| this | 
+0	| She | herself | her | she | 
+0	| her supreme duty to defend his memory | My duty | 
+0	| his memory | his memory | 
+0	| spite of all the evidence that was brought on his side | it | It | a miserable destiny | 
+0	| his side | 
+0	| the dastardly spirit of politics | that spirit | 
+0	| politics | 
+0	| a sort of historical character , a type of the hypocritical demagogue | 
+0	| a type of the hypocritical demagogue | 
+0	| the hypocritical demagogue | 
+0	| a more evil significance | the significance of the | 
+0	| a man 's name | his name | 
+0	| a man 's | his | his | a man | he | 
+0	| that which Mutimer bears , and will continue to bear , among certain sections of writing and speechifying vermin | 
+0	| certain sections of writing and speechifying vermin | 
+0	| his faults in this way | 
+0	| sort of reputations | 
+0	| reputations | 
+0	| the individual case | that case | it | 
+0	| you | 
+0	| his widow | her | her | her | 
+0	| _ | _ | _ | 
+0	| thousand | 
+0	| a thousand times the easier | 
+0	| one | it | my lot to know | 
+0	| the one entirely noble woman it has been my lot to know | 
+0	| you | 
+0	| you | 
+0	| a moment | It | 
+0	| her | her | 
+0	| her love | 
+0	| such a man as that | 
+0	| the landscape | 
+0	| a sad smile on his countenance | it | 
+0	| an end of it | 
+0	| you | 
+0	| we | 
+0	| other things | the things | 
+0	| a summer among the German galleries | 
+0	| the German galleries | 
+0	| You | 
+0	| your son | her son | her son 's | 
+0	| your | 
+0	| They | their | 
+0	| their walk | her walk | 
+0	| you | 
+0	| you | 
+0	| her love for Mutimer | 
+0	| you | 
+0	| such a question | it | 
+0	| a young man | he | he | 
+0	| the real belief | 
+0	| savage words | 
+0	| You | 
+0	| yourself | 
+0	| she | her | she | her | herself | she who under ordinary circumstances would have shrunk from that and all other _ isms _ | she | her | her | her | she | she | you , my good friend | 
+0	| her husband | him | her husband 's | his | her husband | her husband 's | no husband | her husband | her husband | He | He | himself | his | he | 
+0	| the true sense of the word | 
+0	| The conviction | 
+0	| Socialism | that | it | 
+0	| heart and soul | 
+0	| Socialism , she who under ordinary circumstances would have shrunk from that and all other _ isms _ | 
+0	| ordinary circumstances | the circumstances | 
+0	| that and all other _ isms | 
+0	| a special entreaty to me | 
+0	| her husband 's work | 
+0	| The zeal for his memory | it | 
+0	| her former state of mind | her state | 
+0	| Your vehemence | it | 
+0	| Your | 
+0	| you | 
+0	| these questions | 
+0	| another sense | 
+0	| the facts of her life | 
+0	| a hint or two , just to give you matter for thought | 
+0	| a hint | 
+0	| you | 
+0	| that step | 
+0	| you | my good friend | Our friend | 
+0	| Remember , too , her brother 's influence , and -- well , her mother 's | Remember , too , her brother 's influence , and -- well | Remember | her mother 's | her | she | she | she | she | her mother | her mother | her | your mother | she | She | her | her mother | she | my mother 's | her | her mother | she | 
+0	| her brother 's influence , and | 
+0	| brother 's influence , and | 
+0	| brother 's influence | 
+0	| brother 's | 
+0	| the evening before she accepted Mutimer | 
+0	| the Vicarage | 
+0	| you | 
+0	| the common impulse which sends young girls to their pastor when they are in grievous trouble and without other friends | it | 
+0	| young girls | their | they | 
+0	| their pastor | 
+0	| other friends | 
+0	| you | me of that | that | 
+0	| you | 
+0	| the truth | the truth | 
+0	| an awkward position | her position | 
+0	| her | her | 
+0	| the next morning | morning | this morning | this morning | this morning | Next morning | morning | 
+0	| the engagement | 
+1	| Adela | me of her visit | her | she | Her | her | Adela | Adela 's | Adela | her | She | her | She | her | Adela 's | Her | Adela | herself in modified mourning | her | Adela 's | her | she | her | her | Adela | Adela | Adela 's | Adela | her | she | her | She | Adela , overcome by the latter 's goodness | Adela | her | she | Adela | her | She | her | she | her | she | Adela | her | Adela | Adela | her | she | her | her | she | she | she | Adela | Adela | she | her | Adela | her | Adela | Adela , hat in hand | Adela | Adela | Adela | Adela | her | Adela | Adela | Adela | her | she | Adela | she | Adela | herself | she | Adela | Adela | her | her | her | Adela | Adela | she | Adela | Adela | she | her | She | she | Adela | her | her | Adela | Adela , on the evening when she first met her in the room where Mutimer lay dead | Adela | she | her | she | She | her | Adela 's | Adela | Adela | Adela | she | Adela | she | her | Adela | she | she | Adela | her | her | her | she | her | her | her | she | herself | her | her | She | her | her | She | she | her | her | she | her | Adela | her | her | she | herself | Adela | her | she | her | Adela 's | her | her | she | her | She | her | 
+0	| her visit | 
+0	| quite other reasons | 
+0	| Her subsequent behaviour | 
+0	| one | 
+0	| a woman of her character | 
+0	| her character | his | 
+0	| only one course | it | 
+0	| one | 
+0	| his wife | her | her | her | her | his wife | His wife | 
+0	| this | it | it | 
+0	| the eyes of others | 
+0	| others | 
+0	| the eyes of one | 
+0	| no light on your meeting with her | 
+0	| your meeting with her | 
+0	| your | 
+0	| the wood , of which you make so much | 
+0	| the wood | the wood | 
+0	| you | 
+0	| an instant | it | 
+0	| a fanciful sketch of how a woman 's life _ might _ be ordered | 
+0	| a woman 's life _ | 
+0	| a woman 's | A woman | her | She | she | 
+0	| Such a life | its | Life | 
+0	| its dignity | 
+0	| Neither | 
+0	| a while | 
+0	| London | London | London | London | London | London | 
+0	| You | 
+0	| Mrs. Westlake | Westlake | Mr. Westlake | she | she | She | Mrs. Westlake | Mr. Westlake | her | she | she | her | herself | she | she | she | she | she | her | her | She | herself | she | she | her | her | her | her | her | she | She | her | her | she | her | She | her | She | the girl who questioned her heart as to the significance of the vows required in the marriage service | her | she | her | Her | her | 
+0	| you | 
+0	| Mrs. | her | Mrs. | 
+0	| the other | 
+0	| They | 
+0	| The Walthams | 
+0	| Alfred Waltham 's | he | his | Mrs. Waltham | Waltham | Mrs. Waltham | Mrs. Waltham | Waltham | his | Mrs. Waltham | Waltham | Mrs. Waltham | Waltham | 
+0	| A year | it | 
+0	| the necessities of Alfred Waltham 's affairs | 
+0	| Alfred Waltham 's affairs | 
+0	| a change ; he and his wife | the change | it | the change | it | it | the change | its | that change | it | 
+0	| he and his wife | their | 
+0	| their two children , together with Mrs. Waltham the dowager | 
+0	| their two children | the children | her children | 
+0	| the dowager | 
+0	| the auctioneers | 
+0	| a commodious residence | 
+0	| the outskirts of Belwick | 
+0	| Alfred | he | him | his | His | he | that | Alfred | that Alfred | Alfred | 
+0	| time for him to have an eye to civic dignities , if only a place on the Board of Guardians to begin with | 
+0	| an eye | his eye | 
+0	| civic dignities | 
+0	| only a place on the Board of Guardians | 
+0	| the Board of Guardians | 
+0	| Our | 
+0	| his political and social opinions | 
+0	| Socialist papers | 
+0	| a daily of orthodox Liberal tendencies -- that is to say , an organ of capitalism | 
+0	| orthodox Liberal tendencies -- that is to say , an organ of capitalism | 
+0	| an organ of capitalism | 
+0	| Letty | her | her | she | her | Letty | she | her | Letty , walking with her in the garden | Letty | Letty | Letty | Letty best succeeded in conciliating her , for Letty | Letty | her | Letty | Letty | she | she | she | herself | She | She | Letty | her | she | Letty | Letty | she | Letty | she | her | her | her | her | her | she | her | she | She | her | she | Letty | Letty | her | She | her | 
+0	| their | 
+0	| three months | 
+0	| her husband 's death | 
+1	| Stella | Stella | They | their | Stella | Stella 's | Stella 's | Stella | Stella 's | Stella and those toilers , however noble and devoted | Stella and those toilers | Stella | Stella | Stella , Stella | Stella | they | Stella | Stella | Stella | Stella | Stella 's | them | Stella | 
+0	| The intermediate time | 
+0	| Belwick -- Letty in particular , who , though a matron with two bouncing boys , still sat at Adela 's feet and deemed her the model of womanhood | 
+0	| Letty in particular , who , though a matron with two bouncing boys , still sat at Adela 's feet and deemed her the model of womanhood | 
+0	| particular , who , though a matron with two bouncing boys , still sat at Adela 's feet and deemed her the model of womanhood | 
+0	| particular | 
+0	| a matron with two | her | 
+0	| boys | they | 
+0	| Adela 's feet | his feet | 
+0	| the model of womanhood | 
+0	| a great deal | 
+0	| her own room | 
+0	| her habits | 
+0	| an hour | 
+0	| household duties | 
+0	| Adela 's room | the room | The room | it | the room | the room | the room | the room | 
+0	| wise and tender words in which | 
+0	| her heart delighted | her heart | her heart | it | her heart | 
+0	| Her pride in Adela | 
+0	| the day when the latter first attired herself in modified mourning | 
+0	| the latter first | first | first | first | first | 
+0	| modified mourning | 
+0	| the garden | the garden | the garden | 
+0	| Adela 's dress | 
+0	| You | 
+0	| spite of a tremor which almost checked her in uttering a compliment which her sister might think too frivolous | 
+0	| a tremor which almost checked her in uttering a compliment which her sister might think too frivolous | 
+0	| a compliment which her sister might think too frivolous | 
+0	| her sister | 
+0	| one | it | 
+0	| the beautiful face | its | her face | her face | his face | It | it | her face | her face | 
+0	| its pallor | 
+0	| this same spring | 
+0	| leave of Wanley | 
+0	| Mrs. Waltham and Letty | 
+0	| a visit Adela was about to pay to Stella in London | 
+0	| a visitor of their own , or , perhaps , rather of Adela 's , who had been in the house for a fortnight and would return to London on the morrow | 
+0	| a visitor of their own | the visitor | 
+0	| their own | her own | 
+0	| rather of Adela 's , who had been in the house for a fortnight and would return to London on the morrow | 
+0	| the morrow | 
+0	| This | 
+1	| Alice | Alice | Alice | Alice | Alice | Alice | Alice | you , Mrs. Mutimer | you | Mrs. Mutimer | Alice | Alice | Alice | Alice | Alice | Alice | Mrs. Mutimer | Alice | Mrs. Mutimer | 
+0	| Mrs. Rodman | her | her | Rodman | her | she | 
+0	| her mother in Wilton Square since her recovery | her | her | her | she | her | ` Oh , mother ! ' | 
+0	| Wilton Square since her recovery | Wilton Square | 
+0	| her recovery | 
+0	| the illness which for a long time had kept her in ignorance of the double calamity fallen upon her | 
+0	| a long time | a long time | a long time | a long time | 
+0	| ignorance of the double calamity fallen upon her | 
+0	| the double calamity fallen upon her | 
+0	| Adela who at length told her that she had no husband , and that her brother Richard was dead | her | her | she | herself | she | she | her | her | she | she | her | she | 
+0	| her brother Richard | Richard 's | 
+0	| Neither disclosure | 
+0	| The months of mental desolation followed by physical collapse | 
+0	| her powers of suffering | 
+0	| several days | 
+0	| a good deal | 
+0	| no bitter grief | 
+0	| little of the man who had so grossly | it | it | 
+0	| the man who had so grossly | he | him | his | 
+0	| evidence against him | 
+0	| one of enfeebled vitality | 
+0	| a child in all the concerns of life | 
+0	| a kindness to invite her to Belwick and Alice at once accepted the invitation | 
+0	| Belwick and Alice | 
+0	| once accepted the invitation | once | once | 
+0	| the invitation | 
+0	| her ease in the house | 
+0	| the latter 's goodness | 
+0	| the latter 's | The latter | 
+0	| her nature | 
+0	| the kind to grow in liberal feeling | 
+0	| Mrs. Waltham the elder she avoided as much as possible . | her | 
+0	| the elder | 
+0	| as much | 
+0	| a child | she | her | the child | 
+0	| one day | that day | 
+0	| nursery duties | duties | 
+0	| her cheeks | 
+0	| you | 
+0	| us | us | that | us | 
+0	| better spirits | 
+0	| her good | 
+0	| here | 
+0	| the visit to be repeated | 
+0	| home with us | it | It | 
+0	| her blood , of course | 
+0	| her blood | her blood | 
+0	| an inferior class | her class | 
+0	| dreadful things | 
+0	| Dreadful , indeed , my dear ; but after all such things | 
+0	| Dreadful , indeed | It | That | 
+0	| Dreadful | my dear ; but after all such things | those things | 
+0	| ladies | 
+0	| We | that | 
+0	| you or Adela | 
+0	| you | 
+0	| That , of course | 
+0	| persons of her class | 
+0	| quite the same feelings | 
+0	| ` Oh | 
+0	| less | the less | 
+0	| You | that | 
+0	| you | 
+0	| such a thing | 
+0	| his views of late | 
+0	| late | 
+0	| few joys for her | 
+0	| you | 
+0	| the light of freedom | 
+0	| one | 
+0	| her manner | 
+0	| an unconscious dignity which made her position in the house one of recognised superiority | 
+0	| position in the house one of recognised superiority | 
+0	| the house one | 
+0	| reserve in her presence | 
+0	| her presence | 
+0	| the midst of a tirade | 
+0	| a tirade | 
+0	| happiness to live with her ; where she moved there breathed an air of purity and sweetness | 
+0	| there breathed an air of purity and sweetness | 
+0	| an air of purity and sweetness | 
+0	| purity and sweetness | 
+0	| a reply | 
+0	| the negative | 
+0	| That article in the paper | 
+0	| such a thing | It | it | 
+0	| letters | 
+0	| the newspapers | 
+0	| we | we | 
+0	| ordinary people | people | 
+0	| that money | it | her money | 
+0	| those wretches in London | they | 
+0	| The bloodthirsty creatures ! ' | 
+0	| The | the | 
+0	| defence of Adela | it | 
+0	| we | 
+0	| ` Perhaps so , my dear , ' | 
+0	| Perhaps so | my dear | 
+0	| her own opinion | 
+0	| that of anyone else | 
+0	| anyone else | 
+0	| the garden for a few minutes | 
+0	| a few minutes | 
+0	| Alice coming towards her | 
+0	| The poor Princess | her | 
+0	| a bright look | 
+0	| some joyful news | 
+0	| a friendly smile | 
+0	| someone you used to know | 
+0	| you | 
+0	| the road | 
+0	| You | 
+0	| Mr. Keene | him | He | he | He | him | Mr. Keene | him | His | he | his | he | his | Mr. Keene | Keene | he | He | 
+0	| you | 
+0	| you | 
+0	| a look of curiosity | 
+0	| They | 
+0	| the garden gate | 
+0	| His appearance | a great improvement on the old days | 
+0	| the old days | 
+0	| a beard | 
+0	| you | 
+0	| the responsible editor | 
+0	| his manner of approaching Adela , hat in hand | 
+0	| hat in hand | 
+0	| reminiscences of the footlights | 
+0	| the footlights | 
+0	| a great pleasure to me to see you , Mrs. Mutimer | 
+0	| my few comments on your admirable letter | 
+0	| your admirable letter | 
+0	| your | 
+0	| a nature to afford you satisfaction | your nature | 
+0	| you | 
+0	| you | 
+0	| You | 
+0	| my desire | 
+0	| the town | 
+0	| a farewell | 
+0	| you | 
+0	| Mr. Keene a long time | He | him | he | him | He | he | 
+0	| a look | 
+0	| a leaf | 
+0	| an elder bush | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| her joy | It | almost exultation | their joy | 
+0	| her | 
+0	| Natural enough under the circumstances , poor , disinherited Princess ! | 
+0	| the circumstances , poor , disinherited Princess | 
+0	| poor , disinherited Princess | she | she | She | 
+0	| a name | the name | the name | 
+0	| we | we | 
+0	| three weeks | 
+0	| He | him | 
+0	| a house | it | 
+0	| you | 
+0	| the first time a week | the first time | 
+0	| a week | 
+0	| your | 
+0	| you | 
+0	| Harry | He | 
+0	| you | 
+0	| you | 
+0	| her head | her head | 
+0	| we | 
+0	| the better | better here | better | 
+0	| the bad | it | It | 
+0	| no help for it | 
+0	| Adela and Alice | 
+0	| The former | 
+0	| one | 
+0	| the occasion of Richard 's death | 
+0	| the interview | an extremely difficult one , in spite of the old woman 's endeavour to be courteous | an extremely difficult one | 
+0	| spite of the old woman 's endeavour to be courteous | 
+0	| the old woman 's endeavour to be courteous | 
+0	| the old woman 's | The old woman | her | her | she | her | her | She | her | 
+0	| an object of insuperable prejudice | his object | It | 
+0	| the depth of the gulf which lies between the educated and the uneducated | 
+0	| the gulf which lies between the educated and the uneducated | 
+0	| the educated and the uneducated | 
+0	| the educated | 
+0	| the uneducated | 
+0	| her hand | 
+0	| an old-fashioned curtsey , which Adela felt to be half ironical | 
+0	| an old-fashioned curtsey | 
+0	| half | 
+0	| speaking of her son | 
+0	| the least symptom of the anguish which wrung her heart | 
+0	| the anguish which wrung her heart | 
+0	| the income which was continued to her son 's widow under the Wanley | 
+0	| her son 's widow | 
+0	| no scruple | 
+0	| the half which Adela offered her | 
+0	| board and lodgings | 
+0	| the income derived from letting as much of the house as possible | 
+0	| as much of the house | 
+0	| the roof of her dearest friend | 
+0	| her dearest friend | her | she | she | her | she | herself | she | she | her | she | She | her | she | herself | her | she | her | her | her friend 's | 
+0	| the sad past which afflicted her mind with the stress of a duty ever harder to perform | That | the past | 
+0	| her mind | 
+0	| the stress of a duty ever harder | 
+0	| a duty ever harder | 
+0	| an hour passed with Stella | 
+0	| the atmosphere of beauty and love | 
+0	| beauty and love | 
+0	| a sense of self-reproach | 
+0	| her and the book in which she tried to lose herself | 
+0	| the book in which she tried to lose herself | 
+0	| importunate visions of woe , of starved faces , of fierce eyes | 
+0	| starved faces , of fierce eyes | 
+0	| starved faces | 
+0	| fierce eyes | his eyes | her eyes | those eyes | his eyes | his eyes still on her | your eyes | 
+0	| The comfort she enjoyed , the affection and respect with which she was surrounded | 
+0	| the affection and respect with which she was surrounded | 
+0	| her conscience | 
+0	| Stella 's presence | his presence | 
+0	| Stella 's voice | The voice | it | that | 
+0	| a work in the cause of humanity other than that which goes on so clamorously in lecture halls and at street corners , other than that which is silently performed by faithful hearts and hands in dens of misery and amid the horrors of the lazar-house ; the work of those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best when nearest home | 
+0	| the cause of humanity | 
+0	| that which goes on so clamorously in lecture halls and at street corners , other than that which is silently performed by faithful hearts and hands in dens of misery and amid the horrors of the lazar-house ; the work of those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best | 
+0	| so clamorously in lecture halls and at street corners , other than that which is silently performed by faithful hearts and hands in dens of misery | they | 
+0	| lecture halls | 
+0	| street corners | 
+0	| that which is silently performed by faithful hearts and hands in dens of misery | that , Mrs. Mutimer ? ' | 
+0	| faithful hearts and hands | 
+0	| dens of misery | 
+0	| the horrors of the lazar-house ; the work of those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best | 
+0	| the lazar-house ; the work of those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best | 
+0	| the work of those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best | 
+0	| those whose soul is taken captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult , and , ever ready to minister in gentle offices , know that they serve best | 
+0	| captive of loveliness , who pursue the spiritual ideal apart from the world 's tumult | 
+0	| loveliness , who pursue the spiritual ideal apart from the world 's tumult | 
+0	| the spiritual ideal | 
+0	| the world 's tumult | 
+0	| the world 's | the world | the world | 
+0	| gentle offices | 
+0	| nearest | 
+0	| one | 
+0	| her natural mood | a profound humility | 
+0	| the active toilers , whose sweat was sacred | 
+0	| the active toilers | those toilers | 
+0	| such | 
+0	| the support which enabled her to pursue her path in peace -- a path not one with Stella 's | 
+0	| her path | 
+0	| peace -- a path not one with Stella 's | 
+0	| a path | 
+0	| that high-throned poet-soul Adela bent in humble reverence | She | herself | her | she | her | her | herself | her | she | she | her | 
+0	| no question of comparison | 
+0	| those | it | those highest | itself | 
+0	| faith and hope , of those highest | 
+0	| faith and hope | 
+0	| subordinate motives | 
+0	| the severance of ways | 
+0	| ways | 
+0	| her brow | 
+0	| the seal of election ; how could she ever have doubted the leading of that spirit that used her lips for utterance | 
+0	| election ; how could she ever have doubted the leading of that spirit that used her lips for utterance | 
+0	| the leading of that spirit that used her lips for utterance | 
+0	| lips for utterance | lips | 
+0	| the morning after her arrival in London | it | 
+0	| her arrival in London | 
+0	| a long journey | 
+0	| the far East End | the East End | 
+0	| street off Bow Road which she had occasion | 
+0	| Bow Road which she had occasion | 
+0	| last the conductor bade her descend , and gave her a brief direction The thoroughfare she sought was poor but not squalid | 
+0	| the conductor | 
+0	| her descend | her | she | she | she | 
+0	| a brief direction | 
+0	| The thoroughfare she sought was poor but not squalid | 
+0	| the house of which she had the number in mind | its | 
+0	| the number in mind | 
+0	| its neighbours | 
+0	| Miss Vine | 
+0	| Shall I | her | her | 
+0	| you | 
+0	| you | 
+0	| it | 
+0	| Second | 
+0	| floor front | 
+0	| you | 
+0	| the door | It | it | her door | It | her door | 
+0	| the hum of a sewing-machine | 
+0	| a sewing-machine | 
+0	| her heart sink | 
+0	| The machine | 
+1	| Emma | her | She | she | her | her | Emma | her | Emma | Emma 's | her | Emma 's | Emma | Emma | Emma | She | her | Emma | Emma | her | her | she | she | 
+0	| work , one of her sister 's children sitting by her , writing on a slate | 
+0	| one of her sister 's children sitting by her , writing on a slate | 
+0	| a slate | 
+0	| the appearance of the landlady | 
+0	| the landlady | 
+0	| her hands | her hands | his hands | hands | 
+0	| an expression of pain | 
+0	| her features | 
+0	| her forehead | her forehead | 
+0	| a few words | 
+0	| a chair | her chair | 
+0	| the other in which the sisters had lived | 
+0	| the sisters | you find | 
+0	| a brighter outlook | 
+0	| the two beds and the table covered with work | 
+0	| the two beds | 
+0	| the table covered with work | 
+0	| We | 
+0	| a good deal of work | it | 
+0	| serenity which comes of duties | 
+0	| a life | 
+0	| More than that | it | it | 
+0	| Emma 's existence | 
+0	| such | 
+0	| her own effort | 
+0	| the evening when she first met her in the room where Mutimer lay dead | the evening | 
+0	| Emma 's character | 
+0	| one of her strongest desires to lighten the burden of this so sorely tried woman | this one | 
+0	| the burden of this so sorely tried woman | 
+0	| this so sorely tried woman | 
+0	| counsel with Stella , Stella | 
+0	| much vain | it | it | 
+0	| an opportunity of work | 
+0	| this part of the East End | 
+0	| the over-swarmed neighbourhood in which she was living | 
+0	| the advice | 
+0	| Kate | her | 
+0	| hopes | 
+0	| her evil companions | 
+0	| its effect | 
+0	| Mrs. Clay | she | her | She | 
+0	| more attention | 
+0	| the eldest | He | his | He | he | him | 
+0	| the hospital | 
+0	| a question of Adela 's | Her question | it | That | It | 
+0	| the matter with his eyes | 
+0	| we | 
+0	| They | them | 
+0	| neither of them strong | 
+0	| you | 
+0	| your health | 
+0	| your | 
+0	| you | 
+0	| long as | 
+0	| plenty of work | 
+0	| a friend in London | 
+0	| a pause | 
+0	| you | 
+0	| you | 
+0	| the same house | 
+0	| we | we | we | 
+0	| you | 
+0	| coming | 
+0	| constraint between them | 
+0	| them | 
+0	| you | 
+0	| you | 
+0	| you | 
+0	| the address of my mother 's house | 
+0	| my mother 's house | 
+0	| you | 
+0	| a look which recalled to her something she had seen in those eyes before | 
+0	| you | 
+0	| we | 
+0	| a heart not altogether sad | it | it | It | 
+0	| the source of tears | 
+0	| tears | 
+0	| certain days | 
+0	| visitors ' hours | 
+0	| visitors ' | 
+0	| four | 
+0	| one of them | 
+0	| half-past four | 
+0	| the servant | 
+0	| the drawing-room | the drawing-room | the drawing-room | 
+0	| the mention of the name | 
+0	| you | 
+0	| you | 
+0	| Do | She | she | 
+0	| much | 
+0	| meeting Stella 's look | 
+0	| meeting Stella 's | 
+0	| the exquisitely furnished little boudoir , which was now always called _ her _ room | 
+0	| the exquisitely furnished little boudoir | 
+0	| _ her _ room | 
+0	| her _ room | her room | 
+0	| the resolve | 
+0	| the subjects she had in mind | 
+0	| her strength of | 
+0	| unequal | 
+0	| the task | 
+0	| a word or two | 
+0	| a word | 
+0	| her pen | 
+0	| A minute or two | 
+0	| A minute | 
+0	| a thought which concerned herself | 
+0	| her being | 
+0	| the impulse of a passionate desire | 
+0	| a passionate desire | your desire | 
+0	| such a rebellion of her life | 
+0	| her ears | 
+0	| the word ` Free | 
+0	| Free | 
+0	| the man whom she loved with the love of years , with the first love of maidenhood and the confirmed love of maturity | he | he but | he | his | him | him | 
+0	| the love of years , with the first love of maidenhood and the confirmed love of maturity | it | 
+0	| years , with the first love of maidenhood and the confirmed love of maturity | 
+0	| the first love of maidenhood and the confirmed love of maturity | 
+0	| the first love of maidenhood | 
+0	| the confirmed love of maturity | 
+0	| a few yards | 
+0	| why | 
+0	| some struggling artist , scarce able to support the woman of his choice , how would she have stood before him and let him read the tenderness on her face ! | 
+0	| some struggling artist | 
+0	| the woman of his choice , how would she have stood before him and let him read the tenderness on her face | She | her | her | she | she | She | her | her | 
+0	| his choice , how would she have stood before him and let him read the tenderness on her face | 
+0	| his choice | 
+0	| the tenderness | 
+0	| Hubert 's wealth | 
+0	| difficulty suppressing a cry | 
+0	| a cry | 
+0	| you | 
+0	| her friend 's hand | it | 
+0	| purely a matter of business he wishes to speak of | 
+0	| Stella with a pained voice | 
+0	| a pained voice | his voice | His voice | it | 
+0	| anguish of shame | 
+0	| an arm | 
+0	| an instant pride | 
+0	| Adela freed herself , now deadly pale | 
+0	| Adela freed herself | She | she | she | 
+0	| mechanically the conventional words when she found that somehow she was in his presence | His words | 
+0	| his | 
+0	| you | 
+0	| England | England , perhaps for some few years | England | England | England | it | 
+0	| you | 
+0	| you | 
+0	| my business | 
+0	| word of mouth | 
+0	| you | 
+0	| He | his | him | his | He | his | his | 
+0	| she | She | herself | She | her | 
+0	| a note in his voice that meant more than courtesy | 
+0	| more than courtesy | 
+0	| a place | 
+0	| an ottoman | 
+0	| the legacy which is due to you under Mr. Mutimer 's will | 
+0	| you | 
+0	| Mr. Mutimer 's will | 
+0	| You | 
+0	| my power to make over to you the capital sum which produces the annuity , if there should be reason for doing so | 
+0	| you | 
+0	| the capital sum which produces the annuity , if there should be reason for doing so | 
+0	| the annuity | 
+0	| reason for doing so | 
+0	| some few years | 
+0	| some friends of mine on a twenty years ' lease | 
+0	| mine on a twenty years ' lease | 
+0	| a twenty years ' lease | 
+0	| a twenty years ' | 
+0	| the money | It | the money , some Socialist scheme , something perhaps to preserve the memory of her husband | the money | 
+0	| you | 
+0	| you | that | 
+0	| His | His | he | his | He | he | he | 
+0	| her | her | She | she | she | her | She | her | her | She | her | she | her | 
+0	| the ring of metal , of hard cash counted down | 
+0	| them | 
+0	| someone abroad , someone who would not care to live | 
+0	| someone abroad | 
+0	| someone who would not care to live | 
+0	| an English country house | this house | 
+0	| the Manor for so long a period | 
+0	| so long a period | 
+0	| that other foreign woman | 
+0	| Cold as ice ; not a spark of love in all her being . | 
+0	| love in all her being | then love | my love | my love | 
+0	| you | 
+0	| you | 
+0	| a project for the use of the money , some Socialist scheme , something perhaps to preserve the memory of her husband | 
+0	| the use of the money , some Socialist scheme , something perhaps to preserve the memory of her husband | 
+0	| some Socialist scheme , something perhaps to preserve the memory of her husband | 
+0	| some Socialist scheme | 
+0	| something perhaps to preserve the memory of her husband | 
+0	| the memory of her husband | 
+0	| a deed prepared at once | 
+0	| you | 
+0	| his refusal of her request that day | 
+0	| her request that day | 
+0	| They | 
+0	| hands , Adela saying : ` You are still busy with art | 
+0	| Adela saying : ` You are still busy with art | 
+0	| You | 
+0	| my dilettante way | 
+0	| the hour of dinner | 
+0	| the meal | 
+0	| her ordinary self | 
+0	| an article about to appear in the ` Beacon ' | it | 
+0	| the ` Beacon ' | 
+0	| a clear mind | 
+0	| the course of the evening | 
+0	| friends of the arrangement between Mr. Eldon and herself | 
+0	| the arrangement between Mr. Eldon and herself | 
+0	| Mr. Eldon and herself | 
+0	| Two days later | these days | 
+0	| the solicitor 's office to sign the deed of release | 
+0	| the solicitor 's | 
+0	| the deed of release | the deed | 
+0	| the same evening | 
+0	| Stella 's company | 
+0	| her part | It | 
+0	| sickness of the soul | 
+0	| the soul | Her soul | its | 
+0	| the Continent | 
+0	| someone he loved | 
+0	| her own pride , her own power of dissimulation | 
+0	| her own pride | her own power of dissimulation | it | 
+0	| no argument of hope | 
+0	| The annual payment of money | a link between him and her | 
+0	| him and her | 
+0	| the cold sweat | 
+0	| himself generous or capable of the virtues that subdue | 
+0	| the virtues | 
+0	| her heart as to the significance of the | his heart | 
+0	| the marriage service | 
+0	| those struggles | 
+0	| no analysis | it | 
+0	| the power of thought | 
+0	| her and all its needs | 
+0	| its needs | 
+0	| no refuge in ascetic resolve | 
+0	| the self-deceit of spiritual enthusiasm | She | herself | she , when a-hungered , look on food , and bid her hunger be appeased by the act of sight ? | she | she | her | She | she | herself | 
+0	| You | him ; then love | 
+0	| a-hungered , look on food , and bid her hunger | 
+0	| a-hungered | her | 
+0	| her hunger | 
+0	| the act of sight | 
+0	| an anguish | 
+0	| no friend whose comfort could be other than torment and bitter vanity | She | her | her | She | her | her | her | she | She | her | she | she | she | 
+0	| torment and bitter vanity | 
+0	| hers only time and weariness | 
+0	| only time and weariness | 
+0	| the firm purpose of taking leave of Stella when a servant came to her door , announcing that Mr. Eldon desired to see her | 
+0	| leave of Stella when a servant came to her door , announcing that Mr. Eldon desired to see her | 
+0	| a servant | 
+0	| the servant to repeat the name | 
+0	| some error | 
+0	| some oversight in the legal business | 
+0	| the legal business | 
+0	| Careless of what her countenance | 
+0	| him | he | he | he | He | he | 
+0	| you | 
+0	| you | 
+0	| last night | 
+0	| you | 
+0	| you | 
+0	| She | she | Her | her | 
+0	| a thought for dignity | the thought | 
+0	| you | 
+0	| a hope to support my life | 
+0	| You | 
+0	| You | 
+0	| you | 
+0	| you | 
+0	| a moment of boyish madness | 
+0	| the hope of winning you | it | 
+0	| you | 
+0	| your | 
+0	| you | 
+0	| one | 
+0	| you | 
+0	| the one woman whom he supremely reverences , as I love you , and , I believe , shall always love you | 
+0	| you | 
+0	| you | 
+0	| this | 
+0	| you | 
+0	| the words | the words that passed her lips | the words that come to my tongue | 
+0	| Adela 's bosom | 
+0	| excess of joy | 
+0	| her power to deal lightly with the gift that was offered her | 
+0	| the gift that was offered her | 

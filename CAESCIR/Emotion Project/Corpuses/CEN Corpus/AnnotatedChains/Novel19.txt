@@ -1,0 +1,434 @@
+1	| John | John | himself | John , who though he had heard all that had been said | John | he | John | John | He | his | John | John | John | John | John 's | he | himself | he | he | he in his turn | his | his | him | John | John | John 's | John | 
+0	| their best | 
+1	| Mr. Ambrose | he | Mr. Ambrose coming towards him | Mr. | Mr. Ambrose | Ambrose | Mr. Ambrose , making a vain attempt to stop the course of events | Mr. Ambrose | Ambrose | Mr. Ambrose | Ambrose | his | he | himself | Ambrose | Mr. Ambrose | Mr. | the Reverend Augustin Ambrose | Ambrose | the Reverend Augustin Ambrose | He | his | 
+0	| the detective | the detective | The detective | him | the detective | the detective | I | I | the detective | the detective , who drew back , making some angry retort which no one heard | the detective | the detective , who had been frightened into submission by the physician 's last threat | the detective | The detective | his | he | 
+0	| the mother and the child | 
+0	| the study | 
+0	| the child | 
+0	| the man | the man | him | he | this man | No , sir , I | this man | him | him | him | him | him | the man | him | he | he | the man | he | the man | 
+0	| harm and undeserved suffering | 
+0	| Mr. Booley | he | he | him | Mr. Booley , who had pushed past Mr. Ambrose and stood confronting the doctor with a look which was intended to express a combination of sarcasm , superior cunning and authority | Mr. Booley | Booley | Mr. Booley | Booley | me | he | Mr. Booley | Booley | Mr. Booley | I | my | I | I | Mr. Booley | Booley | Mr. Booley | his | his | he | Mr. Booley | Booley | Mr. Booley | he | he | he | he | his | I | me | he | I | You | I | Booley angrily | I | I | I | I | I | me | you | you | Booley | 
+0	| the doctor | him | Doctor | the doctor | the doctor | 
+0	| each other 's faces | 
+0	| the squire | the squire | you | the squire | the squire coldly | the squire | you | my | I | the squire | I | I | my | The squire | the squire 's | The squire | his | his | the squire | his | the squire | He | him | I | I | 
+0	| each other 's | 
+0	| a few moments | a few moments | 
+0	| the library | 
+0	| matters | 
+1	| Juxon | Mr. Juxon , sir | Mr. Juxon | Juxon | me | Mr. Juxon | Juxon | his | Charles Juxon | his | he | he | his | his | His | his | his | Mr. Juxon 's | Mr. Juxon 's | Mr. Juxon | Charles Juxon , who was watching her | Charles Juxon | his | he | Juxon | he | his | his | he | Juxon hurriedly as he went on his way | Squire Juxon | Charles Juxon | his | Charles James Juxon | his | his | his | he | Mr. Juxon | You | you | Charles Juxon | his | Mary Juxon | My dear Mrs. Juxon | Juxon | she | your daughter as well as his | Juxon | Mary Juxon | Mary Juxon | her daughter -- Mary Juxon , by whom she had stood in the moment of direst trial and terror , whom she had tended in illness | Mary Juxon , by whom she had stood in the moment of direst trial and terror , whom she had tended in illness | Mary Juxon | Mary Juxon | 
+0	| the door | the door | the door | the door | it | that | the door | the door | the door | 
+0	| a bond between them which could never be broken | 
+0	| Mrs. Ambrose 's face | 
+0	| the same moment | this moment | that moment | 
+0	| Mr. Juxon and Doctor Longstreet | 
+0	| the opposite end of the long room | the end | the end | it | 
+0	| the long room | the room | the room | that room | it | the room | the room | the room | 
+0	| The cheerful and active physician | 
+0	| the happiest of women ; happy in her husband , in her eldest daughter , in John Short and in the little children with bright faces and ringing voices who nestle at her knee or climb over the sturdy sailor-squire , and pull his great beard and make him laugh | 
+0	| a rather excited tone | 
+0	| `` My dear sir , '' | 
+0	| My dear sir | 
+0	| My | dear sir | he | I | I | I | my | 
+0	| her eldest daughter | 
+0	| the little children with bright faces and ringing voices who nestle at her knee or climb over the sturdy sailor-squire , and pull his great beard and make him laugh | 
+0	| the little children with bright faces | 
+0	| bright faces | 
+0	| ringing voices who nestle at her knee or climb over the sturdy sailor-squire , and pull his great beard and make him laugh | 
+0	| her knee or climb over the sturdy sailor-squire | 
+0	| six | six | 
+0	| Things | 
+0	| the sturdy sailor-squire | his | him | 
+0	| six or seven hours | 
+0	| his great beard | 
+0	| seven hours | 
+0	| the world | the world | 
+0	| my reputation | your reputation , your success , with the whole world at your feet | your reputation | your success , with the whole world at your feet | your success | it | 
+0	| a practitioner -- Hulloa | 
+0	| them and strokes | 
+0	| The exclamation | 
+0	| their long fair hair | 
+0	| their laughter | 
+0	| a look which was intended to express a combination of sarcasm , superior cunning and authority | 
+0	| a combination of sarcasm , superior cunning and authority | 
+0	| the depths of shame | 
+0	| sarcasm , superior cunning and authority | 
+0	| the sake of at last enjoying such pride and glory of happy motherhood | 
+0	| superior cunning | 
+0	| This | it | 
+0	| Doctor Longstreet | he | I | Doctor Longstreet | I | me | Doctor Longstreet | Doctor Longstreet | Doctor Longstreet | you | Doctor Longstreet , who was fifteen or twenty years older than the detective but still strong and active | Doctor Longstreet | Longstreet | his | him | my | I | he | Doctor Longstreet | Doctor Longstreet | his | he | him | he | Doctor Longstreet | 
+0	| I | the latter somewhat roughly | I | I | I | I | I | that | 
+0	| you | 
+0	| once | 
+0	| first | It | first | it | a matter of the least consequence | the matter | first | first | first | 
+0	| you | you | you | you | 
+0	| judge of that | 
+0	| more haste than logic | 
+0	| the face | 
+0	| past | 
+0	| John Short | John Short who was as white and speechless as the rest | Mr. Short , sir | Mr. Short | Short | his | He | he | his | Mr. Short | Short | John Short , Fellow of Trinity College , Cambridge | John Short | John Short | his | he | his | him | his | he | he | he | he | his | His | John stoutly | John | My | John Short | I | I | I | myself | John , as well as great | John | his | John | John Short | 
+0	| upstairs to warn Mrs. Ambrose of what was happening | 
+0	| Mrs. Ambrose of what was happening | Mrs. Ambrose | her | her | Mrs. Ambrose 's | her | her | Mrs. Ambrose | Mrs. Ambrose | her | her | Mrs. Ambrose 's | her | her | her | her | 
+0	| a vain attempt | 
+0	| the course of events | 
+0	| events | events which occurred at so remote a date | 
+0	| this | this | me | 
+0	| `` Unwarrantable , indeed | 
+0	| Unwarrantable | indeed | 
+0	| the warrant in my pocket | 
+0	| my pocket | his pocket | 
+0	| his square and sturdy form | 
+0	| the door and the detective | 
+0	| You | you | 
+0	| others | 
+0	| the greater part of his life | 
+0	| his life | 
+0	| the most unobtrusive and gentle of men | 
+0	| men | 
+0	| his voice | 
+0	| a tone of authority | your tone | 
+0	| his words | 
+0	| His blue eyes | his blue eyes | her eyes | her eyes | her eyes | 
+0	| something imposing in his square head -- even in the unruffled smoothness of his brown hair | 
+0	| his square head -- even in the unruffled smoothness of his brown hair | his head | 
+0	| the unruffled smoothness | 
+0	| his brown hair | his hair | 
+0	| his hands | his hands | 
+0	| his pockets | 
+0	| You | you | you | you | 
+0	| us | 
+0	| the door of the room | It | That | it | 
+0	| the patient | 
+0	| he chances | 
+0	| a lucid interval | 
+0	| his long upper lip and glaring | we | 
+0	| Mr. Booley as though he had said it all himself | 
+0	| Absolutely reasonable | it | 
+0	| you | you | he | 
+0	| This way if you please | his way | 
+0	| the way upstairs | 
+0	| Mr. Booley , the physician and the vicar | they | 
+0	| the physician | the physician | the physician 's | the physician , gravely , but looking hard at the unhappy woman | the physician , gravely | the physician | he | his | 
+0	| the vicar | the vicar | the vicar , who was nearest to him | the vicar | him | I | he | he | him | he | he | he | him | he | him | 
+0	| the discussion | 
+0	| check for a few moments | it | 
+0	| Mr. Juxon 's determined manner | 
+0	| a fresh assertion of his rights | 
+0	| his rights | 
+0	| my word | it | it | 
+0	| a difference | 
+0	| you | 
+0	| we | 
+0	| your tone , sir | 
+0	| your | you | you I will , sir | 
+0	| fifteen | 
+0	| fifteen or twenty years | 
+0	| his arm | 
+0	| my permission | 
+0	| an action brought against you for manslaughter | 
+0	| a loud voice | 
+0	| justice of the peace | 
+0	| the peace | 
+0	| my own house | 
+0	| your position | 
+0	| your | you | 
+0	| Mr. Juxon 's authoritative tone | 
+0	| some angry retort which no one heard | 
+0	| no one | 
+0	| the altercation | 
+0	| the issue | 
+0	| the squire 's voice | her voice | her voice | it | 
+0	| Mrs. Ambrose and Mary Goddard | they | Mary | Mary | they | Mary Goddard | Goddard 's | We | him to consciousness for a moment -- '' | Mary Goddard | he | He | Goddard 's | Mary | He | Mary Goddard | Goddard 's | Goddard 's | Mary Goddard | Mary | Mary 's | Mary Goddard 's | its | round Mary Goddard , as they called her then , and round poor little Nellie | round Mary Goddard , as they called her then | round Mary Goddard | Mary Goddard | 
+0	| each side of the sick man | his side | 
+0	| the sick man | 
+0	| Mrs. | He | his | he | me | I | I | 
+0	| the noises | 
+0	| some impression | 
+0	| his brain | 
+0	| he | him | he | 
+0	| now -- I shall just catch him as he goes by -- | now | 
+0	| dog -- | 
+0	| oh | 
+0	| a wild shriek | 
+0	| the wretched man | his | his | his | he | his | his | he | 
+0	| his knees , his eyes starting out , his face transfigured with horror | 
+0	| his knees | his eyes starting out , his face transfigured with horror | his eyes starting out | 
+0	| his face transfigured with horror | 
+0	| one | 
+0	| two | two , '' grumbling at the parish depth as of yore | two | two | 
+0	| one instant | 
+0	| the two terror-struck women | women | women | They | their | them | their | their | 
+0	| a groan | 
+0	| his breast | 
+0	| the pillows , breathing | 
+0	| the pillows | 
+0	| her husband , her hands gripping the disordered coverlet convulsively | her husband | her husband | his | her husband | 
+0	| her hands gripping the disordered coverlet convulsively | 
+0	| the disordered coverlet convulsively | the | the | 
+0	| the physician 's last threat | 
+0	| the greatest agitation | 
+0	| his lips | her lips | 
+0	| the foot of the bed | 
+0	| the bed | the bed | 
+0	| Goddard 's face | 
+0	| a pause | 
+0	| a moment | 
+0	| some one | That | 
+0	| her | she | 
+0	| broken tones , `` unless he can live | 
+0	| broken tones | 
+0	| the unhappy woman | 
+0	| Goddard 's staring eyes | 
+0	| three | It | 
+0	| and three times | 
+0	| then | her | she | her | she | Her | she | her | her | her | You | 
+0	| one | 
+0	| one | 
+0	| his dead face | 
+0	| one instant | 
+0	| a faint smile | 
+0	| one hand | 
+0	| her forehead | 
+0	| Her limbs | 
+0	| his arms | his arms | 
+0	| the rest | 
+0	| Booley and Mr. Ambrose in the passage | 
+0	| the passage | 
+0	| his burden in his arms | 
+0	| Holmes the butler | Holmes | 
+0	| A few steps | 
+0	| the butler , who carried a telegram on a salver | the butler 's | 
+0	| a telegram | 
+0	| a salver | 
+0	| the impassive servant , not appearing to notice anything strange in the fact that his master was carrying the inanimate body of Mary Goddard | 
+0	| the impassive servant | 
+0	| the fact | 
+0	| his master | 
+0	| the inanimate body of Mary Goddard | 
+0	| there -- go in | 
+0	| The detective and the vicar | 
+0	| the dead | 
+0	| his pale face | his face | her face | 
+0	| `` A telegram for Mr. Short , '' | 
+0	| A telegram for Mr. Short | 
+0	| the despatch | it | it | 
+0	| the butler 's hands | 
+0	| the contents | 
+0	| one | it , John | it | 
+0	| nearest to him | 
+0	| `` Oh -- nothing . | 
+0	| Tripos | 
+0	| the Tripos , that is all , '' answered John very simply , as though it were not a matter of the least consequence | 
+0	| the Tripos | 
+0	| the least consequence | 
+0	| privation and anxiety | 
+0	| days of weariness and nights of study | 
+0	| days of weariness | days | 
+0	| nights of study | 
+0	| the triumph | 
+0	| little | It | It | 
+0	| the news of victory | 
+0	| such a moment | 
+0	| the group of pale and awe-struck spectators | 
+0	| the dead man 's bed | 
+0	| the dead man 's | 
+0	| the greatest thing which had ever happened to him | 
+0	| the tragedy of which he had witnessed the last act | 
+0	| the last act | 
+0	| the law | the law | 
+0	| the very moment when the hand of the law was upon him | 
+0	| the hand of the law | 
+0	| Thomas Reid | the conservative sexton | him | his | 
+0	| Thomas Reid , the conservative sexton | 
+0	| four by six | it | 
+0	| the parish depth | 
+0	| a simple stone cross | 
+0	| his nameless grave | 
+0	| Billingsfield | Billingsfield | Billingsfield Hall | Billingsfield | 
+0	| Essex | 
+0	| this day in the churchyard of Billingsfield , Essex | 
+0	| the churchyard of Billingsfield , Essex | 
+0	| Billingsfield , Essex | 
+0	| the shadow of the ancient abbey | 
+0	| the ancient abbey | 
+0	| Gall | he | 
+0	| a long time ago | it | nearly ten years since Mr. Reid buried the poor tramp | It | it | the only incident of any interest which ever occurred in Billingsfield | it | its | it | It | time | time | it | that | ten years | It | it | 
+0	| Billingsfield reckoning | 
+0	| the story of the tramp who attacked Squire Juxon and was pulled down by the bloodhound | the story | 
+0	| the tramp who attacked Squire Juxon and was pulled down by the bloodhound | the tramp | he | his | he | his | 
+0	| the bloodhound | 
+0	| the villagers | 
+0	| Mr. Gall , being once in good cheer | Mr. Gall | Mr. Gall 's | 
+0	| the singular reticence he has always shown in the matter | 
+0	| the prosperity which has attended his constabulary career | his prosperity | 
+0	| his constabulary career | 
+0	| a life interest in keeping his counsel | 
+0	| his counsel | 
+0	| Mr. Reid buried the poor tramp | 
+0	| the poor tramp | 
+0	| Mr. Gall 's memory | 
+0	| so remote a date | 
+0	| a date | 
+0	| an incident , though it was perhaps the only incident of any interest which ever occurred in Billingsfield ; but until it reached its termination it agitated the lives of the quiet people at the vicarage , at the cottage and at the Hall as violently as human nature can be moved | 
+0	| an incident | 
+0	| its termination | 
+0	| the lives of the quiet people | their lives | 
+0	| the quiet people | 
+0	| the vicarage | 
+0	| the cottage | 
+0	| the Hall | 
+0	| those who had witnessed the scene of Goddard 's death | he | 
+0	| the scene of Goddard 's death | 
+0	| Goddard 's death | his death | 
+0	| the impression of those awful last moments | 
+0	| those awful last moments | 
+0	| the course of not many months | 
+0	| Goddard 's memory | 
+0	| only a great sense of relief that he was no longer alive | 
+0	| relief that he was no longer alive | 
+0	| a long time ; and but for Mrs. Ambrose 's tender care of her | 
+0	| Mrs. Ambrose 's tender | 
+0	| care of her | 
+0	| a few weeks of his death | 
+0	| the good lady | her | she | herself | herself | her | her | she | her | his wife | She | she | her | she | her | her | his wife | 
+0	| her deep wounds | 
+0	| her sorrows | 
+0	| a second youth | 
+0	| two years Charles Juxon once more asked her to be his wife | years | years | 
+0	| half an hour | 
+0	| her small hand | her hand | 
+0	| God | God | 
+0	| a man so generous and true , and whom she so honestly loved | 
+0	| a man so generous and true | whom she so honestly loved | 
+0	| her husband as well as her friend and protector | 
+0	| her friend and protector | 
+0	| his other hand | his hand | 
+0	| a little | 
+0	| you | that | them | 
+0	| Eleanor Goddard | Eleanor Goddard | 
+0	| Trinity College | 
+0	| Cambridge | 
+0	| the church of Saint Mary 's | 
+0	| Saint Mary 's | Saint Mary 's | 
+0	| Christmas and New Year 's Day | day | day | 
+0	| Christmas and New Year 's | 
+0	| the wedding-party | 
+0	| Mrs. Ambrose and Eleanor Goddard and John Short , Fellow of Trinity College , Cambridge | 
+0	| Mrs. Ambrose and Eleanor Goddard | 
+0	| Fellow of Trinity College , Cambridge | 
+0	| Trinity College , Cambridge | 
+0	| Christmas | 
+0	| New | 
+0	| Year | year | 
+1	| Nellie | Nellie | she | her | her | Nellie | her | Nellie | poor little Nellie | Nellie | Nellie | she | she | herself | 
+0	| both brothers and sisters | their | brothers and sisters , and that | brothers and sisters | that | 
+0	| their father | 
+0	| her own | 
+0	| men in Billingsfield Hall | 
+0	| Walter 's | 
+0	| Mary Goddard 's youth | 
+0	| the daffodils and the roses of the first spring | 
+0	| the daffodils | 
+0	| the roses of the first spring | 
+0	| the first spring | 
+0	| Walter 's death | 
+0	| John 's fleeting passion | 
+0	| its place | 
+0	| sixteen | 
+0	| one | 
+0	| a breath of the country air | 
+0	| the country air | 
+0	| the little girl | her | she | her | she | 
+0	| the young maiden of sixteen | 
+0	| her beauty | 
+0	| the fulness of womanhood | 
+0	| last , when she was one and twenty years of age | 
+0	| last | 
+0	| one and twenty years of age | 
+0	| age | 
+0	| his turn | 
+0	| better or worse , but to all appearances | 
+0	| better | 
+0	| his first great success | 
+0	| his old simplicity | the cause of much of his prosperity | it | it | 
+0	| much of his prosperity | 
+0	| plenty of brains | 
+0	| brains | 
+0	| so very simple that when he found that he loved Eleanor Goddard he did not hesitate to ask the convict 's daughter to be his wife | 
+0	| 's | 
+0	| His interview with Mr. Juxon | 
+0	| what you are doing , John | 
+0	| the scholar | I | my | me | You | You | you | 
+0	| my betters | 
+0	| it | it | 
+0	| her mother | herself | she | the mother | their mother | 
+0	| her | 
+0	| You | She | she | 
+0	| Well , all good go with you | 
+0	| Well | 
+0	| you | her | she | her | she | I | `` You | your | your | your | you | 
+0	| his consent | 
+0	| the first time in many years | it | 
+0	| many years | 
+0	| the tears | tears | the tears | 
+0	| John 's arm | 
+0	| they | 
+0	| the park | 
+0	| you | you | yourself | 
+0	| the whole world | 
+0	| your feet | 
+0	| the daughter of -- of such a man | 
+0	| such a man | his | 
+0	| your | you | 
+0	| Dear Mrs. Juxon -- do say Yes | she | I | I | I | I | she | her | you | you | her | 
+0	| You | You | you | you | you | you | I | me | 
+0	| great | 
+0	| two loving hearts | 
+0	| the altar of Saint Mary 's | 
+0	| his hair and beard | 
+0	| more imposing with each succeeding season | 
+0	| each succeeding season | 
+0	| the sorrow and suffering of a few | 
+0	| a few | 
+0	| the hearts of all those good people | 
+0	| strong bands | them | They | them | 
+0	| a deep affection | 
+0	| The good old lady | her | she | she | 
+0	| the moment of direst trial and terror , whom she had tended in illness | 
+0	| the younger woman 's heart | 
+0	| the younger woman 's | her | her | she | her | 
+0	| a thing | it | 
+0	| a friend in need | 
+0	| value in her happiness | 
+0	| her happiness | 
+0	| the wealth of human kindness | 
+0	| her adversity | 
+0	| one | 
+0	| one family | 
+0	| a common past , a common present , and a common future | 
+0	| a common past | 
+0	| a common present | 
+0	| a common future | the future | 
+0	| no dissension among them | 
+0	| Honest and loyal men and women | 
+0	| Honest and loyal men | they | them | they | their | 
+0	| hands and exchange greetings | 
+0	| firm friends | 
+0	| the very reason that they have no need of each other | 
+0	| no need of each other | 
+0	| each other | 
+0	| the storm of a great sorrow breaks among them and they | 
+0	| a great sorrow breaks among them and they | 
+0	| them and they | 
+0	| each other for help | 
+0	| the brunt of the weather hand | 
+0	| the weather hand | 
+0	| the seed of a deeper affection | 
+0	| a deeper affection | 
+0	| their midst | 
+0	| the tempest | 
+0	| the sweet flower of friendship springs | 
+0	| friendship springs | her | 
+0	| the moistened | their | 
+0	| those good people in the lonely parish of Billingsfield | they | their | they | they | they | them | 
+0	| the lonely parish of Billingsfield | it | it | it | 
+0	| round poor little Nellie | 
