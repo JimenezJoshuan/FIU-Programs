@@ -1,0 +1,45 @@
+----------------------------------------------------------------------------
+Remove from NRC 
+----------------------------------------------------------------------------
+
+mother
+mamma
+brother
+aunt
+sister
+bank
+daughter
+son
+priest 
+sisterhood: surprise trust anger sadness
+spite: anger
+catechism :disgust
+church :anticipation joy trust
+really :trust
+gently :disgust anger fear
+boy :disgust
+tree :anticipation joy disgust surprise trust anger
+word: trust
+sir
+mistress : disgust anger
+hut : sadness
+mountain:  anticipation
+cross : anger fear sadness
+stone : anger
+ship : anticipation
+case : fear sadness
+present : anticipation joy surprise trust
+continue:  anticipation trust 
+black
+hospital : trust fear sadness
+account trust
+lord disgust trust
+parliament trust
+pirate anger
+doctor trust
+board anticipation
+gentleman trust
+mate trust
+vote anticipation joy surprise trust anger sadness
+fill trust
+important trust

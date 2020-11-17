@@ -1,0 +1,14 @@
+Important:
+1. The emotion span contain emotion(s) and negation. Extract emotion and then apply the negation. 
+Ex:  never know youth and gladness 
+
+2. Has a combination of 2 emotions. Add all emotions for both of them
+Ex: perfect love 
+- Emotions in perfect & love
+Ex: grow in confidence 
+- Emotions in grow & confidence 
+
+3: Opposite emotions are deleted 
+Ex: grow weary 
+- Grow joy 
+- Weary sadness 
