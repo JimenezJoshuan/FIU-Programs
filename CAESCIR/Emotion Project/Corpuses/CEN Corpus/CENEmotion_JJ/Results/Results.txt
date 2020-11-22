@@ -715,3 +715,99 @@ fear F1             	1.00000
 po                  	0.97917
 _______________________________
 *******************************
+
+Measures for emotion spans of Novel cleaned Novel24: 
+_______________________________
+fn                  	21
+fp                  	1
+f1                  	0.87613
+tp                  	78
+_______________________________
+Measures for characters of Novel cleaned Novel24: 
+_______________________________
+fn                  	21
+fp                  	1
+f1                  	0.87778
+tp                  	79
+_______________________________
+Measures for emotion labels of Novel cleaned Novel24: 
+_______________________________
+anger F1            	1.00000
+surprise F1         	0.86667
+joy F1              	0.98901
+micro-F1            	0.92614
+macro-F1            	0.93091
+trust F1            	0.93506
+sadness F1          	0.96000
+anticipation F1     	0.88571
+pe                  	0.88688
+disgust F1          	1.00000
+kappa               	0.63633
+fear F1             	0.81081
+po                  	0.95886
+_______________________________
+*******************************
+
+Measures for emotion spans of Novel cleaned Novel25: 
+_______________________________
+fn                  	33
+fp                  	2
+f1                  	0.71327
+tp                  	44
+_______________________________
+Measures for characters of Novel cleaned Novel25: 
+_______________________________
+fn                  	31
+fp                  	0
+f1                  	0.74590
+tp                  	46
+_______________________________
+Measures for emotion labels of Novel cleaned Novel25: 
+_______________________________
+anger F1            	0.94737
+surprise F1         	0.90909
+joy F1              	1.00000
+micro-F1            	0.93194
+macro-F1            	0.93722
+trust F1            	0.89474
+sadness F1          	0.93333
+anticipation F1     	0.89655
+pe                  	0.60444
+disgust F1          	1.00000
+kappa               	0.90871
+fear F1             	0.91667
+po                  	0.96389
+_______________________________
+*******************************
+
+Measures for emotion spans of Novel cleaned Novel26: 
+_______________________________
+fn                  	54
+fp                  	4
+f1                  	0.72903
+tp                  	78
+_______________________________
+Measures for characters of Novel cleaned Novel26: 
+_______________________________
+fn                  	53
+fp                  	3
+f1                  	0.74074
+tp                  	80
+_______________________________
+Measures for emotion labels of Novel cleaned Novel26: 
+_______________________________
+anger F1            	0.85714
+surprise F1         	0.87500
+joy F1              	0.98413
+micro-F1            	0.92810
+macro-F1            	0.92113
+trust F1            	0.89655
+sadness F1          	1.00000
+anticipation F1     	0.90566
+pe                  	0.55712
+disgust F1          	0.94737
+kappa               	0.92140
+fear F1             	0.90323
+po                  	0.96519
+_______________________________
+*******************************
